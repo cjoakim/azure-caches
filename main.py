@@ -221,13 +221,13 @@ def container_link(dbname, cname):
     return 'dbs/{}/colls/{}'.format(dbname, cname)
 
 def create_redis_client():
-    host = os.environ['AZURE_REDISCACHE_HOST']
-    key  = os.environ['AZURE_REDISCACHE_KEY']
+    host = os.environ['AZURE_REDIS_HOST']
+    key  = os.environ['AZURE_REDIS_KEY']
     return redis.StrictRedis(host=host, port=6380, db=0, password=key, ssl=True)
 
 def create_cosmos_client():
-    uri = os.environ['AZURE_COSMOSDB_SQLDB_URI']
-    key = os.environ['AZURE_COSMOSDB_SQLDB_KEY']
+    uri = os.environ['AZURE_COSMOS_URI']
+    key = os.environ['AZURE_COSMOS_KEY']
     return cosmos_client.CosmosClient(uri, {'masterKey': key})
 
 def get_npm_libs_files_list():
@@ -235,17 +235,24 @@ def get_npm_libs_files_list():
 
 def create_files_list_json():
     files_dict = dict()
+    # created with: l | cut -c53-999 > files-list.txt
     files_list = read_lines('data/npm_libs/files-list.txt')
     for filename in files_list:
         key = filename.strip()
-        content = read_file(key)
+        infile = 'data/npm_libs/{}'.format(key)
+        content = read_file(infile)
         content_size = len(content)
         doc = json.loads(content)
         metadata = dict()
-        metadata['name'] = doc['name']
-        metadata['size'] = len(content)
-        files_dict[key] = metadata
-        print("filename: {} {}".format(key, json.dumps(metadata)))
+        metadata['pk'] = key
+        if 'name' in doc:
+            metadata['name'] = doc['name']
+            metadata['filename'] = infile
+            metadata['size'] = len(content)
+            files_dict[key] = metadata
+            print("filename: {} {}".format(infile, json.dumps(metadata)))
+        else:
+            print('bypassing {}, no name key'.format(key))
     write('data/npm_libs/files-list.json', json.dumps(files_dict, sort_keys=True, indent=4))
 
 def read_lines(infile):
