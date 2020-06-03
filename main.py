@@ -175,14 +175,15 @@ def populate_redis():
 def perf_test_cosmos():
     cosmos_client = create_cosmos_client()
     clink = container_link('dev', 'cache')
-    files_data = read_json('data/npm_libs/files-list.json')
-    files_list = sorted(files_data.keys())
+    keys_data = read_json('data/keys.json')
+    keys_list = sorted(keys_data.keys())
     results = dict()
 
-    for filename in files_list:
-        key = filename.strip()
+    for key in keys_list:
+        key_obj = keys_data[key]
         result = dict()
         result['key'] = key
+        result['key_obj'] = key_obj
         result['error'] = 0
         print("=== reading: {}".format(key))
         try:
@@ -210,19 +211,19 @@ def perf_test_cosmos():
                 result['message'] = 'no data'
         except:
             result['error'] = 1
-            result['message'] = 'exception'
+            result['message'] = 'EXCEPTION'
             traceback.print_exc(file=sys.stdout)
         results[key] = result
     write('data/results/perf_test_cosmos.json', json.dumps(results, sort_keys=True, indent=4))
 
 def perf_test_redis():
     redis_client = create_redis_client()
-    files_data = read_json('data/npm_libs/files-list.json')
-    files_list = sorted(files_data.keys())
+    keys_data = read_json('data/keys.json')
+    keys_list = sorted(keys_data.keys())
     results = dict()
 
-    for filename in files_list:
-        key = filename.strip()
+    for key in keys_list:
+        key_obj = keys_data[key]
         result = dict()
         result['key'] = key
         result['error'] = 0
@@ -261,6 +262,7 @@ def produce_report():
     count, sum_cosmos, sum_redis, sum_size = 0, 0.0, 0.0, 0.0
 
     print('metadata_name,metadata_size,cosmos_name,cosmos_elapsed,cosmos_size,redis_name,redis_elapsed,redis_size')
+    
     for filename in files_list:
         key = filename.strip()
         metadata = files_data[key]
@@ -337,7 +339,7 @@ def create_files_list_json():
 
 def create_keys_file():
     data = dict()
-    
+
     lines = read_lines('data/results/populate_redis_npm.txt')
     for line in lines:
         doc = dict()
