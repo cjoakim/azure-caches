@@ -6,8 +6,6 @@ Example Cache implementations in Azure - Redis, CosmosDB, etc
 
 ### Overview 
 
-![azure-cosmos-db](img/azure-cosmos-db-gray.png)
-
 <p align="center">
   <img src="img/azure-cosmos-db-gray.png">
 </p>
@@ -20,11 +18,15 @@ Example Cache implementations in Azure - Redis, CosmosDB, etc
 
 ### Partition Keys and Logical and Physical Partitions
 
-![resource-partition](img/resource-partition.png)
+<p align="center">
+  <img src="img/resource-partition.png">
+</p>
 
 ### Skewed vs Unskewed Partition Keys
 
-![cosmosdbpartitions](img/cosmosdbpartitions.jpg)
+<p align="center">
+  <img src="img/cosmosdbpartitions.png">
+</p>
 
 ### Indexing
 
