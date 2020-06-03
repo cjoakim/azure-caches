@@ -12,6 +12,10 @@ Example Cache implementations in Azure - Redis, CosmosDB, etc
 
 ![bell-curve](img/bell-curve.jpg)
 
+<p align="center">
+  <img width="460" height="300" src="img/bell-curve.jpg">
+</p>
+
 ### Partition Keys and Logical and Physical Partitions
 
 ![resource-partition](img/resource-partition.png)
