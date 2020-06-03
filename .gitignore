@@ -1,7 +1,13 @@
 # cj
 
+# venv files:
+bin/
+include/
+lib/
+man/
 
 **/tmp/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
