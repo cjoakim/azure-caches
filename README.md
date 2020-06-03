@@ -42,7 +42,7 @@ Example Cache implementations in Azure - Redis, CosmosDB, etc
 ### Skewed vs Unskewed Partition Keys
 
 <p align="center">
-  <img src="img/cosmosdbpartitions.png">
+  <img src="img/cosmosdbpartitions.jpg">
 </p>
 
 ---
@@ -136,6 +136,131 @@ $ python main.py populate_cosmos_zipcodes > data/results/populate_cosmos_zipcode
 $ python main.py populate_redis_npm       > data/results/populate_redis_npm.txt
 $ python main.py populate_redis_zipcodes  > data/results/populate_redis_zipcodes.txt
 ```
+
+Sample North Carolina Zipcode Data (note the GeoJSON location attrubute):
+```
+{
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -80.797854,
+      35.483306
+    ]
+  },
+  "postal_cd": "28036",
+  "country_cd": "US",
+  "city_name": "Davidson",
+  "state_abbrv": "NC",
+  "latitude": 35.483306,
+  "longitude": -80.797854
+}
+```
+
+Sample Node.js NPM Library Data:
+```
+{
+  "name": "m26-js",
+  "description": "A Node.js library for speed and pace calculations for sports like running and cycling. Age-graded times and heart-rate training-zones are also supported.",
+  "dist-tags": {
+    "latest": "0.4.0"
+  },
+  "versions": [
+    "0.0.1",
+    "0.0.2",
+    "0.0.3",
+    "0.1.0",
+    "0.1.1",
+    "0.1.2",
+    "0.1.3",
+    "0.1.4",
+    "0.1.5",
+    "0.2.0",
+    "0.3.0",
+    "0.3.1",
+    "0.3.2",
+    "0.4.0"
+  ],
+  "maintainers": [
+    "cjoakim <christopher.joakim@gmail.com>"
+  ],
+  "time": {
+    "modified": "2015-08-04T20:09:21.269Z",
+    "created": "2014-11-01T13:26:29.208Z",
+    "0.0.1": "2014-11-01T13:26:29.208Z",
+    "0.0.2": "2014-11-01T13:52:59.898Z",
+    "0.0.3": "2014-11-01T15:37:18.471Z",
+    "0.1.0": "2014-11-01T15:45:53.560Z",
+    "0.1.1": "2014-11-01T21:18:14.382Z",
+    "0.1.2": "2014-11-01T22:18:37.600Z",
+    "0.1.3": "2014-11-02T11:30:34.346Z",
+    "0.1.4": "2014-11-05T22:17:36.534Z",
+    "0.1.5": "2014-11-06T11:21:27.723Z",
+    "0.2.0": "2014-11-09T18:11:37.202Z",
+    "0.3.0": "2015-05-12T11:16:19.003Z",
+    "0.3.1": "2015-05-12T11:55:36.561Z",
+    "0.3.2": "2015-05-13T09:29:45.643Z",
+    "0.4.0": "2015-08-04T20:09:21.269Z"
+  },
+  "homepage": "https://github.com/cjoakim/m26-js",
+  "keywords": [
+    "m26",
+    "running",
+    "cycling",
+    "swimming",
+    "calculations",
+    "heart",
+    "rate",
+    "zone",
+    "age",
+    "graded"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjoakim/m26-js.git"
+  },
+  "author": "Christopher Joakim (http://www.chrisjoakim.com)",
+  "bugs": {
+    "url": "https://github.com/cjoakim/m26-js/issues"
+  },
+  "readmeFilename": "README.md",
+  "users": {
+    "cjoakim": true
+  },
+  "version": "0.4.0",
+  "main": "lib/m26.js",
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/cjoakim/m26-js/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-coffee": "~0.13.0",
+    "grunt-contrib-jasmine": "~0.9.0"
+  },
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "dist": {
+    "shasum": "7c37e676b4d1314d4579a033ed3d5f895b02aa2a",
+    "tarball": "https://registry.npmjs.org/m26-js/-/m26-js-0.4.0.tgz"
+  },
+  "directories": {}
+}
+```
+
+### Query CosmosDB
+
+```
+SELECT * FROM c where c.pk = '28036'
+
+SELECT c.postal_cd, c.city_name FROM c WHERE ST_DISTANCE(
+  c.location, {'type': 'Point', 'coordinates':[ -78.791111, 35.878425 ]}) < 30000
+```
+
+35.878425, -78.791111
 
 ### Redis (in-memory) vs CosmosDB (distributed)
 
