@@ -14,7 +14,7 @@ Options:
 __author__  = 'Chris Joakim'
 __email__   = "chjoakim@microsoft.com"
 __license__ = "MIT"
-__version__ = "2020.06.02"
+__version__ = "2020.06.03"
 
 
 # https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-python-get-started
