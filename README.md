@@ -262,7 +262,7 @@ SELECT c.postal_cd, c.city_name FROM c WHERE ST_DISTANCE(
 
 35.878425, -78.791111
 
-### Redis (in-memory) vs CosmosDB (distributed)
+### Execute Test: Redis (in-memory) vs CosmosDB (distributed)
 
 Executed this on an Azure Linux VM in the same region as CosmosDB and Redis:
 
