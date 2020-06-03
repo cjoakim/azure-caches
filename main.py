@@ -254,37 +254,37 @@ def perf_test_redis():
     write('data/results/perf_test_redis.json', json.dumps(results, sort_keys=True, indent=4))
 
 def produce_report():
-    files_data  = read_json('data/npm_libs/files-list.json')
-    files_list  = sorted(files_data.keys())
+    keys_data = read_json('data/keys.json')
+    keys_list = sorted(keys_data.keys())
     cosmos_perf = read_json('data/results/perf_test_cosmos.json')
     redis_perf  = read_json('data/results/perf_test_redis.json')
 
     count, sum_cosmos, sum_redis, sum_size = 0, 0.0, 0.0, 0.0
-
-    print('metadata_name,metadata_size,cosmos_name,cosmos_elapsed,cosmos_size,redis_name,redis_elapsed,redis_size')
+    csv_lines = list()
+    csv_lines.append('key,doctype,approx_size,cosmos_name,cosmos_elapsed,cosmos_size,redis_name,redis_elapsed,redis_size')
     
-    for filename in files_list:
-        key = filename.strip()
-        metadata = files_data[key]
-        metadata_name  = metadata['name']
-        metadata_size  = metadata['size']
+    for key in keys_list:
+        key_obj = keys_data[key]
+        doctype        = key_obj['type']
+        approx_size    = key_obj['approx_size']
         cosmos_result  = cosmos_perf[key]
-        cosmos_name    = cosmos_result['doc']['name']
+        cosmos_pk      = cosmos_result['doc']['pk']
         cosmos_elapsed = cosmos_result['elapsed']
         cosmos_size    = cosmos_result['content_size']
         redis_result   = redis_perf[key]
-        redis_name     = redis_result['doc']['name']
+        redis_key      = redis_result['key']
         redis_elapsed  = redis_result['elapsed']
         redis_size     = redis_result['content_size']
         count = count + 1
         sum_cosmos = sum_cosmos + cosmos_elapsed
         sum_redis  = sum_redis  + redis_elapsed
-        sum_size   = sum_size + metadata_size
+        avg_size   = (cosmos_size + redis_size) / 2.0
+        sum_size   = sum_size + avg_size
 
-        print('{},{},{},{},{},{},{},{}'.format(
-            metadata_name, metadata_size,
-            cosmos_name, cosmos_elapsed, cosmos_size,
-            redis_name, redis_elapsed, redis_size))
+        csv_lines.append('{},{},{},{},{},{},{},{},{}'.format(
+            key, doctype, approx_size,
+            cosmos_pk, cosmos_elapsed, cosmos_size,
+            redis_key, redis_elapsed, redis_size))
 
     print('doc count:    {}'.format(count))
     print('doc avg size: {}'.format(int(sum_size / float(count))))
@@ -292,6 +292,7 @@ def produce_report():
     print('sum_redis:    {}'.format(sum_redis))
     print('avg_cosmos:   {}'.format(sum_cosmos / float(count)))
     print('avg_redis:    {}'.format(sum_redis / float(count)))
+    write('data/results/results.csv', "\n".join(csv_lines))
 
 def redis_set(key, value):
     return redis_client.set(key, value)
