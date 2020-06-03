@@ -4,11 +4,9 @@ Usage:
   python main.py populate_cosmos_zipcodes > data/results/populate_cosmos_zipcodes.txt
   python main.py populate_redis_npm       > data/results/populate_redis_npm.txt
   python main.py populate_redis_zipcodes  > data/results/populate_redis_zipcodes.txt
-
   python main.py perf_test_cosmos > data/results/perf_test_cosmos.txt
   python main.py perf_test_redis  > data/results/perf_test_redis.txt
   python main.py produce_report
-
   python main.py create_files_list_json
   python main.py create_keys_file
 Options:
