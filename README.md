@@ -10,23 +10,42 @@ Example Cache implementations in Azure - Redis, CosmosDB, etc
   <img src="img/azure-cosmos-db-gray.png">
 </p>
 
-### Latency Bell Curve
+### Links
+
+- https://docs.microsoft.com/en-us/azure/cosmos-db/
+
+---
+
+### Availability SLA
+
+99.99% single region-deployment, 99.999% multi-region deployment
+
+### Latency SLA
 
 <p align="center">
   <img width="500" height="250" src="img/bell-curve.jpg">
 </p>
 
-### Partition Keys and Logical and Physical Partitions
+- 99th percentile 1RU reads within 10ms
+- https://azure.microsoft.com/en-us/support/legal/sla/cosmos-db/v1_3/
+
+---
+
+### Partition Keys -> Logical and Physical Partitions
 
 <p align="center">
   <img src="img/resource-partition.png">
 </p>
+
+---
 
 ### Skewed vs Unskewed Partition Keys
 
 <p align="center">
   <img src="img/cosmosdbpartitions.png">
 </p>
+
+---
 
 ### Indexing
 
@@ -46,6 +65,35 @@ Default policy:
         }
     ]
 }
+```
+
+Potential policy for a Cache collection:
+```
+  {
+      "indexingMode": "consistent",
+      "includedPaths": [
+          {
+              "path": "/path/to/something/queried/*"
+          },
+          {
+              "path": "/path/to/something/else/queried/*"
+          }
+      ],
+      "excludedPaths": [
+          {
+              "path": "/*"
+          }
+      ]
+  }
+```
+
+Comparison to MongoDB explicit indexing:
+```
+db.account_info.drop()
+db.createCollection("account_info")
+db.account_info.ensureIndex({"acct_id" : 1}, {"unique" : false})
+db.account_info.ensureIndex({"login_id" : 1}, {"unique" : false})
+db.account_info.ensureIndex({"unique_key" : 1}, {"unique" : true})
 ```
 
 ---
