@@ -5,14 +5,13 @@
 #    pip-compile --output-file=requirements.txt requirements.in
 #
 arrow==0.15.6             # via -r requirements.in
-azure-core==1.5.0         # via azure-cosmos
-azure-cosmos==4.0.0       # via -r requirements.in
+azure-cosmos==3.1.2       # via -r requirements.in
 certifi==2020.4.5.1       # via requests
 chardet==3.0.4            # via requests
 docopt==0.6.2             # via -r requirements.in
 idna==2.9                 # via requests
 python-dateutil==2.8.1    # via arrow
 redis==3.5.3              # via -r requirements.in
-requests==2.23.0          # via azure-core
-six==1.15.0               # via azure-core, azure-cosmos, python-dateutil
+requests==2.23.0          # via azure-cosmos
+six==1.15.0               # via azure-cosmos, python-dateutil
 urllib3==1.25.9           # via requests

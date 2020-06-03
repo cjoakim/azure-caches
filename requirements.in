@@ -1,6 +1,6 @@
 # Chris Joakim, Microsoft, 2020/06/03
 
 arrow
-azure-cosmos
+azure-cosmos==3.1.2
 docopt
 redis
