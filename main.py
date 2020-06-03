@@ -1,10 +1,12 @@
 """
 Usage:
   python main.py create_files_list_json
-  python main.py populate_cosmos_npm  > data/results/populate_cosmos_npm.txt
-  python main.py populate_cosmos_zipcodes  > data/results/populate_cosmos_zipcodes.txt
-  
-  python main.py populate_redis   > data/results/populate_redis.txt
+
+  python main.py populate_cosmos_npm      > data/results/populate_cosmos_npm.txt
+  python main.py populate_cosmos_zipcodes > data/results/populate_cosmos_zipcodes.txt
+  python main.py populate_redis_npm       > data/results/populate_redis_npm.txt
+  python main.py populate_redis_zipcodes  > data/results/populate_redis_zipcodes.txt
+
   python main.py perf_test_cosmos > data/results/perf_test_cosmos.txt
   python main.py perf_test_redis  > data/results/perf_test_redis.txt
   python main.py produce_report
@@ -96,6 +98,54 @@ def populate_cosmos_zipcodes():
         result['doc'] = doc
         results[key] = result
     write('data/results/populate_cosmos_zipcodes.json', json.dumps(results, sort_keys=True, indent=4))
+
+def populate_redis_npm():
+    redis_client = create_redis_client()
+    files_list = read_json('data/npm_libs/files-list.json')
+    sorted_filenames = sorted(files_list.keys())
+    results = dict()
+    for idx, basename in enumerate(sorted_filenames):
+        infile = 'data/npm_libs/{}'.format(basename)
+        content = read_file(infile)
+        doc = json.loads(content)
+        key = doc['name']
+        json_content = json.dumps(doc)
+        json_content_size = len(json_content)
+        t1 = time.time()
+        redis_client.set(key, json_content)
+        t2 = time.time()
+        elapsed = t2 - t1
+        print("=== key: {} {} {}".format(key, json_content_size, elapsed))
+        result = dict()
+        result['key'] = key
+        result['size'] = json_content_size
+        result['t1'] = t1
+        result['t2'] = t2
+        result['elapsed'] = elapsed
+        result['doc'] = doc
+        results[key] = result
+
+def populate_redis_zipcodes():
+    redis_client = create_redis_client()
+    zipcodes = read_json('data/zipcodes/nc_zipcodes.json')
+    results = dict()
+    for doc in zipcodes:
+        key = doc['postal_cd']
+        json_content = json.dumps(doc)
+        json_content_size = len(json_content)
+        t1 = time.time()
+        redis_client.set(key, json_content)
+        t2 = time.time()
+        elapsed = t2 - t1
+        print("=== key: {} {} {}".format(key, json_content_size, elapsed))
+        result = dict()
+        result['key'] = key
+        result['size'] = json_content_size
+        result['t1'] = t1
+        result['t2'] = t2
+        result['elapsed'] = elapsed
+        result['doc'] = doc
+        results[key] = result
 
 def populate_redis():
     redis_client = create_redis_client()
@@ -317,8 +367,11 @@ def main_dispatch(func):
     elif func == 'populate_cosmos_zipcodes':
         populate_cosmos_zipcodes()
 
-    elif func == 'populate_redis':
-        populate_redis()
+    elif func == 'populate_redis_npm':
+        populate_redis_npm()
+
+    elif func == 'populate_redis_zipcodes':
+        populate_redis_zipcodes()
 
     elif func == 'perf_test_cosmos':
         perf_test_cosmos()
