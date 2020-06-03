@@ -1,7 +1,9 @@
 """
 Usage:
   python main.py create_files_list_json
-  python main.py populate_cosmos  > data/results/populate_cosmos.txt
+  python main.py populate_cosmos_npm  > data/results/populate_cosmos_npm.txt
+  python main.py populate_cosmos_zipcodes  > data/results/populate_cosmos_zipcodes.txt
+  
   python main.py populate_redis   > data/results/populate_redis.txt
   python main.py perf_test_cosmos > data/results/perf_test_cosmos.txt
   python main.py perf_test_redis  > data/results/perf_test_redis.txt
@@ -40,33 +42,60 @@ def print_options(msg):
     arguments = docopt(__doc__, version=__version__)
     print(arguments)
 
-def populate_cosmos():
-    cosmos_client = create_cosmos_client()
+def populate_cosmos_npm():
+    cosmos_client, populate = create_cosmos_client(), True
     clink = container_link('dev', 'cache')
-    files_data = read_json('data/npm_libs/files-list.json')
-    files_list = sorted(files_data.keys())
+    files_list = read_json('data/npm_libs/files-list.json')
+    sorted_filenames = sorted(files_list.keys())
     results = dict()
-    for filename in files_list:
+    for idx, filename in enumerate(sorted_filenames):
         key = filename.strip()
-        content = read_file(key)
+        infile = 'data/npm_libs/{}'.format(key)
+        content = read_file(infile)
         content_size = len(content)
         doc = json.loads(content)
-        doc['pk'] = key
-        print(doc)
+        doc['pk'] = doc['name']
+        doc['doctype'] = 'npmlib'
         t1 = time.time()
         cosmos_client.UpsertItem(clink, doc)
         t2 = time.time()
         elapsed = t2 - t1
-        print("=== filename: {} {} {}\n{}".format(key, content_size, elapsed, content))
+        print("=== filename: {} {} {}".format(infile, content_size, elapsed))
         result = dict()
-        result['key'] = key
+        result['pk'] = doc['pk']
         result['size'] = content_size
         result['t1'] = t1
         result['t2'] = t2
         result['elapsed'] = elapsed
-        result['metadata'] = files_data[key]
+        result['doc'] = doc
         results[key] = result
-    write('data/results/populate_cosmos.json', json.dumps(results, sort_keys=True, indent=4))
+    write('data/results/populate_cosmos_npm.json', json.dumps(results, sort_keys=True, indent=4))
+
+def populate_cosmos_zipcodes():
+    cosmos_client, populate = create_cosmos_client(), True
+    clink = container_link('dev', 'cache')
+    zipcodes = read_json('data/zipcodes/nc_zipcodes.json')
+    results = dict()
+    for doc in zipcodes:
+        key = doc['postal_cd']
+        doc['pk'] = key
+        doc['doctype'] = 'zipcode'
+        content = json.dumps(doc, sort_keys=False, indent=4)
+        content_size = len(content)
+        t1 = time.time()
+        cosmos_client.UpsertItem(clink, doc)
+        t2 = time.time()
+        elapsed = t2 - t1
+        print("=== zipcode: {} {} {}".format(key, content_size, elapsed))
+        result = dict()
+        result['pk'] = doc['pk']
+        result['size'] = content_size
+        result['t1'] = t1
+        result['t2'] = t2
+        result['elapsed'] = elapsed
+        result['doc'] = doc
+        results[key] = result
+    write('data/results/populate_cosmos_zipcodes.json', json.dumps(results, sort_keys=True, indent=4))
 
 def populate_redis():
     redis_client = create_redis_client()
@@ -244,9 +273,9 @@ def create_files_list_json():
         content_size = len(content)
         doc = json.loads(content)
         metadata = dict()
-        metadata['pk'] = key
         if 'name' in doc:
-            metadata['name'] = doc['name']
+            metadata['pk'] = doc['name']
+            metadata['npm_name'] = doc['name']
             metadata['filename'] = infile
             metadata['size'] = len(content)
             files_dict[key] = metadata
@@ -282,8 +311,11 @@ def main_dispatch(func):
     if func == 'create_files_list_json':
         create_files_list_json()
 
-    elif func == 'populate_cosmos':
-        populate_cosmos()
+    elif func == 'populate_cosmos_npm':
+        populate_cosmos_npm()
+
+    elif func == 'populate_cosmos_zipcodes':
+        populate_cosmos_zipcodes()
 
     elif func == 'populate_redis':
         populate_redis()

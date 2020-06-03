@@ -1,3836 +1,3836 @@
 {
     "@azure-amqp-common.json": {
         "filename": "data/npm_libs/@azure-amqp-common.json",
-        "name": "@azure/amqp-common",
-        "pk": "@azure-amqp-common.json",
+        "npm_name": "@azure/amqp-common",
+        "pk": "@azure/amqp-common",
         "size": 20623
     },
     "@azure-cosmos-sign.json": {
         "filename": "data/npm_libs/@azure-cosmos-sign.json",
-        "name": "@azure/cosmos-sign",
-        "pk": "@azure-cosmos-sign.json",
+        "npm_name": "@azure/cosmos-sign",
+        "pk": "@azure/cosmos-sign",
         "size": 3044
     },
     "@azure-cosmos.json": {
         "filename": "data/npm_libs/@azure-cosmos.json",
-        "name": "@azure/cosmos",
-        "pk": "@azure-cosmos.json",
+        "npm_name": "@azure/cosmos",
+        "pk": "@azure/cosmos",
         "size": 8103
     },
     "@azure-event-hubs.json": {
         "filename": "data/npm_libs/@azure-event-hubs.json",
-        "name": "@azure/event-hubs",
-        "pk": "@azure-event-hubs.json",
+        "npm_name": "@azure/event-hubs",
+        "pk": "@azure/event-hubs",
         "size": 7304
     },
     "@azure-ms-rest-azure-env.json": {
         "filename": "data/npm_libs/@azure-ms-rest-azure-env.json",
-        "name": "@azure/ms-rest-azure-env",
-        "pk": "@azure-ms-rest-azure-env.json",
+        "npm_name": "@azure/ms-rest-azure-env",
+        "pk": "@azure/ms-rest-azure-env",
         "size": 3749
     },
     "@azure-ms-rest-js.json": {
         "filename": "data/npm_libs/@azure-ms-rest-js.json",
-        "name": "@azure/ms-rest-js",
-        "pk": "@azure-ms-rest-js.json",
+        "npm_name": "@azure/ms-rest-js",
+        "pk": "@azure/ms-rest-js",
         "size": 9552
     },
     "@azure-ms-rest-nodeauth.json": {
         "filename": "data/npm_libs/@azure-ms-rest-nodeauth.json",
-        "name": "@azure/ms-rest-nodeauth",
-        "pk": "@azure-ms-rest-nodeauth.json",
+        "npm_name": "@azure/ms-rest-nodeauth",
+        "pk": "@azure/ms-rest-nodeauth",
         "size": 4757
     },
     "@azure-storage-blob.json": {
         "filename": "data/npm_libs/@azure-storage-blob.json",
-        "name": "@azure/storage-blob",
-        "pk": "@azure-storage-blob.json",
+        "npm_name": "@azure/storage-blob",
+        "pk": "@azure/storage-blob",
         "size": 7616
     },
     "@babel-runtime-corejs2.json": {
         "filename": "data/npm_libs/@babel-runtime-corejs2.json",
-        "name": "@babel/runtime-corejs2",
-        "pk": "@babel-runtime-corejs2.json",
+        "npm_name": "@babel/runtime-corejs2",
+        "pk": "@babel/runtime-corejs2",
         "size": 3706
     },
     "@sindresorhus-is.json": {
         "filename": "data/npm_libs/@sindresorhus-is.json",
-        "name": "@sindresorhus/is",
-        "pk": "@sindresorhus-is.json",
+        "npm_name": "@sindresorhus/is",
+        "pk": "@sindresorhus/is",
         "size": 4851
     },
     "@szmarczak-http-timer.json": {
         "filename": "data/npm_libs/@szmarczak-http-timer.json",
-        "name": "@szmarczak/http-timer",
-        "pk": "@szmarczak-http-timer.json",
+        "npm_name": "@szmarczak/http-timer",
+        "pk": "@szmarczak/http-timer",
         "size": 3500
     },
     "@types-async-lock.json": {
         "filename": "data/npm_libs/@types-async-lock.json",
-        "name": "@types/async-lock",
-        "pk": "@types-async-lock.json",
+        "npm_name": "@types/async-lock",
+        "pk": "@types/async-lock",
         "size": 3651
     },
     "@types-babel-types.json": {
         "filename": "data/npm_libs/@types-babel-types.json",
-        "name": "@types/babel-types",
-        "pk": "@types-babel-types.json",
+        "npm_name": "@types/babel-types",
+        "pk": "@types/babel-types",
         "size": 4270
     },
     "@types-babylon.json": {
         "filename": "data/npm_libs/@types-babylon.json",
-        "name": "@types/babylon",
-        "pk": "@types-babylon.json",
+        "npm_name": "@types/babylon",
+        "pk": "@types/babylon",
         "size": 3744
     },
     "@types-debug.json": {
         "filename": "data/npm_libs/@types-debug.json",
-        "name": "@types/debug",
-        "pk": "@types-debug.json",
+        "npm_name": "@types/debug",
+        "pk": "@types/debug",
         "size": 4309
     },
     "@types-is-buffer.json": {
         "filename": "data/npm_libs/@types-is-buffer.json",
-        "name": "@types/is-buffer",
-        "pk": "@types-is-buffer.json",
+        "npm_name": "@types/is-buffer",
+        "pk": "@types/is-buffer",
         "size": 2338
     },
     "@types-node-fetch.json": {
         "filename": "data/npm_libs/@types-node-fetch.json",
-        "name": "@types/node-fetch",
-        "pk": "@types-node-fetch.json",
+        "npm_name": "@types/node-fetch",
+        "pk": "@types/node-fetch",
         "size": 4852
     },
     "@types-node.json": {
         "filename": "data/npm_libs/@types-node.json",
-        "name": "@types/node",
-        "pk": "@types-node.json",
+        "npm_name": "@types/node",
+        "pk": "@types/node",
         "size": 43336
     },
     "@types-tunnel.json": {
         "filename": "data/npm_libs/@types-tunnel.json",
-        "name": "@types/tunnel",
-        "pk": "@types-tunnel.json",
+        "npm_name": "@types/tunnel",
+        "pk": "@types/tunnel",
         "size": 2645
     },
     "abbrev.json": {
         "filename": "data/npm_libs/abbrev.json",
-        "name": "abbrev",
-        "pk": "abbrev.json",
+        "npm_name": "abbrev",
+        "pk": "abbrev",
         "size": 2210
     },
     "abort-controller.json": {
         "filename": "data/npm_libs/abort-controller.json",
-        "name": "abort-controller",
-        "pk": "abort-controller.json",
+        "npm_name": "abort-controller",
+        "pk": "abort-controller",
         "size": 8403
     },
     "accepts.json": {
         "filename": "data/npm_libs/accepts.json",
-        "name": "accepts",
-        "pk": "accepts.json",
+        "npm_name": "accepts",
+        "pk": "accepts",
         "size": 5265
     },
     "acorn-node.json": {
         "filename": "data/npm_libs/acorn-node.json",
-        "name": "acorn-node",
-        "pk": "acorn-node.json",
+        "npm_name": "acorn-node",
+        "pk": "acorn-node",
         "size": 5239
     },
     "acorn-walk.json": {
         "filename": "data/npm_libs/acorn-walk.json",
-        "name": "acorn-walk",
-        "pk": "acorn-walk.json",
+        "npm_name": "acorn-walk",
+        "pk": "acorn-walk",
         "size": 2332
     },
     "acorn.json": {
         "filename": "data/npm_libs/acorn.json",
-        "name": "acorn",
-        "pk": "acorn.json",
+        "npm_name": "acorn",
+        "pk": "acorn",
         "size": 7857
     },
     "adal-node.json": {
         "filename": "data/npm_libs/adal-node.json",
-        "name": "adal-node",
-        "pk": "adal-node.json",
+        "npm_name": "adal-node",
+        "pk": "adal-node",
         "size": 4767
     },
     "after.json": {
         "filename": "data/npm_libs/after.json",
-        "name": "after",
-        "pk": "after.json",
+        "npm_name": "after",
+        "pk": "after",
         "size": 2905
     },
     "ajv.json": {
         "filename": "data/npm_libs/ajv.json",
-        "name": "ajv",
-        "pk": "ajv.json",
+        "npm_name": "ajv",
+        "pk": "ajv",
         "size": 22443
     },
     "ansi-align.json": {
         "filename": "data/npm_libs/ansi-align.json",
-        "name": "ansi-align",
-        "pk": "ansi-align.json",
+        "npm_name": "ansi-align",
+        "pk": "ansi-align",
         "size": 2721
     },
     "ansi-colors.json": {
         "filename": "data/npm_libs/ansi-colors.json",
-        "name": "ansi-colors",
-        "pk": "ansi-colors.json",
+        "npm_name": "ansi-colors",
+        "pk": "ansi-colors",
         "size": 5268
     },
     "ansi-regex.json": {
         "filename": "data/npm_libs/ansi-regex.json",
-        "name": "ansi-regex",
-        "pk": "ansi-regex.json",
+        "npm_name": "ansi-regex",
+        "pk": "ansi-regex",
         "size": 3407
     },
     "ansi-styles.json": {
         "filename": "data/npm_libs/ansi-styles.json",
-        "name": "ansi-styles",
-        "pk": "ansi-styles.json",
+        "npm_name": "ansi-styles",
+        "pk": "ansi-styles",
         "size": 3909
     },
     "anymatch.json": {
         "filename": "data/npm_libs/anymatch.json",
-        "name": "anymatch",
-        "pk": "anymatch.json",
+        "npm_name": "anymatch",
+        "pk": "anymatch",
         "size": 3853
     },
     "aproba.json": {
         "filename": "data/npm_libs/aproba.json",
-        "name": "aproba",
-        "pk": "aproba.json",
+        "npm_name": "aproba",
+        "pk": "aproba",
         "size": 3049
     },
     "are-we-there-yet.json": {
         "filename": "data/npm_libs/are-we-there-yet.json",
-        "name": "are-we-there-yet",
-        "pk": "are-we-there-yet.json",
+        "npm_name": "are-we-there-yet",
+        "pk": "are-we-there-yet",
         "size": 3341
     },
     "argparse.json": {
         "filename": "data/npm_libs/argparse.json",
-        "name": "argparse",
-        "pk": "argparse.json",
+        "npm_name": "argparse",
+        "pk": "argparse",
         "size": 3514
     },
     "array-each.json": {
         "filename": "data/npm_libs/array-each.json",
-        "name": "array-each",
-        "pk": "array-each.json",
+        "npm_name": "array-each",
+        "pk": "array-each",
         "size": 1820
     },
     "array-flatten.json": {
         "filename": "data/npm_libs/array-flatten.json",
-        "name": "array-flatten",
-        "pk": "array-flatten.json",
+        "npm_name": "array-flatten",
+        "pk": "array-flatten",
         "size": 3531
     },
     "array-from.json": {
         "filename": "data/npm_libs/array-from.json",
-        "name": "array-from",
-        "pk": "array-from.json",
+        "npm_name": "array-from",
+        "pk": "array-from",
         "size": 2430
     },
     "array-slice.json": {
         "filename": "data/npm_libs/array-slice.json",
-        "name": "array-slice",
-        "pk": "array-slice.json",
+        "npm_name": "array-slice",
+        "pk": "array-slice",
         "size": 2256
     },
     "arraybuffer.slice.json": {
         "filename": "data/npm_libs/arraybuffer.slice.json",
-        "name": "arraybuffer.slice",
-        "pk": "arraybuffer.slice.json",
+        "npm_name": "arraybuffer.slice",
+        "pk": "arraybuffer.slice",
         "size": 1504
     },
     "asap.json": {
         "filename": "data/npm_libs/asap.json",
-        "name": "asap",
-        "pk": "asap.json",
+        "npm_name": "asap",
+        "pk": "asap",
         "size": 3354
     },
     "asn1.json": {
         "filename": "data/npm_libs/asn1.json",
-        "name": "asn1",
-        "pk": "asn1.json",
+        "npm_name": "asn1",
+        "pk": "asn1",
         "size": 3550
     },
     "assert-plus.json": {
         "filename": "data/npm_libs/assert-plus.json",
-        "name": "assert-plus",
-        "pk": "assert-plus.json",
+        "npm_name": "assert-plus",
+        "pk": "assert-plus",
         "size": 2283
     },
     "ast-transform.json": {
         "filename": "data/npm_libs/ast-transform.json",
-        "name": "ast-transform",
-        "pk": "ast-transform.json",
+        "npm_name": "ast-transform",
+        "pk": "ast-transform",
         "size": 1220
     },
     "ast-types.json": {
         "filename": "data/npm_libs/ast-types.json",
-        "name": "ast-types",
-        "pk": "ast-types.json",
+        "npm_name": "ast-types",
+        "pk": "ast-types",
         "size": 12345
     },
     "async-limiter.json": {
         "filename": "data/npm_libs/async-limiter.json",
-        "name": "async-limiter",
-        "pk": "async-limiter.json",
+        "npm_name": "async-limiter",
+        "pk": "async-limiter",
         "size": 2801
     },
     "async-lock.json": {
         "filename": "data/npm_libs/async-lock.json",
-        "name": "async-lock",
-        "pk": "async-lock.json",
+        "npm_name": "async-lock",
+        "pk": "async-lock",
         "size": 4755
     },
     "async.json": {
         "filename": "data/npm_libs/async.json",
-        "name": "async",
-        "pk": "async.json",
+        "npm_name": "async",
+        "pk": "async",
         "size": 36527
     },
     "asynckit.json": {
         "filename": "data/npm_libs/asynckit.json",
-        "name": "asynckit",
-        "pk": "asynckit.json",
+        "npm_name": "asynckit",
+        "pk": "asynckit",
         "size": 2316
     },
     "atob.json": {
         "filename": "data/npm_libs/atob.json",
-        "name": "atob",
-        "pk": "atob.json",
+        "npm_name": "atob",
+        "pk": "atob",
         "size": 2898
     },
     "aws-sign2.json": {
         "filename": "data/npm_libs/aws-sign2.json",
-        "name": "aws-sign2",
-        "pk": "aws-sign2.json",
+        "npm_name": "aws-sign2",
+        "pk": "aws-sign2",
         "size": 1360
     },
     "aws4.json": {
         "filename": "data/npm_libs/aws4.json",
-        "name": "aws4",
-        "pk": "aws4.json",
+        "npm_name": "aws4",
+        "pk": "aws4",
         "size": 5449
     },
     "azure-common.json": {
         "filename": "data/npm_libs/azure-common.json",
-        "name": "azure-common",
-        "pk": "azure-common.json",
+        "npm_name": "azure-common",
+        "pk": "azure-common",
         "size": 4117
     },
     "azure-sb.json": {
         "filename": "data/npm_libs/azure-sb.json",
-        "name": "azure-sb",
-        "pk": "azure-sb.json",
+        "npm_name": "azure-sb",
+        "pk": "azure-sb",
         "size": 3609
     },
     "babel-runtime.json": {
         "filename": "data/npm_libs/babel-runtime.json",
-        "name": "babel-runtime",
-        "pk": "babel-runtime.json",
+        "npm_name": "babel-runtime",
+        "pk": "babel-runtime",
         "size": 12495
     },
     "babel-types.json": {
         "filename": "data/npm_libs/babel-types.json",
-        "name": "babel-types",
-        "pk": "babel-types.json",
+        "npm_name": "babel-types",
+        "pk": "babel-types",
         "size": 5787
     },
     "babylon-walk.json": {
         "filename": "data/npm_libs/babylon-walk.json",
-        "name": "babylon-walk",
-        "pk": "babylon-walk.json",
+        "npm_name": "babylon-walk",
+        "pk": "babylon-walk",
         "size": 1523
     },
     "babylon.json": {
         "filename": "data/npm_libs/babylon.json",
-        "name": "babylon",
-        "pk": "babylon.json",
+        "npm_name": "babylon",
+        "pk": "babylon",
         "size": 12624
     },
     "backo2.json": {
         "filename": "data/npm_libs/backo2.json",
-        "name": "backo2",
-        "pk": "backo2.json",
+        "npm_name": "backo2",
+        "pk": "backo2",
         "size": 1158
     },
     "balanced-match.json": {
         "filename": "data/npm_libs/balanced-match.json",
-        "name": "balanced-match",
-        "pk": "balanced-match.json",
+        "npm_name": "balanced-match",
+        "pk": "balanced-match",
         "size": 2309
     },
     "base64-arraybuffer.json": {
         "filename": "data/npm_libs/base64-arraybuffer.json",
-        "name": "base64-arraybuffer",
-        "pk": "base64-arraybuffer.json",
+        "npm_name": "base64-arraybuffer",
+        "pk": "base64-arraybuffer",
         "size": 2852
     },
     "base64-js.json": {
         "filename": "data/npm_libs/base64-js.json",
-        "name": "base64-js",
-        "pk": "base64-js.json",
+        "npm_name": "base64-js",
+        "pk": "base64-js",
         "size": 4060
     },
     "base64id.json": {
         "filename": "data/npm_libs/base64id.json",
-        "name": "base64id",
-        "pk": "base64id.json",
+        "npm_name": "base64id",
+        "pk": "base64id",
         "size": 2366
     },
     "basic-auth.json": {
         "filename": "data/npm_libs/basic-auth.json",
-        "name": "basic-auth",
-        "pk": "basic-auth.json",
+        "npm_name": "basic-auth",
+        "pk": "basic-auth",
         "size": 4416
     },
     "bcrypt-pbkdf.json": {
         "filename": "data/npm_libs/bcrypt-pbkdf.json",
-        "name": "bcrypt-pbkdf",
-        "pk": "bcrypt-pbkdf.json",
+        "npm_name": "bcrypt-pbkdf",
+        "pk": "bcrypt-pbkdf",
         "size": 1318
     },
     "better-assert.json": {
         "filename": "data/npm_libs/better-assert.json",
-        "name": "better-assert",
-        "pk": "better-assert.json",
+        "npm_name": "better-assert",
+        "pk": "better-assert",
         "size": 1586
     },
     "big-number.json": {
         "filename": "data/npm_libs/big-number.json",
-        "name": "big-number",
-        "pk": "big-number.json",
+        "npm_name": "big-number",
+        "pk": "big-number",
         "size": 2895
     },
     "bignumber.js.json": {
         "filename": "data/npm_libs/bignumber.js.json",
-        "name": "bignumber.js",
-        "pk": "bignumber.js.json",
+        "npm_name": "bignumber.js",
+        "pk": "bignumber.js",
         "size": 6114
     },
     "binary-extensions.json": {
         "filename": "data/npm_libs/binary-extensions.json",
-        "name": "binary-extensions",
-        "pk": "binary-extensions.json",
+        "npm_name": "binary-extensions",
+        "pk": "binary-extensions",
         "size": 3547
     },
     "binary-search-bounds.json": {
         "filename": "data/npm_libs/binary-search-bounds.json",
-        "name": "binary-search-bounds",
-        "pk": "binary-search-bounds.json",
+        "npm_name": "binary-search-bounds",
+        "pk": "binary-search-bounds",
         "size": 2167
     },
     "bl.json": {
         "filename": "data/npm_libs/bl.json",
-        "name": "bl",
-        "pk": "bl.json",
+        "npm_name": "bl",
+        "pk": "bl",
         "size": 6004
     },
     "blob.json": {
         "filename": "data/npm_libs/blob.json",
-        "name": "blob",
-        "pk": "blob.json",
+        "npm_name": "blob",
+        "pk": "blob",
         "size": 2589
     },
     "bluebird.json": {
         "filename": "data/npm_libs/bluebird.json",
-        "name": "bluebird",
-        "pk": "bluebird.json",
+        "npm_name": "bluebird",
+        "pk": "bluebird",
         "size": 29713
     },
     "body-parser.json": {
         "filename": "data/npm_libs/body-parser.json",
-        "name": "body-parser",
-        "pk": "body-parser.json",
+        "npm_name": "body-parser",
+        "pk": "body-parser",
         "size": 20869
     },
     "boxen.json": {
         "filename": "data/npm_libs/boxen.json",
-        "name": "boxen",
-        "pk": "boxen.json",
+        "npm_name": "boxen",
+        "pk": "boxen",
         "size": 4081
     },
     "brace-expansion.json": {
         "filename": "data/npm_libs/brace-expansion.json",
-        "name": "brace-expansion",
-        "pk": "brace-expansion.json",
+        "npm_name": "brace-expansion",
+        "pk": "brace-expansion",
         "size": 2813
     },
     "braces.json": {
         "filename": "data/npm_libs/braces.json",
-        "name": "braces",
-        "pk": "braces.json",
+        "npm_name": "braces",
+        "pk": "braces",
         "size": 5397
     },
     "brfs.json": {
         "filename": "data/npm_libs/brfs.json",
-        "name": "brfs",
-        "pk": "brfs.json",
+        "npm_name": "brfs",
+        "pk": "brfs",
         "size": 6406
     },
     "brotli.json": {
         "filename": "data/npm_libs/brotli.json",
-        "name": "brotli",
-        "pk": "brotli.json",
+        "npm_name": "brotli",
+        "pk": "brotli",
         "size": 1839
     },
     "browser-resolve.json": {
         "filename": "data/npm_libs/browser-resolve.json",
-        "name": "browser-resolve",
-        "pk": "browser-resolve.json",
+        "npm_name": "browser-resolve",
+        "pk": "browser-resolve",
         "size": 4732
     },
     "browser-stdout.json": {
         "filename": "data/npm_libs/browser-stdout.json",
-        "name": "browser-stdout",
-        "pk": "browser-stdout.json",
+        "npm_name": "browser-stdout",
+        "pk": "browser-stdout",
         "size": 1538
     },
     "browserify-optional.json": {
         "filename": "data/npm_libs/browserify-optional.json",
-        "name": "browserify-optional",
-        "pk": "browserify-optional.json",
+        "npm_name": "browserify-optional",
+        "pk": "browserify-optional",
         "size": 1489
     },
     "buffer-crc32.json": {
         "filename": "data/npm_libs/buffer-crc32.json",
-        "name": "buffer-crc32",
-        "pk": "buffer-crc32.json",
+        "npm_name": "buffer-crc32",
+        "pk": "buffer-crc32",
         "size": 2288
     },
     "buffer-equal-constant-time.json": {
         "filename": "data/npm_libs/buffer-equal-constant-time.json",
-        "name": "buffer-equal-constant-time",
-        "pk": "buffer-equal-constant-time.json",
+        "npm_name": "buffer-equal-constant-time",
+        "pk": "buffer-equal-constant-time",
         "size": 1232
     },
     "buffer-equal.json": {
         "filename": "data/npm_libs/buffer-equal.json",
-        "name": "buffer-equal",
-        "pk": "buffer-equal.json",
+        "npm_name": "buffer-equal",
+        "pk": "buffer-equal",
         "size": 1464
     },
     "buffer-from.json": {
         "filename": "data/npm_libs/buffer-from.json",
-        "name": "buffer-from",
-        "pk": "buffer-from.json",
+        "npm_name": "buffer-from",
+        "pk": "buffer-from",
         "size": 2514
     },
     "buffer-writer.json": {
         "filename": "data/npm_libs/buffer-writer.json",
-        "name": "buffer-writer",
-        "pk": "buffer-writer.json",
+        "npm_name": "buffer-writer",
+        "pk": "buffer-writer",
         "size": 2386
     },
     "buffer.json": {
         "filename": "data/npm_libs/buffer.json",
-        "name": "buffer",
-        "pk": "buffer.json",
+        "npm_name": "buffer",
+        "pk": "buffer",
         "size": 8920
     },
     "bytes.json": {
         "filename": "data/npm_libs/bytes.json",
-        "name": "bytes",
-        "pk": "bytes.json",
+        "npm_name": "bytes",
+        "pk": "bytes",
         "size": 4076
     },
     "cacheable-request.json": {
         "filename": "data/npm_libs/cacheable-request.json",
-        "name": "cacheable-request",
-        "pk": "cacheable-request.json",
+        "npm_name": "cacheable-request",
+        "pk": "cacheable-request",
         "size": 4643
     },
     "callsite.json": {
         "filename": "data/npm_libs/callsite.json",
-        "name": "callsite",
-        "pk": "callsite.json",
+        "npm_name": "callsite",
+        "pk": "callsite",
         "size": 1179
     },
     "camelcase.json": {
         "filename": "data/npm_libs/camelcase.json",
-        "name": "camelcase",
-        "pk": "camelcase.json",
+        "npm_name": "camelcase",
+        "pk": "camelcase",
         "size": 4163
     },
     "caseless.json": {
         "filename": "data/npm_libs/caseless.json",
-        "name": "caseless",
-        "pk": "caseless.json",
+        "npm_name": "caseless",
+        "pk": "caseless",
         "size": 2059
     },
     "chalk.json": {
         "filename": "data/npm_libs/chalk.json",
-        "name": "chalk",
-        "pk": "chalk.json",
+        "npm_name": "chalk",
+        "pk": "chalk",
         "size": 25395
     },
     "character-parser.json": {
         "filename": "data/npm_libs/character-parser.json",
-        "name": "character-parser",
-        "pk": "character-parser.json",
+        "npm_name": "character-parser",
+        "pk": "character-parser",
         "size": 3628
     },
     "chokidar.json": {
         "filename": "data/npm_libs/chokidar.json",
-        "name": "chokidar",
-        "pk": "chokidar.json",
+        "npm_name": "chokidar",
+        "pk": "chokidar",
         "size": 12106
     },
     "chownr.json": {
         "filename": "data/npm_libs/chownr.json",
-        "name": "chownr",
-        "pk": "chownr.json",
+        "npm_name": "chownr",
+        "pk": "chownr",
         "size": 2681
     },
     "ci-info.json": {
         "filename": "data/npm_libs/ci-info.json",
-        "name": "ci-info",
-        "pk": "ci-info.json",
+        "npm_name": "ci-info",
+        "pk": "ci-info",
         "size": 3171
     },
     "clean-css.json": {
         "filename": "data/npm_libs/clean-css.json",
-        "name": "clean-css",
-        "pk": "clean-css.json",
+        "npm_name": "clean-css",
+        "pk": "clean-css",
         "size": 15281
     },
     "cli-boxes.json": {
         "filename": "data/npm_libs/cli-boxes.json",
-        "name": "cli-boxes",
-        "pk": "cli-boxes.json",
+        "npm_name": "cli-boxes",
+        "pk": "cli-boxes",
         "size": 2640
     },
     "cliui.json": {
         "filename": "data/npm_libs/cliui.json",
-        "name": "cliui",
-        "pk": "cliui.json",
+        "npm_name": "cliui",
+        "pk": "cliui",
         "size": 4162
     },
     "clone-response.json": {
         "filename": "data/npm_libs/clone-response.json",
-        "name": "clone-response",
-        "pk": "clone-response.json",
+        "npm_name": "clone-response",
+        "pk": "clone-response",
         "size": 2047
     },
     "clone.json": {
         "filename": "data/npm_libs/clone.json",
-        "name": "clone",
-        "pk": "clone.json",
+        "npm_name": "clone",
+        "pk": "clone",
         "size": 6177
     },
     "coffeescript.json": {
         "filename": "data/npm_libs/coffeescript.json",
-        "name": "coffeescript",
-        "pk": "coffeescript.json",
+        "npm_name": "coffeescript",
+        "pk": "coffeescript",
         "size": 7233
     },
     "color-convert.json": {
         "filename": "data/npm_libs/color-convert.json",
-        "name": "color-convert",
-        "pk": "color-convert.json",
+        "npm_name": "color-convert",
+        "pk": "color-convert",
         "size": 4691
     },
     "color-name.json": {
         "filename": "data/npm_libs/color-name.json",
-        "name": "color-name",
-        "pk": "color-name.json",
+        "npm_name": "color-name",
+        "pk": "color-name",
         "size": 2618
     },
     "colors.json": {
         "filename": "data/npm_libs/colors.json",
-        "name": "colors",
-        "pk": "colors.json",
+        "npm_name": "colors",
+        "pk": "colors",
         "size": 14115
     },
     "combined-stream.json": {
         "filename": "data/npm_libs/combined-stream.json",
-        "name": "combined-stream",
-        "pk": "combined-stream.json",
+        "npm_name": "combined-stream",
+        "pk": "combined-stream",
         "size": 3629
     },
     "commander.json": {
         "filename": "data/npm_libs/commander.json",
-        "name": "commander",
-        "pk": "commander.json",
+        "npm_name": "commander",
+        "pk": "commander",
         "size": 29037
     },
     "complex.js.json": {
         "filename": "data/npm_libs/complex.js.json",
-        "name": "complex.js",
-        "pk": "complex.js.json",
+        "npm_name": "complex.js",
+        "pk": "complex.js",
         "size": 3984
     },
     "component-bind.json": {
         "filename": "data/npm_libs/component-bind.json",
-        "name": "component-bind",
-        "pk": "component-bind.json",
+        "npm_name": "component-bind",
+        "pk": "component-bind",
         "size": 1006
     },
     "component-emitter.json": {
         "filename": "data/npm_libs/component-emitter.json",
-        "name": "component-emitter",
-        "pk": "component-emitter.json",
+        "npm_name": "component-emitter",
+        "pk": "component-emitter",
         "size": 3889
     },
     "component-inherit.json": {
         "filename": "data/npm_libs/component-inherit.json",
-        "name": "component-inherit",
-        "pk": "component-inherit.json",
+        "npm_name": "component-inherit",
+        "pk": "component-inherit",
         "size": 983
     },
     "concat-map.json": {
         "filename": "data/npm_libs/concat-map.json",
-        "name": "concat-map",
-        "pk": "concat-map.json",
+        "npm_name": "concat-map",
+        "pk": "concat-map",
         "size": 1663
     },
     "concat-stream.json": {
         "filename": "data/npm_libs/concat-stream.json",
-        "name": "concat-stream",
-        "pk": "concat-stream.json",
+        "npm_name": "concat-stream",
+        "pk": "concat-stream",
         "size": 7042
     },
     "configstore.json": {
         "filename": "data/npm_libs/configstore.json",
-        "name": "configstore",
-        "pk": "configstore.json",
+        "npm_name": "configstore",
+        "pk": "configstore",
         "size": 5200
     },
     "console-control-strings.json": {
         "filename": "data/npm_libs/console-control-strings.json",
-        "name": "console-control-strings",
-        "pk": "console-control-strings.json",
+        "npm_name": "console-control-strings",
+        "pk": "console-control-strings",
         "size": 1592
     },
     "constantinople.json": {
         "filename": "data/npm_libs/constantinople.json",
-        "name": "constantinople",
-        "pk": "constantinople.json",
+        "npm_name": "constantinople",
+        "pk": "constantinople",
         "size": 2318
     },
     "content-disposition.json": {
         "filename": "data/npm_libs/content-disposition.json",
-        "name": "content-disposition",
-        "pk": "content-disposition.json",
+        "npm_name": "content-disposition",
+        "pk": "content-disposition",
         "size": 3801
     },
     "content-type.json": {
         "filename": "data/npm_libs/content-type.json",
-        "name": "content-type",
-        "pk": "content-type.json",
+        "npm_name": "content-type",
+        "pk": "content-type",
         "size": 2528
     },
     "convert-source-map.json": {
         "filename": "data/npm_libs/convert-source-map.json",
-        "name": "convert-source-map",
-        "pk": "convert-source-map.json",
+        "npm_name": "convert-source-map",
+        "pk": "convert-source-map",
         "size": 4289
     },
     "cookie-parser.json": {
         "filename": "data/npm_libs/cookie-parser.json",
-        "name": "cookie-parser",
-        "pk": "cookie-parser.json",
+        "npm_name": "cookie-parser",
+        "pk": "cookie-parser",
         "size": 9320
     },
     "cookie-signature.json": {
         "filename": "data/npm_libs/cookie-signature.json",
-        "name": "cookie-signature",
-        "pk": "cookie-signature.json",
+        "npm_name": "cookie-signature",
+        "pk": "cookie-signature",
         "size": 2162
     },
     "cookie.json": {
         "filename": "data/npm_libs/cookie.json",
-        "name": "cookie",
-        "pk": "cookie.json",
+        "npm_name": "cookie",
+        "pk": "cookie",
         "size": 5542
     },
     "core-js.json": {
         "filename": "data/npm_libs/core-js.json",
-        "name": "core-js",
-        "pk": "core-js.json",
+        "npm_name": "core-js",
+        "pk": "core-js",
         "size": 12873
     },
     "core-util-is.json": {
         "filename": "data/npm_libs/core-util-is.json",
-        "name": "core-util-is",
-        "pk": "core-util-is.json",
+        "npm_name": "core-util-is",
+        "pk": "core-util-is",
         "size": 1511
     },
     "cross-spawn.json": {
         "filename": "data/npm_libs/cross-spawn.json",
-        "name": "cross-spawn",
-        "pk": "cross-spawn.json",
+        "npm_name": "cross-spawn",
+        "pk": "cross-spawn",
         "size": 6304
     },
     "crypto-hash.json": {
         "filename": "data/npm_libs/crypto-hash.json",
-        "name": "crypto-hash",
-        "pk": "crypto-hash.json",
+        "npm_name": "crypto-hash",
+        "pk": "crypto-hash",
         "size": 2984
     },
     "crypto-js.json": {
         "filename": "data/npm_libs/crypto-js.json",
-        "name": "crypto-js",
-        "pk": "crypto-js.json",
+        "npm_name": "crypto-js",
+        "pk": "crypto-js",
         "size": 5407
     },
     "crypto-random-string.json": {
         "filename": "data/npm_libs/crypto-random-string.json",
-        "name": "crypto-random-string",
-        "pk": "crypto-random-string.json",
+        "npm_name": "crypto-random-string",
+        "pk": "crypto-random-string",
         "size": 2859
     },
     "csv-generate.json": {
         "filename": "data/npm_libs/csv-generate.json",
-        "name": "csv-generate",
-        "pk": "csv-generate.json",
+        "npm_name": "csv-generate",
+        "pk": "csv-generate",
         "size": 4806
     },
     "csv-parse.json": {
         "filename": "data/npm_libs/csv-parse.json",
-        "name": "csv-parse",
-        "pk": "csv-parse.json",
+        "npm_name": "csv-parse",
+        "pk": "csv-parse",
         "size": 9075
     },
     "csv-stringify.json": {
         "filename": "data/npm_libs/csv-stringify.json",
-        "name": "csv-stringify",
-        "pk": "csv-stringify.json",
+        "npm_name": "csv-stringify",
+        "pk": "csv-stringify",
         "size": 5694
     },
     "csv.json": {
         "filename": "data/npm_libs/csv.json",
-        "name": "csv",
-        "pk": "csv.json",
+        "npm_name": "csv",
+        "pk": "csv",
         "size": 9422
     },
     "d.json": {
         "filename": "data/npm_libs/d.json",
-        "name": "d",
-        "pk": "d.json",
+        "npm_name": "d",
+        "pk": "d",
         "size": 3707
     },
     "dashdash.json": {
         "filename": "data/npm_libs/dashdash.json",
-        "name": "dashdash",
-        "pk": "dashdash.json",
+        "npm_name": "dashdash",
+        "pk": "dashdash",
         "size": 3346
     },
     "date-format.json": {
         "filename": "data/npm_libs/date-format.json",
-        "name": "date-format",
-        "pk": "date-format.json",
+        "npm_name": "date-format",
+        "pk": "date-format",
         "size": 3192
     },
     "date-utils.json": {
         "filename": "data/npm_libs/date-utils.json",
-        "name": "date-utils",
-        "pk": "date-utils.json",
+        "npm_name": "date-utils",
+        "pk": "date-utils",
         "size": 3758
     },
     "dateformat.json": {
         "filename": "data/npm_libs/dateformat.json",
-        "name": "dateformat",
-        "pk": "dateformat.json",
+        "npm_name": "dateformat",
+        "pk": "dateformat",
         "size": 5159
     },
     "debug.json": {
         "filename": "data/npm_libs/debug.json",
-        "name": "debug",
-        "pk": "debug.json",
+        "npm_name": "debug",
+        "pk": "debug",
         "size": 22627
     },
     "decamelize.json": {
         "filename": "data/npm_libs/decamelize.json",
-        "name": "decamelize",
-        "pk": "decamelize.json",
+        "npm_name": "decamelize",
+        "pk": "decamelize",
         "size": 3233
     },
     "decimal.js.json": {
         "filename": "data/npm_libs/decimal.js.json",
-        "name": "decimal.js",
-        "pk": "decimal.js.json",
+        "npm_name": "decimal.js",
+        "pk": "decimal.js",
         "size": 5333
     },
     "decompress-response.json": {
         "filename": "data/npm_libs/decompress-response.json",
-        "name": "decompress-response",
-        "pk": "decompress-response.json",
+        "npm_name": "decompress-response",
+        "pk": "decompress-response",
         "size": 3047
     },
     "deep-equal.json": {
         "filename": "data/npm_libs/deep-equal.json",
-        "name": "deep-equal",
-        "pk": "deep-equal.json",
+        "npm_name": "deep-equal",
+        "pk": "deep-equal",
         "size": 4303
     },
     "deep-extend.json": {
         "filename": "data/npm_libs/deep-extend.json",
-        "name": "deep-extend",
-        "pk": "deep-extend.json",
+        "npm_name": "deep-extend",
+        "pk": "deep-extend",
         "size": 4288
     },
     "deep-is.json": {
         "filename": "data/npm_libs/deep-is.json",
-        "name": "deep-is",
-        "pk": "deep-is.json",
+        "npm_name": "deep-is",
+        "pk": "deep-is",
         "size": 1848
     },
     "defer-to-connect.json": {
         "filename": "data/npm_libs/defer-to-connect.json",
-        "name": "defer-to-connect",
-        "pk": "defer-to-connect.json",
+        "npm_name": "defer-to-connect",
+        "pk": "defer-to-connect",
         "size": 2347
     },
     "define-properties.json": {
         "filename": "data/npm_libs/define-properties.json",
-        "name": "define-properties",
-        "pk": "define-properties.json",
+        "npm_name": "define-properties",
+        "pk": "define-properties",
         "size": 3808
     },
     "delayed-stream.json": {
         "filename": "data/npm_libs/delayed-stream.json",
-        "name": "delayed-stream",
-        "pk": "delayed-stream.json",
+        "npm_name": "delayed-stream",
+        "pk": "delayed-stream",
         "size": 1856
     },
     "delegates.json": {
         "filename": "data/npm_libs/delegates.json",
-        "name": "delegates",
-        "pk": "delegates.json",
+        "npm_name": "delegates",
+        "pk": "delegates",
         "size": 1974
     },
     "denque.json": {
         "filename": "data/npm_libs/denque.json",
-        "name": "denque",
-        "pk": "denque.json",
+        "npm_name": "denque",
+        "pk": "denque",
         "size": 4193
     },
     "depd.json": {
         "filename": "data/npm_libs/depd.json",
-        "name": "depd",
-        "pk": "depd.json",
+        "npm_name": "depd",
+        "pk": "depd",
         "size": 4496
     },
     "destroy.json": {
         "filename": "data/npm_libs/destroy.json",
-        "name": "destroy",
-        "pk": "destroy.json",
+        "npm_name": "destroy",
+        "pk": "destroy",
         "size": 1764
     },
     "detect-file.json": {
         "filename": "data/npm_libs/detect-file.json",
-        "name": "detect-file",
-        "pk": "detect-file.json",
+        "npm_name": "detect-file",
+        "pk": "detect-file",
         "size": 1846
     },
     "detect-libc.json": {
         "filename": "data/npm_libs/detect-libc.json",
-        "name": "detect-libc",
-        "pk": "detect-libc.json",
+        "npm_name": "detect-libc",
+        "pk": "detect-libc",
         "size": 2172
     },
     "dfa.json": {
         "filename": "data/npm_libs/dfa.json",
-        "name": "dfa",
-        "pk": "dfa.json",
+        "npm_name": "dfa",
+        "pk": "dfa",
         "size": 2666
     },
     "diff.json": {
         "filename": "data/npm_libs/diff.json",
-        "name": "diff",
-        "pk": "diff.json",
+        "npm_name": "diff",
+        "pk": "diff",
         "size": 7385
     },
     "doctypes.json": {
         "filename": "data/npm_libs/doctypes.json",
-        "name": "doctypes",
-        "pk": "doctypes.json",
+        "npm_name": "doctypes",
+        "pk": "doctypes",
         "size": 1307
     },
     "dot-prop.json": {
         "filename": "data/npm_libs/dot-prop.json",
-        "name": "dot-prop",
-        "pk": "dot-prop.json",
+        "npm_name": "dot-prop",
+        "pk": "dot-prop",
         "size": 3640
     },
     "double-ended-queue.json": {
         "filename": "data/npm_libs/double-ended-queue.json",
-        "name": "double-ended-queue",
-        "pk": "double-ended-queue.json",
+        "npm_name": "double-ended-queue",
+        "pk": "double-ended-queue",
         "size": 1902
     },
     "duplexer.json": {
         "filename": "data/npm_libs/duplexer.json",
-        "name": "duplexer",
-        "pk": "duplexer.json",
+        "npm_name": "duplexer",
+        "pk": "duplexer",
         "size": 3274
     },
     "duplexer2.json": {
         "filename": "data/npm_libs/duplexer2.json",
-        "name": "duplexer2",
-        "pk": "duplexer2.json",
+        "npm_name": "duplexer2",
+        "pk": "duplexer2",
         "size": 2022
     },
     "duplexer3.json": {
         "filename": "data/npm_libs/duplexer3.json",
-        "name": "duplexer3",
-        "pk": "duplexer3.json",
+        "npm_name": "duplexer3",
+        "pk": "duplexer3",
         "size": 1249
     },
     "ecc-jsbn.json": {
         "filename": "data/npm_libs/ecc-jsbn.json",
-        "name": "ecc-jsbn",
-        "pk": "ecc-jsbn.json",
+        "npm_name": "ecc-jsbn",
+        "pk": "ecc-jsbn",
         "size": 2580
     },
     "ecdsa-sig-formatter.json": {
         "filename": "data/npm_libs/ecdsa-sig-formatter.json",
-        "name": "ecdsa-sig-formatter",
-        "pk": "ecdsa-sig-formatter.json",
+        "npm_name": "ecdsa-sig-formatter",
+        "pk": "ecdsa-sig-formatter",
         "size": 3384
     },
     "ee-first.json": {
         "filename": "data/npm_libs/ee-first.json",
-        "name": "ee-first",
-        "pk": "ee-first.json",
+        "npm_name": "ee-first",
+        "pk": "ee-first",
         "size": 2037
     },
     "electron-download.json": {
         "filename": "data/npm_libs/electron-download.json",
-        "name": "electron-download",
-        "pk": "electron-download.json",
+        "npm_name": "electron-download",
+        "pk": "electron-download",
         "size": 5115
     },
     "electron.json": {
         "filename": "data/npm_libs/electron.json",
-        "name": "electron",
-        "pk": "electron.json",
+        "npm_name": "electron",
+        "pk": "electron",
         "size": 26917
     },
     "emoji-regex.json": {
         "filename": "data/npm_libs/emoji-regex.json",
-        "name": "emoji-regex",
-        "pk": "emoji-regex.json",
+        "npm_name": "emoji-regex",
+        "pk": "emoji-regex",
         "size": 4044
     },
     "encodeurl.json": {
         "filename": "data/npm_libs/encodeurl.json",
-        "name": "encodeurl",
-        "pk": "encodeurl.json",
+        "npm_name": "encodeurl",
+        "pk": "encodeurl",
         "size": 2066
     },
     "end-of-stream.json": {
         "filename": "data/npm_libs/end-of-stream.json",
-        "name": "end-of-stream",
-        "pk": "end-of-stream.json",
+        "npm_name": "end-of-stream",
+        "pk": "end-of-stream",
         "size": 2407
     },
     "engine.io-client.json": {
         "filename": "data/npm_libs/engine.io-client.json",
-        "name": "engine.io-client",
-        "pk": "engine.io-client.json",
+        "npm_name": "engine.io-client",
+        "pk": "engine.io-client",
         "size": 9277
     },
     "engine.io-parser.json": {
         "filename": "data/npm_libs/engine.io-parser.json",
-        "name": "engine.io-parser",
-        "pk": "engine.io-parser.json",
+        "npm_name": "engine.io-parser",
+        "pk": "engine.io-parser",
         "size": 4173
     },
     "engine.io.json": {
         "filename": "data/npm_libs/engine.io.json",
-        "name": "engine.io",
-        "pk": "engine.io.json",
+        "npm_name": "engine.io",
+        "pk": "engine.io",
         "size": 9332
     },
     "env-paths.json": {
         "filename": "data/npm_libs/env-paths.json",
-        "name": "env-paths",
-        "pk": "env-paths.json",
+        "npm_name": "env-paths",
+        "pk": "env-paths",
         "size": 2956
     },
     "envconf.json": {
         "filename": "data/npm_libs/envconf.json",
-        "name": "envconf",
-        "pk": "envconf.json",
+        "npm_name": "envconf",
+        "pk": "envconf",
         "size": 1796
     },
     "es-abstract.json": {
         "filename": "data/npm_libs/es-abstract.json",
-        "name": "es-abstract",
-        "pk": "es-abstract.json",
+        "npm_name": "es-abstract",
+        "pk": "es-abstract",
         "size": 5629
     },
     "es-to-primitive.json": {
         "filename": "data/npm_libs/es-to-primitive.json",
-        "name": "es-to-primitive",
-        "pk": "es-to-primitive.json",
+        "npm_name": "es-to-primitive",
+        "pk": "es-to-primitive",
         "size": 3925
     },
     "es5-ext.json": {
         "filename": "data/npm_libs/es5-ext.json",
-        "name": "es5-ext",
-        "pk": "es5-ext.json",
+        "npm_name": "es5-ext",
+        "pk": "es5-ext",
         "size": 7862
     },
     "es6-iterator.json": {
         "filename": "data/npm_libs/es6-iterator.json",
-        "name": "es6-iterator",
-        "pk": "es6-iterator.json",
+        "npm_name": "es6-iterator",
+        "pk": "es6-iterator",
         "size": 2112
     },
     "es6-map.json": {
         "filename": "data/npm_libs/es6-map.json",
-        "name": "es6-map",
-        "pk": "es6-map.json",
+        "npm_name": "es6-map",
+        "pk": "es6-map",
         "size": 2223
     },
     "es6-set.json": {
         "filename": "data/npm_libs/es6-set.json",
-        "name": "es6-set",
-        "pk": "es6-set.json",
+        "npm_name": "es6-set",
+        "pk": "es6-set",
         "size": 2051
     },
     "es6-symbol.json": {
         "filename": "data/npm_libs/es6-symbol.json",
-        "name": "es6-symbol",
-        "pk": "es6-symbol.json",
+        "npm_name": "es6-symbol",
+        "pk": "es6-symbol",
         "size": 2244
     },
     "escape-html.json": {
         "filename": "data/npm_libs/escape-html.json",
-        "name": "escape-html",
-        "pk": "escape-html.json",
+        "npm_name": "escape-html",
+        "pk": "escape-html",
         "size": 2309
     },
     "escape-latex.json": {
         "filename": "data/npm_libs/escape-latex.json",
-        "name": "escape-latex",
-        "pk": "escape-latex.json",
+        "npm_name": "escape-latex",
+        "pk": "escape-latex",
         "size": 4273
     },
     "escape-string-regexp.json": {
         "filename": "data/npm_libs/escape-string-regexp.json",
-        "name": "escape-string-regexp",
-        "pk": "escape-string-regexp.json",
+        "npm_name": "escape-string-regexp",
+        "pk": "escape-string-regexp",
         "size": 3637
     },
     "escodegen.json": {
         "filename": "data/npm_libs/escodegen.json",
-        "name": "escodegen",
-        "pk": "escodegen.json",
+        "npm_name": "escodegen",
+        "pk": "escodegen",
         "size": 6258
     },
     "esprima.json": {
         "filename": "data/npm_libs/esprima.json",
-        "name": "esprima",
-        "pk": "esprima.json",
+        "npm_name": "esprima",
+        "pk": "esprima",
         "size": 10026
     },
     "estraverse.json": {
         "filename": "data/npm_libs/estraverse.json",
-        "name": "estraverse",
-        "pk": "estraverse.json",
+        "npm_name": "estraverse",
+        "pk": "estraverse",
         "size": 4505
     },
     "estree-is-function.json": {
         "filename": "data/npm_libs/estree-is-function.json",
-        "name": "estree-is-function",
-        "pk": "estree-is-function.json",
+        "npm_name": "estree-is-function",
+        "pk": "estree-is-function",
         "size": 1475
     },
     "esutils.json": {
         "filename": "data/npm_libs/esutils.json",
-        "name": "esutils",
-        "pk": "esutils.json",
+        "npm_name": "esutils",
+        "pk": "esutils",
         "size": 3315
     },
     "etag.json": {
         "filename": "data/npm_libs/etag.json",
-        "name": "etag",
-        "pk": "etag.json",
+        "npm_name": "etag",
+        "pk": "etag",
         "size": 3202
     },
     "event-emitter.json": {
         "filename": "data/npm_libs/event-emitter.json",
-        "name": "event-emitter",
-        "pk": "event-emitter.json",
+        "npm_name": "event-emitter",
+        "pk": "event-emitter",
         "size": 3019
     },
     "event-target-shim.json": {
         "filename": "data/npm_libs/event-target-shim.json",
-        "name": "event-target-shim",
-        "pk": "event-target-shim.json",
+        "npm_name": "event-target-shim",
+        "pk": "event-target-shim",
         "size": 5480
     },
     "eventemitter2.json": {
         "filename": "data/npm_libs/eventemitter2.json",
-        "name": "eventemitter2",
-        "pk": "eventemitter2.json",
+        "npm_name": "eventemitter2",
+        "pk": "eventemitter2",
         "size": 5795
     },
     "events.json": {
         "filename": "data/npm_libs/events.json",
-        "name": "events",
-        "pk": "events.json",
+        "npm_name": "events",
+        "pk": "events",
         "size": 4555
     },
     "execa.json": {
         "filename": "data/npm_libs/execa.json",
-        "name": "execa",
-        "pk": "execa.json",
+        "npm_name": "execa",
+        "pk": "execa",
         "size": 5284
     },
     "exit.json": {
         "filename": "data/npm_libs/exit.json",
-        "name": "exit",
-        "pk": "exit.json",
+        "npm_name": "exit",
+        "pk": "exit",
         "size": 4239
     },
     "expand-tilde.json": {
         "filename": "data/npm_libs/expand-tilde.json",
-        "name": "expand-tilde",
-        "pk": "expand-tilde.json",
+        "npm_name": "expand-tilde",
+        "pk": "expand-tilde",
         "size": 2558
     },
     "express-favicon.json": {
         "filename": "data/npm_libs/express-favicon.json",
-        "name": "express-favicon",
-        "pk": "express-favicon.json",
+        "npm_name": "express-favicon",
+        "pk": "express-favicon",
         "size": 2937
     },
     "express-session.json": {
         "filename": "data/npm_libs/express-session.json",
-        "name": "express-session",
-        "pk": "express-session.json",
+        "npm_name": "express-session",
+        "pk": "express-session",
         "size": 14976
     },
     "express.json": {
         "filename": "data/npm_libs/express.json",
-        "name": "express",
-        "pk": "express.json",
+        "npm_name": "express",
+        "pk": "express",
         "size": 78915
     },
     "extend.json": {
         "filename": "data/npm_libs/extend.json",
-        "name": "extend",
-        "pk": "extend.json",
+        "npm_name": "extend",
+        "pk": "extend",
         "size": 4657
     },
     "extract-zip.json": {
         "filename": "data/npm_libs/extract-zip.json",
-        "name": "extract-zip",
-        "pk": "extract-zip.json",
+        "npm_name": "extract-zip",
+        "pk": "extract-zip",
         "size": 3799
     },
     "extsprintf.json": {
         "filename": "data/npm_libs/extsprintf.json",
-        "name": "extsprintf",
-        "pk": "extsprintf.json",
+        "npm_name": "extsprintf",
+        "pk": "extsprintf",
         "size": 1548
     },
     "faker.json": {
         "filename": "data/npm_libs/faker.json",
-        "name": "faker",
-        "pk": "faker.json",
+        "npm_name": "faker",
+        "pk": "faker",
         "size": 9048
     },
     "fast-deep-equal.json": {
         "filename": "data/npm_libs/fast-deep-equal.json",
-        "name": "fast-deep-equal",
-        "pk": "fast-deep-equal.json",
+        "npm_name": "fast-deep-equal",
+        "pk": "fast-deep-equal",
         "size": 3488
     },
     "fast-json-stable-stringify.json": {
         "filename": "data/npm_libs/fast-json-stable-stringify.json",
-        "name": "fast-json-stable-stringify",
-        "pk": "fast-json-stable-stringify.json",
+        "npm_name": "fast-json-stable-stringify",
+        "pk": "fast-json-stable-stringify",
         "size": 1887
     },
     "fast-levenshtein.json": {
         "filename": "data/npm_libs/fast-levenshtein.json",
-        "name": "fast-levenshtein",
-        "pk": "fast-levenshtein.json",
+        "npm_name": "fast-levenshtein",
+        "pk": "fast-levenshtein",
         "size": 3088
     },
     "fd-slicer.json": {
         "filename": "data/npm_libs/fd-slicer.json",
-        "name": "fd-slicer",
-        "pk": "fd-slicer.json",
+        "npm_name": "fd-slicer",
+        "pk": "fd-slicer",
         "size": 3279
     },
     "filesize.json": {
         "filename": "data/npm_libs/filesize.json",
-        "name": "filesize",
-        "pk": "filesize.json",
+        "npm_name": "filesize",
+        "pk": "filesize",
         "size": 6921
     },
     "fill-range.json": {
         "filename": "data/npm_libs/fill-range.json",
-        "name": "fill-range",
-        "pk": "fill-range.json",
+        "npm_name": "fill-range",
+        "pk": "fill-range",
         "size": 5014
     },
     "finalhandler.json": {
         "filename": "data/npm_libs/finalhandler.json",
-        "name": "finalhandler",
-        "pk": "finalhandler.json",
+        "npm_name": "finalhandler",
+        "pk": "finalhandler",
         "size": 4924
     },
     "find-up.json": {
         "filename": "data/npm_libs/find-up.json",
-        "name": "find-up",
-        "pk": "find-up.json",
+        "npm_name": "find-up",
+        "pk": "find-up",
         "size": 3399
     },
     "findup-sync.json": {
         "filename": "data/npm_libs/findup-sync.json",
-        "name": "findup-sync",
-        "pk": "findup-sync.json",
+        "npm_name": "findup-sync",
+        "pk": "findup-sync",
         "size": 4430
     },
     "fined.json": {
         "filename": "data/npm_libs/fined.json",
-        "name": "fined",
-        "pk": "fined.json",
+        "npm_name": "fined",
+        "pk": "fined",
         "size": 3207
     },
     "flagged-respawn.json": {
         "filename": "data/npm_libs/flagged-respawn.json",
-        "name": "flagged-respawn",
-        "pk": "flagged-respawn.json",
+        "npm_name": "flagged-respawn",
+        "pk": "flagged-respawn",
         "size": 3576
     },
     "flat.json": {
         "filename": "data/npm_libs/flat.json",
-        "name": "flat",
-        "pk": "flat.json",
+        "npm_name": "flat",
+        "pk": "flat",
         "size": 4558
     },
     "flatted.json": {
         "filename": "data/npm_libs/flatted.json",
-        "name": "flatted",
-        "pk": "flatted.json",
+        "npm_name": "flatted",
+        "pk": "flatted",
         "size": 3739
     },
     "fontkit.json": {
         "filename": "data/npm_libs/fontkit.json",
-        "name": "fontkit",
-        "pk": "fontkit.json",
+        "npm_name": "fontkit",
+        "pk": "fontkit",
         "size": 5678
     },
     "for-in.json": {
         "filename": "data/npm_libs/for-in.json",
-        "name": "for-in",
-        "pk": "for-in.json",
+        "npm_name": "for-in",
+        "pk": "for-in",
         "size": 2731
     },
     "for-own.json": {
         "filename": "data/npm_libs/for-own.json",
-        "name": "for-own",
-        "pk": "for-own.json",
+        "npm_name": "for-own",
+        "pk": "for-own",
         "size": 2463
     },
     "foreachasync.json": {
         "filename": "data/npm_libs/foreachasync.json",
-        "name": "foreachasync",
-        "pk": "foreachasync.json",
+        "npm_name": "foreachasync",
+        "pk": "foreachasync",
         "size": 2990
     },
     "forever-agent.json": {
         "filename": "data/npm_libs/forever-agent.json",
-        "name": "forever-agent",
-        "pk": "forever-agent.json",
+        "npm_name": "forever-agent",
+        "pk": "forever-agent",
         "size": 1742
     },
     "form-data.json": {
         "filename": "data/npm_libs/form-data.json",
-        "name": "form-data",
-        "pk": "form-data.json",
+        "npm_name": "form-data",
+        "pk": "form-data",
         "size": 7481
     },
     "forwarded.json": {
         "filename": "data/npm_libs/forwarded.json",
-        "name": "forwarded",
-        "pk": "forwarded.json",
+        "npm_name": "forwarded",
+        "pk": "forwarded",
         "size": 2111
     },
     "fraction.js.json": {
         "filename": "data/npm_libs/fraction.js.json",
-        "name": "fraction.js",
-        "pk": "fraction.js.json",
+        "npm_name": "fraction.js",
+        "pk": "fraction.js",
         "size": 4469
     },
     "fresh.json": {
         "filename": "data/npm_libs/fresh.json",
-        "name": "fresh",
-        "pk": "fresh.json",
+        "npm_name": "fresh",
+        "pk": "fresh",
         "size": 3013
     },
     "fs-extra.json": {
         "filename": "data/npm_libs/fs-extra.json",
-        "name": "fs-extra",
-        "pk": "fs-extra.json",
+        "npm_name": "fs-extra",
+        "pk": "fs-extra",
         "size": 17582
     },
     "fs-minipass.json": {
         "filename": "data/npm_libs/fs-minipass.json",
-        "name": "fs-minipass",
-        "pk": "fs-minipass.json",
+        "npm_name": "fs-minipass",
+        "pk": "fs-minipass",
         "size": 2980
     },
     "fs.realpath.json": {
         "filename": "data/npm_libs/fs.realpath.json",
-        "name": "fs.realpath",
-        "pk": "fs.realpath.json",
+        "npm_name": "fs.realpath",
+        "pk": "fs.realpath",
         "size": 1370
     },
     "fsevents.json": {
         "filename": "data/npm_libs/fsevents.json",
-        "name": "fsevents",
-        "pk": "fsevents.json",
+        "npm_name": "fsevents",
+        "pk": "fsevents",
         "size": 6234
     },
     "function-bind.json": {
         "filename": "data/npm_libs/function-bind.json",
-        "name": "function-bind",
-        "pk": "function-bind.json",
+        "npm_name": "function-bind",
+        "pk": "function-bind",
         "size": 2445
     },
     "gauge.json": {
         "filename": "data/npm_libs/gauge.json",
-        "name": "gauge",
-        "pk": "gauge.json",
+        "npm_name": "gauge",
+        "pk": "gauge",
         "size": 3804
     },
     "generate-function.json": {
         "filename": "data/npm_libs/generate-function.json",
-        "name": "generate-function",
-        "pk": "generate-function.json",
+        "npm_name": "generate-function",
+        "pk": "generate-function",
         "size": 2933
     },
     "generic-pool.json": {
         "filename": "data/npm_libs/generic-pool.json",
-        "name": "generic-pool",
-        "pk": "generic-pool.json",
+        "npm_name": "generic-pool",
+        "pk": "generic-pool",
         "size": 7943
     },
     "get-assigned-identifiers.json": {
         "filename": "data/npm_libs/get-assigned-identifiers.json",
-        "name": "get-assigned-identifiers",
-        "pk": "get-assigned-identifiers.json",
+        "npm_name": "get-assigned-identifiers",
+        "pk": "get-assigned-identifiers",
         "size": 1670
     },
     "get-caller-file.json": {
         "filename": "data/npm_libs/get-caller-file.json",
-        "name": "get-caller-file",
-        "pk": "get-caller-file.json",
+        "npm_name": "get-caller-file",
+        "pk": "get-caller-file",
         "size": 3288
     },
     "get-stream.json": {
         "filename": "data/npm_libs/get-stream.json",
-        "name": "get-stream",
-        "pk": "get-stream.json",
+        "npm_name": "get-stream",
+        "pk": "get-stream",
         "size": 3487
     },
     "getobject.json": {
         "filename": "data/npm_libs/getobject.json",
-        "name": "getobject",
-        "pk": "getobject.json",
+        "npm_name": "getobject",
+        "pk": "getobject",
         "size": 2168
     },
     "getpass.json": {
         "filename": "data/npm_libs/getpass.json",
-        "name": "getpass",
-        "pk": "getpass.json",
+        "npm_name": "getpass",
+        "pk": "getpass",
         "size": 1497
     },
     "glob-parent.json": {
         "filename": "data/npm_libs/glob-parent.json",
-        "name": "glob-parent",
-        "pk": "glob-parent.json",
+        "npm_name": "glob-parent",
+        "pk": "glob-parent",
         "size": 3593
     },
     "glob.json": {
         "filename": "data/npm_libs/glob.json",
-        "name": "glob",
-        "pk": "glob.json",
+        "npm_name": "glob",
+        "pk": "glob",
         "size": 16569
     },
     "global-dirs.json": {
         "filename": "data/npm_libs/global-dirs.json",
-        "name": "global-dirs",
-        "pk": "global-dirs.json",
+        "npm_name": "global-dirs",
+        "pk": "global-dirs",
         "size": 2816
     },
     "global-modules.json": {
         "filename": "data/npm_libs/global-modules.json",
-        "name": "global-modules",
-        "pk": "global-modules.json",
+        "npm_name": "global-modules",
+        "pk": "global-modules",
         "size": 3483
     },
     "global-prefix.json": {
         "filename": "data/npm_libs/global-prefix.json",
-        "name": "global-prefix",
-        "pk": "global-prefix.json",
+        "npm_name": "global-prefix",
+        "pk": "global-prefix",
         "size": 3527
     },
     "got.json": {
         "filename": "data/npm_libs/got.json",
-        "name": "got",
-        "pk": "got.json",
+        "npm_name": "got",
+        "pk": "got",
         "size": 10917
     },
     "graceful-fs.json": {
         "filename": "data/npm_libs/graceful-fs.json",
-        "name": "graceful-fs",
-        "pk": "graceful-fs.json",
+        "npm_name": "graceful-fs",
+        "pk": "graceful-fs",
         "size": 7576
     },
     "gremlin.json": {
         "filename": "data/npm_libs/gremlin.json",
-        "name": "gremlin",
-        "pk": "gremlin.json",
+        "npm_name": "gremlin",
+        "pk": "gremlin",
         "size": 5189
     },
     "growl.json": {
         "filename": "data/npm_libs/growl.json",
-        "name": "growl",
-        "pk": "growl.json",
+        "npm_name": "growl",
+        "pk": "growl",
         "size": 3188
     },
     "grunt-cli.json": {
         "filename": "data/npm_libs/grunt-cli.json",
-        "name": "grunt-cli",
-        "pk": "grunt-cli.json",
+        "npm_name": "grunt-cli",
+        "pk": "grunt-cli",
         "size": 11462
     },
     "grunt-known-options.json": {
         "filename": "data/npm_libs/grunt-known-options.json",
-        "name": "grunt-known-options",
-        "pk": "grunt-known-options.json",
+        "npm_name": "grunt-known-options",
+        "pk": "grunt-known-options",
         "size": 2397
     },
     "grunt-legacy-log-utils.json": {
         "filename": "data/npm_libs/grunt-legacy-log-utils.json",
-        "name": "grunt-legacy-log-utils",
-        "pk": "grunt-legacy-log-utils.json",
+        "npm_name": "grunt-legacy-log-utils",
+        "pk": "grunt-legacy-log-utils",
         "size": 2849
     },
     "grunt-legacy-log.json": {
         "filename": "data/npm_libs/grunt-legacy-log.json",
-        "name": "grunt-legacy-log",
-        "pk": "grunt-legacy-log.json",
+        "npm_name": "grunt-legacy-log",
+        "pk": "grunt-legacy-log",
         "size": 3087
     },
     "grunt-legacy-util.json": {
         "filename": "data/npm_libs/grunt-legacy-util.json",
-        "name": "grunt-legacy-util",
-        "pk": "grunt-legacy-util.json",
+        "npm_name": "grunt-legacy-util",
+        "pk": "grunt-legacy-util",
         "size": 3161
     },
     "grunt.json": {
         "filename": "data/npm_libs/grunt.json",
-        "name": "grunt",
-        "pk": "grunt.json",
+        "npm_name": "grunt",
+        "pk": "grunt",
         "size": 22771
     },
     "har-schema.json": {
         "filename": "data/npm_libs/har-schema.json",
-        "name": "har-schema",
-        "pk": "har-schema.json",
+        "npm_name": "har-schema",
+        "pk": "har-schema",
         "size": 2462
     },
     "har-validator.json": {
         "filename": "data/npm_libs/har-validator.json",
-        "name": "har-validator",
-        "pk": "har-validator.json",
+        "npm_name": "har-validator",
+        "pk": "har-validator",
         "size": 5642
     },
     "has-binary2.json": {
         "filename": "data/npm_libs/has-binary2.json",
-        "name": "has-binary2",
-        "pk": "has-binary2.json",
+        "npm_name": "has-binary2",
+        "pk": "has-binary2",
         "size": 2319
     },
     "has-cors.json": {
         "filename": "data/npm_libs/has-cors.json",
-        "name": "has-cors",
-        "pk": "has-cors.json",
+        "npm_name": "has-cors",
+        "pk": "has-cors",
         "size": 1382
     },
     "has-flag.json": {
         "filename": "data/npm_libs/has-flag.json",
-        "name": "has-flag",
-        "pk": "has-flag.json",
+        "npm_name": "has-flag",
+        "pk": "has-flag",
         "size": 2799
     },
     "has-symbols.json": {
         "filename": "data/npm_libs/has-symbols.json",
-        "name": "has-symbols",
-        "pk": "has-symbols.json",
+        "npm_name": "has-symbols",
+        "pk": "has-symbols",
         "size": 2670
     },
     "has-unicode.json": {
         "filename": "data/npm_libs/has-unicode.json",
-        "name": "has-unicode",
-        "pk": "has-unicode.json",
+        "npm_name": "has-unicode",
+        "pk": "has-unicode",
         "size": 1386
     },
     "has-yarn.json": {
         "filename": "data/npm_libs/has-yarn.json",
-        "name": "has-yarn",
-        "pk": "has-yarn.json",
+        "npm_name": "has-yarn",
+        "pk": "has-yarn",
         "size": 2504
     },
     "has.json": {
         "filename": "data/npm_libs/has.json",
-        "name": "has",
-        "pk": "has.json",
+        "npm_name": "has",
+        "pk": "has",
         "size": 3024
     },
     "he.json": {
         "filename": "data/npm_libs/he.json",
-        "name": "he",
-        "pk": "he.json",
+        "npm_name": "he",
+        "pk": "he",
         "size": 4983
     },
     "homedir-polyfill.json": {
         "filename": "data/npm_libs/homedir-polyfill.json",
-        "name": "homedir-polyfill",
-        "pk": "homedir-polyfill.json",
+        "npm_name": "homedir-polyfill",
+        "pk": "homedir-polyfill",
         "size": 2952
     },
     "hooker.json": {
         "filename": "data/npm_libs/hooker.json",
-        "name": "hooker",
-        "pk": "hooker.json",
+        "npm_name": "hooker",
+        "pk": "hooker",
         "size": 1516
     },
     "http-cache-semantics.json": {
         "filename": "data/npm_libs/http-cache-semantics.json",
-        "name": "http-cache-semantics",
-        "pk": "http-cache-semantics.json",
+        "npm_name": "http-cache-semantics",
+        "pk": "http-cache-semantics",
         "size": 3734
     },
     "http-errors.json": {
         "filename": "data/npm_libs/http-errors.json",
-        "name": "http-errors",
-        "pk": "http-errors.json",
+        "npm_name": "http-errors",
+        "pk": "http-errors",
         "size": 5369
     },
     "http-signature.json": {
         "filename": "data/npm_libs/http-signature.json",
-        "name": "http-signature",
-        "pk": "http-signature.json",
+        "npm_name": "http-signature",
+        "pk": "http-signature",
         "size": 2750
     },
     "iconv-lite.json": {
         "filename": "data/npm_libs/iconv-lite.json",
-        "name": "iconv-lite",
-        "pk": "iconv-lite.json",
+        "npm_name": "iconv-lite",
+        "pk": "iconv-lite",
         "size": 7621
     },
     "ieee754.json": {
         "filename": "data/npm_libs/ieee754.json",
-        "name": "ieee754",
-        "pk": "ieee754.json",
+        "npm_name": "ieee754",
+        "pk": "ieee754",
         "size": 3407
     },
     "ignore-by-default.json": {
         "filename": "data/npm_libs/ignore-by-default.json",
-        "name": "ignore-by-default",
-        "pk": "ignore-by-default.json",
+        "npm_name": "ignore-by-default",
+        "pk": "ignore-by-default",
         "size": 1438
     },
     "ignore-walk.json": {
         "filename": "data/npm_libs/ignore-walk.json",
-        "name": "ignore-walk",
-        "pk": "ignore-walk.json",
+        "npm_name": "ignore-walk",
+        "pk": "ignore-walk",
         "size": 2277
     },
     "import-lazy.json": {
         "filename": "data/npm_libs/import-lazy.json",
-        "name": "import-lazy",
-        "pk": "import-lazy.json",
+        "npm_name": "import-lazy",
+        "pk": "import-lazy",
         "size": 2591
     },
     "imurmurhash.json": {
         "filename": "data/npm_libs/imurmurhash.json",
-        "name": "imurmurhash",
-        "pk": "imurmurhash.json",
+        "npm_name": "imurmurhash",
+        "pk": "imurmurhash",
         "size": 6437
     },
     "indexof.json": {
         "filename": "data/npm_libs/indexof.json",
-        "name": "indexof",
-        "pk": "indexof.json",
+        "npm_name": "indexof",
+        "pk": "indexof",
         "size": 789
     },
     "inflight.json": {
         "filename": "data/npm_libs/inflight.json",
-        "name": "inflight",
-        "pk": "inflight.json",
+        "npm_name": "inflight",
+        "pk": "inflight",
         "size": 1729
     },
     "inherits.json": {
         "filename": "data/npm_libs/inherits.json",
-        "name": "inherits",
-        "pk": "inherits.json",
+        "npm_name": "inherits",
+        "pk": "inherits",
         "size": 3744
     },
     "ini.json": {
         "filename": "data/npm_libs/ini.json",
-        "name": "ini",
-        "pk": "ini.json",
+        "npm_name": "ini",
+        "pk": "ini",
         "size": 3209
     },
     "interpret.json": {
         "filename": "data/npm_libs/interpret.json",
-        "name": "interpret",
-        "pk": "interpret.json",
+        "npm_name": "interpret",
+        "pk": "interpret",
         "size": 5484
     },
     "ip-regex.json": {
         "filename": "data/npm_libs/ip-regex.json",
-        "name": "ip-regex",
-        "pk": "ip-regex.json",
+        "npm_name": "ip-regex",
+        "pk": "ip-regex",
         "size": 3058
     },
     "ipaddr.js.json": {
         "filename": "data/npm_libs/ipaddr.js.json",
-        "name": "ipaddr.js",
-        "pk": "ipaddr.js.json",
+        "npm_name": "ipaddr.js",
+        "pk": "ipaddr.js",
         "size": 4465
     },
     "is-absolute.json": {
         "filename": "data/npm_libs/is-absolute.json",
-        "name": "is-absolute",
-        "pk": "is-absolute.json",
+        "npm_name": "is-absolute",
+        "pk": "is-absolute",
         "size": 3443
     },
     "is-arguments.json": {
         "filename": "data/npm_libs/is-arguments.json",
-        "name": "is-arguments",
-        "pk": "is-arguments.json",
+        "npm_name": "is-arguments",
+        "pk": "is-arguments",
         "size": 3631
     },
     "is-binary-path.json": {
         "filename": "data/npm_libs/is-binary-path.json",
-        "name": "is-binary-path",
-        "pk": "is-binary-path.json",
+        "npm_name": "is-binary-path",
+        "pk": "is-binary-path",
         "size": 2836
     },
     "is-buffer.json": {
         "filename": "data/npm_libs/is-buffer.json",
-        "name": "is-buffer",
-        "pk": "is-buffer.json",
+        "npm_name": "is-buffer",
+        "pk": "is-buffer",
         "size": 3582
     },
     "is-callable.json": {
         "filename": "data/npm_libs/is-callable.json",
-        "name": "is-callable",
-        "pk": "is-callable.json",
+        "npm_name": "is-callable",
+        "pk": "is-callable",
         "size": 5059
     },
     "is-ci.json": {
         "filename": "data/npm_libs/is-ci.json",
-        "name": "is-ci",
-        "pk": "is-ci.json",
+        "npm_name": "is-ci",
+        "pk": "is-ci",
         "size": 3222
     },
     "is-date-object.json": {
         "filename": "data/npm_libs/is-date-object.json",
-        "name": "is-date-object",
-        "pk": "is-date-object.json",
+        "npm_name": "is-date-object",
+        "pk": "is-date-object",
         "size": 2352
     },
     "is-expression.json": {
         "filename": "data/npm_libs/is-expression.json",
-        "name": "is-expression",
-        "pk": "is-expression.json",
+        "npm_name": "is-expression",
+        "pk": "is-expression",
         "size": 1712
     },
     "is-extglob.json": {
         "filename": "data/npm_libs/is-extglob.json",
-        "name": "is-extglob",
-        "pk": "is-extglob.json",
+        "npm_name": "is-extglob",
+        "pk": "is-extglob",
         "size": 2078
     },
     "is-fullwidth-code-point.json": {
         "filename": "data/npm_libs/is-fullwidth-code-point.json",
-        "name": "is-fullwidth-code-point",
-        "pk": "is-fullwidth-code-point.json",
+        "npm_name": "is-fullwidth-code-point",
+        "pk": "is-fullwidth-code-point",
         "size": 2708
     },
     "is-generator-function.json": {
         "filename": "data/npm_libs/is-generator-function.json",
-        "name": "is-generator-function",
-        "pk": "is-generator-function.json",
+        "npm_name": "is-generator-function",
+        "pk": "is-generator-function",
         "size": 3161
     },
     "is-glob.json": {
         "filename": "data/npm_libs/is-glob.json",
-        "name": "is-glob",
-        "pk": "is-glob.json",
+        "npm_name": "is-glob",
+        "pk": "is-glob",
         "size": 4278
     },
     "is-installed-globally.json": {
         "filename": "data/npm_libs/is-installed-globally.json",
-        "name": "is-installed-globally",
-        "pk": "is-installed-globally.json",
+        "npm_name": "is-installed-globally",
+        "pk": "is-installed-globally",
         "size": 2803
     },
     "is-npm.json": {
         "filename": "data/npm_libs/is-npm.json",
-        "name": "is-npm",
-        "pk": "is-npm.json",
+        "npm_name": "is-npm",
+        "pk": "is-npm",
         "size": 2493
     },
     "is-number.json": {
         "filename": "data/npm_libs/is-number.json",
-        "name": "is-number",
-        "pk": "is-number.json",
+        "npm_name": "is-number",
+        "pk": "is-number",
         "size": 4442
     },
     "is-obj.json": {
         "filename": "data/npm_libs/is-obj.json",
-        "name": "is-obj",
-        "pk": "is-obj.json",
+        "npm_name": "is-obj",
+        "pk": "is-obj",
         "size": 2486
     },
     "is-path-inside.json": {
         "filename": "data/npm_libs/is-path-inside.json",
-        "name": "is-path-inside",
-        "pk": "is-path-inside.json",
+        "npm_name": "is-path-inside",
+        "pk": "is-path-inside",
         "size": 2803
     },
     "is-plain-object.json": {
         "filename": "data/npm_libs/is-plain-object.json",
-        "name": "is-plain-object",
-        "pk": "is-plain-object.json",
+        "npm_name": "is-plain-object",
+        "pk": "is-plain-object",
         "size": 4110
     },
     "is-promise.json": {
         "filename": "data/npm_libs/is-promise.json",
-        "name": "is-promise",
-        "pk": "is-promise.json",
+        "npm_name": "is-promise",
+        "pk": "is-promise",
         "size": 1405
     },
     "is-property.json": {
         "filename": "data/npm_libs/is-property.json",
-        "name": "is-property",
-        "pk": "is-property.json",
+        "npm_name": "is-property",
+        "pk": "is-property",
         "size": 1453
     },
     "is-regex.json": {
         "filename": "data/npm_libs/is-regex.json",
-        "name": "is-regex",
-        "pk": "is-regex.json",
+        "npm_name": "is-regex",
+        "pk": "is-regex",
         "size": 2683
     },
     "is-relative.json": {
         "filename": "data/npm_libs/is-relative.json",
-        "name": "is-relative",
-        "pk": "is-relative.json",
+        "npm_name": "is-relative",
+        "pk": "is-relative",
         "size": 2505
     },
     "is-stream.json": {
         "filename": "data/npm_libs/is-stream.json",
-        "name": "is-stream",
-        "pk": "is-stream.json",
+        "npm_name": "is-stream",
+        "pk": "is-stream",
         "size": 2768
     },
     "is-symbol.json": {
         "filename": "data/npm_libs/is-symbol.json",
-        "name": "is-symbol",
-        "pk": "is-symbol.json",
+        "npm_name": "is-symbol",
+        "pk": "is-symbol",
         "size": 3389
     },
     "is-typedarray.json": {
         "filename": "data/npm_libs/is-typedarray.json",
-        "name": "is-typedarray",
-        "pk": "is-typedarray.json",
+        "npm_name": "is-typedarray",
+        "pk": "is-typedarray",
         "size": 1310
     },
     "is-unc-path.json": {
         "filename": "data/npm_libs/is-unc-path.json",
-        "name": "is-unc-path",
-        "pk": "is-unc-path.json",
+        "npm_name": "is-unc-path",
+        "pk": "is-unc-path",
         "size": 2026
     },
     "is-windows.json": {
         "filename": "data/npm_libs/is-windows.json",
-        "name": "is-windows",
-        "pk": "is-windows.json",
+        "npm_name": "is-windows",
+        "pk": "is-windows",
         "size": 2574
     },
     "is-yarn-global.json": {
         "filename": "data/npm_libs/is-yarn-global.json",
-        "name": "is-yarn-global",
-        "pk": "is-yarn-global.json",
+        "npm_name": "is-yarn-global",
+        "pk": "is-yarn-global",
         "size": 1382
     },
     "isarray.json": {
         "filename": "data/npm_libs/isarray.json",
-        "name": "isarray",
-        "pk": "isarray.json",
+        "npm_name": "isarray",
+        "pk": "isarray",
         "size": 3259
     },
     "isexe.json": {
         "filename": "data/npm_libs/isexe.json",
-        "name": "isexe",
-        "pk": "isexe.json",
+        "npm_name": "isexe",
+        "pk": "isexe",
         "size": 1558
     },
     "isobject.json": {
         "filename": "data/npm_libs/isobject.json",
-        "name": "isobject",
-        "pk": "isobject.json",
+        "npm_name": "isobject",
+        "pk": "isobject",
         "size": 4037
     },
     "isstream.json": {
         "filename": "data/npm_libs/isstream.json",
-        "name": "isstream",
-        "pk": "isstream.json",
+        "npm_name": "isstream",
+        "pk": "isstream",
         "size": 1749
     },
     "javascript-natural-sort.json": {
         "filename": "data/npm_libs/javascript-natural-sort.json",
-        "name": "javascript-natural-sort",
-        "pk": "javascript-natural-sort.json",
+        "npm_name": "javascript-natural-sort",
+        "pk": "javascript-natural-sort",
         "size": 1385
     },
     "js-stringify.json": {
         "filename": "data/npm_libs/js-stringify.json",
-        "name": "js-stringify",
-        "pk": "js-stringify.json",
+        "npm_name": "js-stringify",
+        "pk": "js-stringify",
         "size": 1243
     },
     "js-tokens.json": {
         "filename": "data/npm_libs/js-tokens.json",
-        "name": "js-tokens",
-        "pk": "js-tokens.json",
+        "npm_name": "js-tokens",
+        "pk": "js-tokens",
         "size": 3384
     },
     "js-yaml.json": {
         "filename": "data/npm_libs/js-yaml.json",
-        "name": "js-yaml",
-        "pk": "js-yaml.json",
+        "npm_name": "js-yaml",
+        "pk": "js-yaml",
         "size": 9187
     },
     "jsbn.json": {
         "filename": "data/npm_libs/jsbn.json",
-        "name": "jsbn",
-        "pk": "jsbn.json",
+        "npm_name": "jsbn",
+        "pk": "jsbn",
         "size": 1573
     },
     "json-buffer.json": {
         "filename": "data/npm_libs/json-buffer.json",
-        "name": "json-buffer",
-        "pk": "json-buffer.json",
+        "npm_name": "json-buffer",
+        "pk": "json-buffer",
         "size": 3442
     },
     "json-schema-traverse.json": {
         "filename": "data/npm_libs/json-schema-traverse.json",
-        "name": "json-schema-traverse",
-        "pk": "json-schema-traverse.json",
+        "npm_name": "json-schema-traverse",
+        "pk": "json-schema-traverse",
         "size": 2974
     },
     "json-schema.json": {
         "filename": "data/npm_libs/json-schema.json",
-        "name": "json-schema",
-        "pk": "json-schema.json",
+        "npm_name": "json-schema",
+        "pk": "json-schema",
         "size": 1738
     },
     "json-stringify-safe.json": {
         "filename": "data/npm_libs/json-stringify-safe.json",
-        "name": "json-stringify-safe",
-        "pk": "json-stringify-safe.json",
+        "npm_name": "json-stringify-safe",
+        "pk": "json-stringify-safe",
         "size": 2428
     },
     "jsonfile.json": {
         "filename": "data/npm_libs/jsonfile.json",
-        "name": "jsonfile",
-        "pk": "jsonfile.json",
+        "npm_name": "jsonfile",
+        "pk": "jsonfile",
         "size": 7220
     },
     "jsprim.json": {
         "filename": "data/npm_libs/jsprim.json",
-        "name": "jsprim",
-        "pk": "jsprim.json",
+        "npm_name": "jsprim",
+        "pk": "jsprim",
         "size": 2558
     },
     "jssha.json": {
         "filename": "data/npm_libs/jssha.json",
-        "name": "jssha",
-        "pk": "jssha.json",
+        "npm_name": "jssha",
+        "pk": "jssha",
         "size": 2368
     },
     "jstransformer.json": {
         "filename": "data/npm_libs/jstransformer.json",
-        "name": "jstransformer",
-        "pk": "jstransformer.json",
+        "npm_name": "jstransformer",
+        "pk": "jstransformer",
         "size": 1978
     },
     "jwa.json": {
         "filename": "data/npm_libs/jwa.json",
-        "name": "jwa",
-        "pk": "jwa.json",
+        "npm_name": "jwa",
+        "pk": "jwa",
         "size": 3623
     },
     "jws.json": {
         "filename": "data/npm_libs/jws.json",
-        "name": "jws",
-        "pk": "jws.json",
+        "npm_name": "jws",
+        "pk": "jws",
         "size": 3878
     },
     "keyv.json": {
         "filename": "data/npm_libs/keyv.json",
-        "name": "keyv",
-        "pk": "keyv.json",
+        "npm_name": "keyv",
+        "pk": "keyv",
         "size": 4165
     },
     "kind-of.json": {
         "filename": "data/npm_libs/kind-of.json",
-        "name": "kind-of",
-        "pk": "kind-of.json",
+        "npm_name": "kind-of",
+        "pk": "kind-of",
         "size": 4546
     },
     "latest-version.json": {
         "filename": "data/npm_libs/latest-version.json",
-        "name": "latest-version",
-        "pk": "latest-version.json",
+        "npm_name": "latest-version",
+        "pk": "latest-version",
         "size": 3353
     },
     "levn.json": {
         "filename": "data/npm_libs/levn.json",
-        "name": "levn",
-        "pk": "levn.json",
+        "npm_name": "levn",
+        "pk": "levn",
         "size": 1907
     },
     "liftoff.json": {
         "filename": "data/npm_libs/liftoff.json",
-        "name": "liftoff",
-        "pk": "liftoff.json",
+        "npm_name": "liftoff",
+        "pk": "liftoff",
         "size": 7240
     },
     "linebreak.json": {
         "filename": "data/npm_libs/linebreak.json",
-        "name": "linebreak",
-        "pk": "linebreak.json",
+        "npm_name": "linebreak",
+        "pk": "linebreak",
         "size": 2808
     },
     "locate-path.json": {
         "filename": "data/npm_libs/locate-path.json",
-        "name": "locate-path",
-        "pk": "locate-path.json",
+        "npm_name": "locate-path",
+        "pk": "locate-path",
         "size": 2849
     },
     "lodash.clone.json": {
         "filename": "data/npm_libs/lodash.clone.json",
-        "name": "lodash.clone",
-        "pk": "lodash.clone.json",
+        "npm_name": "lodash.clone",
+        "pk": "lodash.clone",
         "size": 2796
     },
     "lodash.json": {
         "filename": "data/npm_libs/lodash.json",
-        "name": "lodash",
-        "pk": "lodash.json",
+        "npm_name": "lodash",
+        "pk": "lodash",
         "size": 41995
     },
     "log-symbols.json": {
         "filename": "data/npm_libs/log-symbols.json",
-        "name": "log-symbols",
-        "pk": "log-symbols.json",
+        "npm_name": "log-symbols",
+        "pk": "log-symbols",
         "size": 3757
     },
     "log4js.json": {
         "filename": "data/npm_libs/log4js.json",
-        "name": "log4js",
-        "pk": "log4js.json",
+        "npm_name": "log4js",
+        "pk": "log4js",
         "size": 14725
     },
     "long.json": {
         "filename": "data/npm_libs/long.json",
-        "name": "long",
-        "pk": "long.json",
+        "npm_name": "long",
+        "pk": "long",
         "size": 3380
     },
     "loose-envify.json": {
         "filename": "data/npm_libs/loose-envify.json",
-        "name": "loose-envify",
-        "pk": "loose-envify.json",
+        "npm_name": "loose-envify",
+        "pk": "loose-envify",
         "size": 2917
     },
     "lowercase-keys.json": {
         "filename": "data/npm_libs/lowercase-keys.json",
-        "name": "lowercase-keys",
-        "pk": "lowercase-keys.json",
+        "npm_name": "lowercase-keys",
+        "pk": "lowercase-keys",
         "size": 2634
     },
     "lru-cache.json": {
         "filename": "data/npm_libs/lru-cache.json",
-        "name": "lru-cache",
-        "pk": "lru-cache.json",
+        "npm_name": "lru-cache",
+        "pk": "lru-cache",
         "size": 8055
     },
     "m26-js.json": {
         "filename": "data/npm_libs/m26-js.json",
-        "name": "m26-js",
-        "pk": "m26-js.json",
+        "npm_name": "m26-js",
+        "pk": "m26-js",
         "size": 2234
     },
     "macos-release.json": {
         "filename": "data/npm_libs/macos-release.json",
-        "name": "macos-release",
-        "pk": "macos-release.json",
+        "npm_name": "macos-release",
+        "pk": "macos-release",
         "size": 2742
     },
     "magic-string.json": {
         "filename": "data/npm_libs/magic-string.json",
-        "name": "magic-string",
-        "pk": "magic-string.json",
+        "npm_name": "magic-string",
+        "pk": "magic-string",
         "size": 7890
     },
     "make-dir.json": {
         "filename": "data/npm_libs/make-dir.json",
-        "name": "make-dir",
-        "pk": "make-dir.json",
+        "npm_name": "make-dir",
+        "pk": "make-dir",
         "size": 3333
     },
     "make-iterator.json": {
         "filename": "data/npm_libs/make-iterator.json",
-        "name": "make-iterator",
-        "pk": "make-iterator.json",
+        "npm_name": "make-iterator",
+        "pk": "make-iterator",
         "size": 2419
     },
     "map-cache.json": {
         "filename": "data/npm_libs/map-cache.json",
-        "name": "map-cache",
-        "pk": "map-cache.json",
+        "npm_name": "map-cache",
+        "pk": "map-cache",
         "size": 1937
     },
     "mathjs.json": {
         "filename": "data/npm_libs/mathjs.json",
-        "name": "mathjs",
-        "pk": "mathjs.json",
+        "npm_name": "mathjs",
+        "pk": "mathjs",
         "size": 21106
     },
     "media-typer.json": {
         "filename": "data/npm_libs/media-typer.json",
-        "name": "media-typer",
-        "pk": "media-typer.json",
+        "npm_name": "media-typer",
+        "pk": "media-typer",
         "size": 3138
     },
     "merge-descriptors.json": {
         "filename": "data/npm_libs/merge-descriptors.json",
-        "name": "merge-descriptors",
-        "pk": "merge-descriptors.json",
+        "npm_name": "merge-descriptors",
+        "pk": "merge-descriptors",
         "size": 2998
     },
     "merge-source-map.json": {
         "filename": "data/npm_libs/merge-source-map.json",
-        "name": "merge-source-map",
-        "pk": "merge-source-map.json",
+        "npm_name": "merge-source-map",
+        "pk": "merge-source-map",
         "size": 2124
     },
     "merge-stream.json": {
         "filename": "data/npm_libs/merge-stream.json",
-        "name": "merge-stream",
-        "pk": "merge-stream.json",
+        "npm_name": "merge-stream",
+        "pk": "merge-stream",
         "size": 4341
     },
     "methods.json": {
         "filename": "data/npm_libs/methods.json",
-        "name": "methods",
-        "pk": "methods.json",
+        "npm_name": "methods",
+        "pk": "methods",
         "size": 2515
     },
     "micromatch.json": {
         "filename": "data/npm_libs/micromatch.json",
-        "name": "micromatch",
-        "pk": "micromatch.json",
+        "npm_name": "micromatch",
+        "pk": "micromatch",
         "size": 8335
     },
     "mime-db.json": {
         "filename": "data/npm_libs/mime-db.json",
-        "name": "mime-db",
-        "pk": "mime-db.json",
+        "npm_name": "mime-db",
+        "pk": "mime-db",
         "size": 6297
     },
     "mime-types.json": {
         "filename": "data/npm_libs/mime-types.json",
-        "name": "mime-types",
-        "pk": "mime-types.json",
+        "npm_name": "mime-types",
+        "pk": "mime-types",
         "size": 6810
     },
     "mime.json": {
         "filename": "data/npm_libs/mime.json",
-        "name": "mime",
-        "pk": "mime.json",
+        "npm_name": "mime",
+        "pk": "mime",
         "size": 7820
     },
     "mimic-fn.json": {
         "filename": "data/npm_libs/mimic-fn.json",
-        "name": "mimic-fn",
-        "pk": "mimic-fn.json",
+        "npm_name": "mimic-fn",
+        "pk": "mimic-fn",
         "size": 2749
     },
     "mimic-response.json": {
         "filename": "data/npm_libs/mimic-response.json",
-        "name": "mimic-response",
-        "pk": "mimic-response.json",
+        "npm_name": "mimic-response",
+        "pk": "mimic-response",
         "size": 2552
     },
     "minimatch.json": {
         "filename": "data/npm_libs/minimatch.json",
-        "name": "minimatch",
-        "pk": "minimatch.json",
+        "npm_name": "minimatch",
+        "pk": "minimatch",
         "size": 5875
     },
     "minimist.json": {
         "filename": "data/npm_libs/minimist.json",
-        "name": "minimist",
-        "pk": "minimist.json",
+        "npm_name": "minimist",
+        "pk": "minimist",
         "size": 12095
     },
     "minipass.json": {
         "filename": "data/npm_libs/minipass.json",
-        "name": "minipass",
-        "pk": "minipass.json",
+        "npm_name": "minipass",
+        "pk": "minipass",
         "size": 4557
     },
     "minizlib.json": {
         "filename": "data/npm_libs/minizlib.json",
-        "name": "minizlib",
-        "pk": "minizlib.json",
+        "npm_name": "minizlib",
+        "pk": "minizlib",
         "size": 3017
     },
     "mixme.json": {
         "filename": "data/npm_libs/mixme.json",
-        "name": "mixme",
-        "pk": "mixme.json",
+        "npm_name": "mixme",
+        "pk": "mixme",
         "size": 3454
     },
     "mkdirp.json": {
         "filename": "data/npm_libs/mkdirp.json",
-        "name": "mkdirp",
-        "pk": "mkdirp.json",
+        "npm_name": "mkdirp",
+        "pk": "mkdirp",
         "size": 10199
     },
     "mocha.json": {
         "filename": "data/npm_libs/mocha.json",
-        "name": "mocha",
-        "pk": "mocha.json",
+        "npm_name": "mocha",
+        "pk": "mocha",
         "size": 51061
     },
     "moment-timezone.json": {
         "filename": "data/npm_libs/moment-timezone.json",
-        "name": "moment-timezone",
-        "pk": "moment-timezone.json",
+        "npm_name": "moment-timezone",
+        "pk": "moment-timezone",
         "size": 7115
     },
     "moment.json": {
         "filename": "data/npm_libs/moment.json",
-        "name": "moment",
-        "pk": "moment.json",
+        "npm_name": "moment",
+        "pk": "moment",
         "size": 31139
     },
     "morgan.json": {
         "filename": "data/npm_libs/morgan.json",
-        "name": "morgan",
-        "pk": "morgan.json",
+        "npm_name": "morgan",
+        "pk": "morgan",
         "size": 14147
     },
     "mpns.json": {
         "filename": "data/npm_libs/mpns.json",
-        "name": "mpns",
-        "pk": "mpns.json",
+        "npm_name": "mpns",
+        "pk": "mpns",
         "size": 2524
     },
     "ms.json": {
         "filename": "data/npm_libs/ms.json",
-        "name": "ms",
-        "pk": "ms.json",
+        "npm_name": "ms",
+        "pk": "ms",
         "size": 7794
     },
     "mssql.json": {
         "filename": "data/npm_libs/mssql.json",
-        "name": "mssql",
-        "pk": "mssql.json",
+        "npm_name": "mssql",
+        "pk": "mssql",
         "size": 12128
     },
     "mysql.json": {
         "filename": "data/npm_libs/mysql.json",
-        "name": "mysql",
-        "pk": "mysql.json",
+        "npm_name": "mysql",
+        "pk": "mysql",
         "size": 17986
     },
     "mysql2.json": {
         "filename": "data/npm_libs/mysql2.json",
-        "name": "mysql2",
-        "pk": "mysql2.json",
+        "npm_name": "mysql2",
+        "pk": "mysql2",
         "size": 11304
     },
     "named-placeholders.json": {
         "filename": "data/npm_libs/named-placeholders.json",
-        "name": "named-placeholders",
-        "pk": "named-placeholders.json",
+        "npm_name": "named-placeholders",
+        "pk": "named-placeholders",
         "size": 2846
     },
     "nan.json": {
         "filename": "data/npm_libs/nan.json",
-        "name": "nan",
-        "pk": "nan.json",
+        "npm_name": "nan",
+        "pk": "nan",
         "size": 8810
     },
     "native-duplexpair.json": {
         "filename": "data/npm_libs/native-duplexpair.json",
-        "name": "native-duplexpair",
-        "pk": "native-duplexpair.json",
+        "npm_name": "native-duplexpair",
+        "pk": "native-duplexpair",
         "size": 2301
     },
     "needle.json": {
         "filename": "data/npm_libs/needle.json",
-        "name": "needle",
-        "pk": "needle.json",
+        "npm_name": "needle",
+        "pk": "needle",
         "size": 9266
     },
     "negotiator.json": {
         "filename": "data/npm_libs/negotiator.json",
-        "name": "negotiator",
-        "pk": "negotiator.json",
+        "npm_name": "negotiator",
+        "pk": "negotiator",
         "size": 4363
     },
     "next-tick.json": {
         "filename": "data/npm_libs/next-tick.json",
-        "name": "next-tick",
-        "pk": "next-tick.json",
+        "npm_name": "next-tick",
+        "pk": "next-tick",
         "size": 1841
     },
     "nice-try.json": {
         "filename": "data/npm_libs/nice-try.json",
-        "name": "nice-try",
-        "pk": "nice-try.json",
+        "npm_name": "nice-try",
+        "pk": "nice-try",
         "size": 2739
     },
     "node-abort-controller.json": {
         "filename": "data/npm_libs/node-abort-controller.json",
-        "name": "node-abort-controller",
-        "pk": "node-abort-controller.json",
+        "npm_name": "node-abort-controller",
+        "pk": "node-abort-controller",
         "size": 2655
     },
     "node-environment-flags.json": {
         "filename": "data/npm_libs/node-environment-flags.json",
-        "name": "node-environment-flags",
-        "pk": "node-environment-flags.json",
+        "npm_name": "node-environment-flags",
+        "pk": "node-environment-flags",
         "size": 3714
     },
     "node-fetch.json": {
         "filename": "data/npm_libs/node-fetch.json",
-        "name": "node-fetch",
-        "pk": "node-fetch.json",
+        "npm_name": "node-fetch",
+        "pk": "node-fetch",
         "size": 10393
     },
     "node-pre-gyp.json": {
         "filename": "data/npm_libs/node-pre-gyp.json",
-        "name": "node-pre-gyp",
-        "pk": "node-pre-gyp.json",
+        "npm_name": "node-pre-gyp",
+        "pk": "node-pre-gyp",
         "size": 9732
     },
     "nodemon.json": {
         "filename": "data/npm_libs/nodemon.json",
-        "name": "nodemon",
-        "pk": "nodemon.json",
+        "npm_name": "nodemon",
+        "pk": "nodemon",
         "size": 29443
     },
     "nopt.json": {
         "filename": "data/npm_libs/nopt.json",
-        "name": "nopt",
-        "pk": "nopt.json",
+        "npm_name": "nopt",
+        "pk": "nopt",
         "size": 3677
     },
     "normalize-path.json": {
         "filename": "data/npm_libs/normalize-path.json",
-        "name": "normalize-path",
-        "pk": "normalize-path.json",
+        "npm_name": "normalize-path",
+        "pk": "normalize-path",
         "size": 4098
     },
     "normalize-url.json": {
         "filename": "data/npm_libs/normalize-url.json",
-        "name": "normalize-url",
-        "pk": "normalize-url.json",
+        "npm_name": "normalize-url",
+        "pk": "normalize-url",
         "size": 4445
     },
     "npm-bundled.json": {
         "filename": "data/npm_libs/npm-bundled.json",
-        "name": "npm-bundled",
-        "pk": "npm-bundled.json",
+        "npm_name": "npm-bundled",
+        "pk": "npm-bundled",
         "size": 2787
     },
     "npm-packlist.json": {
         "filename": "data/npm_libs/npm-packlist.json",
-        "name": "npm-packlist",
-        "pk": "npm-packlist.json",
+        "npm_name": "npm-packlist",
+        "pk": "npm-packlist",
         "size": 3743
     },
     "npm-run-path.json": {
         "filename": "data/npm_libs/npm-run-path.json",
-        "name": "npm-run-path",
-        "pk": "npm-run-path.json",
+        "npm_name": "npm-run-path",
+        "pk": "npm-run-path",
         "size": 2862
     },
     "npmlog.json": {
         "filename": "data/npm_libs/npmlog.json",
-        "name": "npmlog",
-        "pk": "npmlog.json",
+        "npm_name": "npmlog",
+        "pk": "npmlog",
         "size": 3479
     },
     "nugget.json": {
         "filename": "data/npm_libs/nugget.json",
-        "name": "nugget",
-        "pk": "nugget.json",
+        "npm_name": "nugget",
+        "pk": "nugget",
         "size": 2693
     },
     "oauth-sign.json": {
         "filename": "data/npm_libs/oauth-sign.json",
-        "name": "oauth-sign",
-        "pk": "oauth-sign.json",
+        "npm_name": "oauth-sign",
+        "pk": "oauth-sign",
         "size": 2990
     },
     "object-assign.json": {
         "filename": "data/npm_libs/object-assign.json",
-        "name": "object-assign",
-        "pk": "object-assign.json",
+        "npm_name": "object-assign",
+        "pk": "object-assign",
         "size": 4114
     },
     "object-component.json": {
         "filename": "data/npm_libs/object-component.json",
-        "name": "object-component",
-        "pk": "object-component.json",
+        "npm_name": "object-component",
+        "pk": "object-component",
         "size": 1205
     },
     "object-inspect.json": {
         "filename": "data/npm_libs/object-inspect.json",
-        "name": "object-inspect",
-        "pk": "object-inspect.json",
+        "npm_name": "object-inspect",
+        "pk": "object-inspect",
         "size": 4149
     },
     "object-is.json": {
         "filename": "data/npm_libs/object-is.json",
-        "name": "object-is",
-        "pk": "object-is.json",
+        "npm_name": "object-is",
+        "pk": "object-is",
         "size": 2038
     },
     "object-keys.json": {
         "filename": "data/npm_libs/object-keys.json",
-        "name": "object-keys",
-        "pk": "object-keys.json",
+        "npm_name": "object-keys",
+        "pk": "object-keys",
         "size": 5399
     },
     "object.assign.json": {
         "filename": "data/npm_libs/object.assign.json",
-        "name": "object.assign",
-        "pk": "object.assign.json",
+        "npm_name": "object.assign",
+        "pk": "object.assign",
         "size": 4642
     },
     "object.defaults.json": {
         "filename": "data/npm_libs/object.defaults.json",
-        "name": "object.defaults",
-        "pk": "object.defaults.json",
+        "npm_name": "object.defaults",
+        "pk": "object.defaults",
         "size": 2297
     },
     "object.entries.json": {
         "filename": "data/npm_libs/object.entries.json",
-        "name": "object.entries",
-        "pk": "object.entries.json",
+        "npm_name": "object.entries",
+        "pk": "object.entries",
         "size": 3917
     },
     "object.getownpropertydescriptors.json": {
         "filename": "data/npm_libs/object.getownpropertydescriptors.json",
-        "name": "object.getownpropertydescriptors",
-        "pk": "object.getownpropertydescriptors.json",
+        "npm_name": "object.getownpropertydescriptors",
+        "pk": "object.getownpropertydescriptors",
         "size": 3201
     },
     "object.map.json": {
         "filename": "data/npm_libs/object.map.json",
-        "name": "object.map",
-        "pk": "object.map.json",
+        "npm_name": "object.map",
+        "pk": "object.map",
         "size": 2186
     },
     "object.pick.json": {
         "filename": "data/npm_libs/object.pick.json",
-        "name": "object.pick",
-        "pk": "object.pick.json",
+        "npm_name": "object.pick",
+        "pk": "object.pick",
         "size": 2310
     },
     "on-finished.json": {
         "filename": "data/npm_libs/on-finished.json",
-        "name": "on-finished",
-        "pk": "on-finished.json",
+        "npm_name": "on-finished",
+        "pk": "on-finished",
         "size": 2482
     },
     "on-headers.json": {
         "filename": "data/npm_libs/on-headers.json",
-        "name": "on-headers",
-        "pk": "on-headers.json",
+        "npm_name": "on-headers",
+        "pk": "on-headers",
         "size": 3338
     },
     "once.json": {
         "filename": "data/npm_libs/once.json",
-        "name": "once",
-        "pk": "once.json",
+        "npm_name": "once",
+        "pk": "once",
         "size": 2440
     },
     "onetime.json": {
         "filename": "data/npm_libs/onetime.json",
-        "name": "onetime",
-        "pk": "onetime.json",
+        "npm_name": "onetime",
+        "pk": "onetime",
         "size": 3111
     },
     "optionator.json": {
         "filename": "data/npm_libs/optionator.json",
-        "name": "optionator",
-        "pk": "optionator.json",
+        "npm_name": "optionator",
+        "pk": "optionator",
         "size": 2314
     },
     "os-homedir.json": {
         "filename": "data/npm_libs/os-homedir.json",
-        "name": "os-homedir",
-        "pk": "os-homedir.json",
+        "npm_name": "os-homedir",
+        "pk": "os-homedir",
         "size": 2923
     },
     "os-name.json": {
         "filename": "data/npm_libs/os-name.json",
-        "name": "os-name",
-        "pk": "os-name.json",
+        "npm_name": "os-name",
+        "pk": "os-name",
         "size": 3192
     },
     "os-tmpdir.json": {
         "filename": "data/npm_libs/os-tmpdir.json",
-        "name": "os-tmpdir",
-        "pk": "os-tmpdir.json",
+        "npm_name": "os-tmpdir",
+        "pk": "os-tmpdir",
         "size": 2737
     },
     "osenv.json": {
         "filename": "data/npm_libs/osenv.json",
-        "name": "osenv",
-        "pk": "osenv.json",
+        "npm_name": "osenv",
+        "pk": "osenv",
         "size": 2331
     },
     "p-cancelable.json": {
         "filename": "data/npm_libs/p-cancelable.json",
-        "name": "p-cancelable",
-        "pk": "p-cancelable.json",
+        "npm_name": "p-cancelable",
+        "pk": "p-cancelable",
         "size": 3191
     },
     "p-finally.json": {
         "filename": "data/npm_libs/p-finally.json",
-        "name": "p-finally",
-        "pk": "p-finally.json",
+        "npm_name": "p-finally",
+        "pk": "p-finally",
         "size": 2650
     },
     "p-limit.json": {
         "filename": "data/npm_libs/p-limit.json",
-        "name": "p-limit",
-        "pk": "p-limit.json",
+        "npm_name": "p-limit",
+        "pk": "p-limit",
         "size": 3194
     },
     "p-locate.json": {
         "filename": "data/npm_libs/p-locate.json",
-        "name": "p-locate",
-        "pk": "p-locate.json",
+        "npm_name": "p-locate",
+        "pk": "p-locate",
         "size": 2956
     },
     "p-try.json": {
         "filename": "data/npm_libs/p-try.json",
-        "name": "p-try",
-        "pk": "p-try.json",
+        "npm_name": "p-try",
+        "pk": "p-try",
         "size": 2589
     },
     "package-json.json": {
         "filename": "data/npm_libs/package-json.json",
-        "name": "package-json",
-        "pk": "package-json.json",
+        "npm_name": "package-json",
+        "pk": "package-json",
         "size": 4351
     },
     "packet-reader.json": {
         "filename": "data/npm_libs/packet-reader.json",
-        "name": "packet-reader",
-        "pk": "packet-reader.json",
+        "npm_name": "packet-reader",
+        "pk": "packet-reader",
         "size": 2489
     },
     "pako.json": {
         "filename": "data/npm_libs/pako.json",
-        "name": "pako",
-        "pk": "pako.json",
+        "npm_name": "pako",
+        "pk": "pako",
         "size": 4525
     },
     "parse-filepath.json": {
         "filename": "data/npm_libs/parse-filepath.json",
-        "name": "parse-filepath",
-        "pk": "parse-filepath.json",
+        "npm_name": "parse-filepath",
+        "pk": "parse-filepath",
         "size": 3135
     },
     "parse-passwd.json": {
         "filename": "data/npm_libs/parse-passwd.json",
-        "name": "parse-passwd",
-        "pk": "parse-passwd.json",
+        "npm_name": "parse-passwd",
+        "pk": "parse-passwd",
         "size": 1658
     },
     "parseqs.json": {
         "filename": "data/npm_libs/parseqs.json",
-        "name": "parseqs",
-        "pk": "parseqs.json",
+        "npm_name": "parseqs",
+        "pk": "parseqs",
         "size": 1334
     },
     "parseuri.json": {
         "filename": "data/npm_libs/parseuri.json",
-        "name": "parseuri",
-        "pk": "parseuri.json",
+        "npm_name": "parseuri",
+        "pk": "parseuri",
         "size": 1365
     },
     "parseurl.json": {
         "filename": "data/npm_libs/parseurl.json",
-        "name": "parseurl",
-        "pk": "parseurl.json",
+        "npm_name": "parseurl",
+        "pk": "parseurl",
         "size": 3991
     },
     "path-exists.json": {
         "filename": "data/npm_libs/path-exists.json",
-        "name": "path-exists",
-        "pk": "path-exists.json",
+        "npm_name": "path-exists",
+        "pk": "path-exists",
         "size": 2983
     },
     "path-is-absolute.json": {
         "filename": "data/npm_libs/path-is-absolute.json",
-        "name": "path-is-absolute",
-        "pk": "path-is-absolute.json",
+        "npm_name": "path-is-absolute",
+        "pk": "path-is-absolute",
         "size": 2923
     },
     "path-key.json": {
         "filename": "data/npm_libs/path-key.json",
-        "name": "path-key",
-        "pk": "path-key.json",
+        "npm_name": "path-key",
+        "pk": "path-key",
         "size": 2724
     },
     "path-parse.json": {
         "filename": "data/npm_libs/path-parse.json",
-        "name": "path-parse",
-        "pk": "path-parse.json",
+        "npm_name": "path-parse",
+        "pk": "path-parse",
         "size": 2733
     },
     "path-root-regex.json": {
         "filename": "data/npm_libs/path-root-regex.json",
-        "name": "path-root-regex",
-        "pk": "path-root-regex.json",
+        "npm_name": "path-root-regex",
+        "pk": "path-root-regex",
         "size": 1976
     },
     "path-root.json": {
         "filename": "data/npm_libs/path-root.json",
-        "name": "path-root",
-        "pk": "path-root.json",
+        "npm_name": "path-root",
+        "pk": "path-root",
         "size": 1770
     },
     "path-to-regexp.json": {
         "filename": "data/npm_libs/path-to-regexp.json",
-        "name": "path-to-regexp",
-        "pk": "path-to-regexp.json",
+        "npm_name": "path-to-regexp",
+        "pk": "path-to-regexp",
         "size": 7562
     },
     "pdfkit.json": {
         "filename": "data/npm_libs/pdfkit.json",
-        "name": "pdfkit",
-        "pk": "pdfkit.json",
+        "npm_name": "pdfkit",
+        "pk": "pdfkit",
         "size": 9050
     },
     "pend.json": {
         "filename": "data/npm_libs/pend.json",
-        "name": "pend",
-        "pk": "pend.json",
+        "npm_name": "pend",
+        "pk": "pend",
         "size": 1309
     },
     "performance-now.json": {
         "filename": "data/npm_libs/performance-now.json",
-        "name": "performance-now",
-        "pk": "performance-now.json",
+        "npm_name": "performance-now",
+        "pk": "performance-now",
         "size": 2625
     },
     "pg-connection-string.json": {
         "filename": "data/npm_libs/pg-connection-string.json",
-        "name": "pg-connection-string",
-        "pk": "pg-connection-string.json",
+        "npm_name": "pg-connection-string",
+        "pk": "pg-connection-string",
         "size": 2999
     },
     "pg-int8.json": {
         "filename": "data/npm_libs/pg-int8.json",
-        "name": "pg-int8",
-        "pk": "pg-int8.json",
+        "npm_name": "pg-int8",
+        "pk": "pg-int8",
         "size": 1299
     },
     "pg-pool.json": {
         "filename": "data/npm_libs/pg-pool.json",
-        "name": "pg-pool",
-        "pk": "pg-pool.json",
+        "npm_name": "pg-pool",
+        "pk": "pg-pool",
         "size": 4080
     },
     "pg-types.json": {
         "filename": "data/npm_libs/pg-types.json",
-        "name": "pg-types",
-        "pk": "pg-types.json",
+        "npm_name": "pg-types",
+        "pk": "pg-types",
         "size": 3623
     },
     "pg.json": {
         "filename": "data/npm_libs/pg.json",
-        "name": "pg",
-        "pk": "pg.json",
+        "npm_name": "pg",
+        "pk": "pg",
         "size": 17687
     },
     "pgpass.json": {
         "filename": "data/npm_libs/pgpass.json",
-        "name": "pgpass",
-        "pk": "pgpass.json",
+        "npm_name": "pgpass",
+        "pk": "pgpass",
         "size": 2086
     },
     "picomatch.json": {
         "filename": "data/npm_libs/picomatch.json",
-        "name": "picomatch",
-        "pk": "picomatch.json",
+        "npm_name": "picomatch",
+        "pk": "picomatch",
         "size": 3930
     },
     "png-js.json": {
         "filename": "data/npm_libs/png-js.json",
-        "name": "png-js",
-        "pk": "png-js.json",
+        "npm_name": "png-js",
+        "pk": "png-js",
         "size": 2401
     },
     "postgres-array.json": {
         "filename": "data/npm_libs/postgres-array.json",
-        "name": "postgres-array",
-        "pk": "postgres-array.json",
+        "npm_name": "postgres-array",
+        "pk": "postgres-array",
         "size": 2603
     },
     "postgres-bytea.json": {
         "filename": "data/npm_libs/postgres-bytea.json",
-        "name": "postgres-bytea",
-        "pk": "postgres-bytea.json",
+        "npm_name": "postgres-bytea",
+        "pk": "postgres-bytea",
         "size": 2424
     },
     "postgres-date.json": {
         "filename": "data/npm_libs/postgres-date.json",
-        "name": "postgres-date",
-        "pk": "postgres-date.json",
+        "npm_name": "postgres-date",
+        "pk": "postgres-date",
         "size": 2629
     },
     "postgres-interval.json": {
         "filename": "data/npm_libs/postgres-interval.json",
-        "name": "postgres-interval",
-        "pk": "postgres-interval.json",
+        "npm_name": "postgres-interval",
+        "pk": "postgres-interval",
         "size": 2794
     },
     "prelude-ls.json": {
         "filename": "data/npm_libs/prelude-ls.json",
-        "name": "prelude-ls",
-        "pk": "prelude-ls.json",
+        "npm_name": "prelude-ls",
+        "pk": "prelude-ls",
         "size": 2461
     },
     "prepend-http.json": {
         "filename": "data/npm_libs/prepend-http.json",
-        "name": "prepend-http",
-        "pk": "prepend-http.json",
+        "npm_name": "prepend-http",
+        "pk": "prepend-http",
         "size": 2854
     },
     "pretty-bytes.json": {
         "filename": "data/npm_libs/pretty-bytes.json",
-        "name": "pretty-bytes",
-        "pk": "pretty-bytes.json",
+        "npm_name": "pretty-bytes",
+        "pk": "pretty-bytes",
         "size": 4277
     },
     "priorityqueuejs.json": {
         "filename": "data/npm_libs/priorityqueuejs.json",
-        "name": "priorityqueuejs",
-        "pk": "priorityqueuejs.json",
+        "npm_name": "priorityqueuejs",
+        "pk": "priorityqueuejs",
         "size": 1516
     },
     "process.json": {
         "filename": "data/npm_libs/process.json",
-        "name": "process",
-        "pk": "process.json",
+        "npm_name": "process",
+        "pk": "process",
         "size": 2915
     },
     "progress-stream.json": {
         "filename": "data/npm_libs/progress-stream.json",
-        "name": "progress-stream",
-        "pk": "progress-stream.json",
+        "npm_name": "progress-stream",
+        "pk": "progress-stream",
         "size": 2760
     },
     "promise.json": {
         "filename": "data/npm_libs/promise.json",
-        "name": "promise",
-        "pk": "promise.json",
+        "npm_name": "promise",
+        "pk": "promise",
         "size": 6859
     },
     "prop-types.json": {
         "filename": "data/npm_libs/prop-types.json",
-        "name": "prop-types",
-        "pk": "prop-types.json",
+        "npm_name": "prop-types",
+        "pk": "prop-types",
         "size": 9113
     },
     "proxy-addr.json": {
         "filename": "data/npm_libs/proxy-addr.json",
-        "name": "proxy-addr",
-        "pk": "proxy-addr.json",
+        "npm_name": "proxy-addr",
+        "pk": "proxy-addr",
         "size": 4562
     },
     "psl.json": {
         "filename": "data/npm_libs/psl.json",
-        "name": "psl",
-        "pk": "psl.json",
+        "npm_name": "psl",
+        "pk": "psl",
         "size": 5359
     },
     "pstree.remy.json": {
         "filename": "data/npm_libs/pstree.remy.json",
-        "name": "pstree.remy",
-        "pk": "pstree.remy.json",
+        "npm_name": "pstree.remy",
+        "pk": "pstree.remy",
         "size": 2390
     },
     "pug-attrs.json": {
         "filename": "data/npm_libs/pug-attrs.json",
-        "name": "pug-attrs",
-        "pk": "pug-attrs.json",
+        "npm_name": "pug-attrs",
+        "pk": "pug-attrs",
         "size": 2356
     },
     "pug-code-gen.json": {
         "filename": "data/npm_libs/pug-code-gen.json",
-        "name": "pug-code-gen",
-        "pk": "pug-code-gen.json",
+        "npm_name": "pug-code-gen",
+        "pk": "pug-code-gen",
         "size": 2826
     },
     "pug-error.json": {
         "filename": "data/npm_libs/pug-error.json",
-        "name": "pug-error",
-        "pk": "pug-error.json",
+        "npm_name": "pug-error",
+        "pk": "pug-error",
         "size": 2231
     },
     "pug-filters.json": {
         "filename": "data/npm_libs/pug-filters.json",
-        "name": "pug-filters",
-        "pk": "pug-filters.json",
+        "npm_name": "pug-filters",
+        "pk": "pug-filters",
         "size": 3557
     },
     "pug-lexer.json": {
         "filename": "data/npm_libs/pug-lexer.json",
-        "name": "pug-lexer",
-        "pk": "pug-lexer.json",
+        "npm_name": "pug-lexer",
+        "pk": "pug-lexer",
         "size": 3145
     },
     "pug-linker.json": {
         "filename": "data/npm_libs/pug-linker.json",
-        "name": "pug-linker",
-        "pk": "pug-linker.json",
+        "npm_name": "pug-linker",
+        "pk": "pug-linker",
         "size": 2992
     },
     "pug-load.json": {
         "filename": "data/npm_libs/pug-load.json",
-        "name": "pug-load",
-        "pk": "pug-load.json",
+        "npm_name": "pug-load",
+        "pk": "pug-load",
         "size": 2886
     },
     "pug-parser.json": {
         "filename": "data/npm_libs/pug-parser.json",
-        "name": "pug-parser",
-        "pk": "pug-parser.json",
+        "npm_name": "pug-parser",
+        "pk": "pug-parser",
         "size": 2795
     },
     "pug-runtime.json": {
         "filename": "data/npm_libs/pug-runtime.json",
-        "name": "pug-runtime",
-        "pk": "pug-runtime.json",
+        "npm_name": "pug-runtime",
+        "pk": "pug-runtime",
         "size": 2509
     },
     "pug-strip-comments.json": {
         "filename": "data/npm_libs/pug-strip-comments.json",
-        "name": "pug-strip-comments",
-        "pk": "pug-strip-comments.json",
+        "npm_name": "pug-strip-comments",
+        "pk": "pug-strip-comments",
         "size": 2424
     },
     "pug-walk.json": {
         "filename": "data/npm_libs/pug-walk.json",
-        "name": "pug-walk",
-        "pk": "pug-walk.json",
+        "npm_name": "pug-walk",
+        "pk": "pug-walk",
         "size": 2692
     },
     "pug.json": {
         "filename": "data/npm_libs/pug.json",
-        "name": "pug",
-        "pk": "pug.json",
+        "npm_name": "pug",
+        "pk": "pug",
         "size": 8763
     },
     "pump.json": {
         "filename": "data/npm_libs/pump.json",
-        "name": "pump",
-        "pk": "pump.json",
+        "npm_name": "pump",
+        "pk": "pump",
         "size": 4213
     },
     "punycode.json": {
         "filename": "data/npm_libs/punycode.json",
-        "name": "punycode",
-        "pk": "punycode.json",
+        "npm_name": "punycode",
+        "pk": "punycode",
         "size": 4607
     },
     "qs.json": {
         "filename": "data/npm_libs/qs.json",
-        "name": "qs",
-        "pk": "qs.json",
+        "npm_name": "qs",
+        "pk": "qs",
         "size": 11643
     },
     "querystring.json": {
         "filename": "data/npm_libs/querystring.json",
-        "name": "querystring",
-        "pk": "querystring.json",
+        "npm_name": "querystring",
+        "pk": "querystring",
         "size": 3022
     },
     "quote-stream.json": {
         "filename": "data/npm_libs/quote-stream.json",
-        "name": "quote-stream",
-        "pk": "quote-stream.json",
+        "npm_name": "quote-stream",
+        "pk": "quote-stream",
         "size": 1974
     },
     "random-bytes.json": {
         "filename": "data/npm_libs/random-bytes.json",
-        "name": "random-bytes",
-        "pk": "random-bytes.json",
+        "npm_name": "random-bytes",
+        "pk": "random-bytes",
         "size": 1758
     },
     "range-parser.json": {
         "filename": "data/npm_libs/range-parser.json",
-        "name": "range-parser",
-        "pk": "range-parser.json",
+        "npm_name": "range-parser",
+        "pk": "range-parser",
         "size": 3821
     },
     "raw-body.json": {
         "filename": "data/npm_libs/raw-body.json",
-        "name": "raw-body",
-        "pk": "raw-body.json",
+        "npm_name": "raw-body",
+        "pk": "raw-body",
         "size": 6085
     },
     "rc.json": {
         "filename": "data/npm_libs/rc.json",
-        "name": "rc",
-        "pk": "rc.json",
+        "npm_name": "rc",
+        "pk": "rc",
         "size": 6763
     },
     "react-is.json": {
         "filename": "data/npm_libs/react-is.json",
-        "name": "react-is",
-        "pk": "react-is.json",
+        "npm_name": "react-is",
+        "pk": "react-is",
         "size": 7897
     },
     "react.json": {
         "filename": "data/npm_libs/react.json",
-        "name": "react",
-        "pk": "react.json",
+        "npm_name": "react",
+        "pk": "react",
         "size": 33639
     },
     "readable-stream.json": {
         "filename": "data/npm_libs/readable-stream.json",
-        "name": "readable-stream",
-        "pk": "readable-stream.json",
+        "npm_name": "readable-stream",
+        "pk": "readable-stream",
         "size": 9731
     },
     "readdirp.json": {
         "filename": "data/npm_libs/readdirp.json",
-        "name": "readdirp",
-        "pk": "readdirp.json",
+        "npm_name": "readdirp",
+        "pk": "readdirp",
         "size": 5016
     },
     "rechoir.json": {
         "filename": "data/npm_libs/rechoir.json",
-        "name": "rechoir",
-        "pk": "rechoir.json",
+        "npm_name": "rechoir",
+        "pk": "rechoir",
         "size": 3472
     },
     "redis-commands.json": {
         "filename": "data/npm_libs/redis-commands.json",
-        "name": "redis-commands",
-        "pk": "redis-commands.json",
+        "npm_name": "redis-commands",
+        "pk": "redis-commands",
         "size": 3749
     },
     "redis-errors.json": {
         "filename": "data/npm_libs/redis-errors.json",
-        "name": "redis-errors",
-        "pk": "redis-errors.json",
+        "npm_name": "redis-errors",
+        "pk": "redis-errors",
         "size": 1708
     },
     "redis-parser.json": {
         "filename": "data/npm_libs/redis-parser.json",
-        "name": "redis-parser",
-        "pk": "redis-parser.json",
+        "npm_name": "redis-parser",
+        "pk": "redis-parser",
         "size": 2938
     },
     "redis.json": {
         "filename": "data/npm_libs/redis.json",
-        "name": "redis",
-        "pk": "redis.json",
+        "npm_name": "redis",
+        "pk": "redis",
         "size": 17712
     },
     "regenerator-runtime.json": {
         "filename": "data/npm_libs/regenerator-runtime.json",
-        "name": "regenerator-runtime",
-        "pk": "regenerator-runtime.json",
+        "npm_name": "regenerator-runtime",
+        "pk": "regenerator-runtime",
         "size": 3358
     },
     "regexp.prototype.flags.json": {
         "filename": "data/npm_libs/regexp.prototype.flags.json",
-        "name": "regexp.prototype.flags",
-        "pk": "regexp.prototype.flags.json",
+        "npm_name": "regexp.prototype.flags",
+        "pk": "regexp.prototype.flags",
         "size": 2919
     },
     "registry-auth-token.json": {
         "filename": "data/npm_libs/registry-auth-token.json",
-        "name": "registry-auth-token",
-        "pk": "registry-auth-token.json",
+        "npm_name": "registry-auth-token",
+        "pk": "registry-auth-token",
         "size": 3666
     },
     "registry-url.json": {
         "filename": "data/npm_libs/registry-url.json",
-        "name": "registry-url",
-        "pk": "registry-url.json",
+        "npm_name": "registry-url",
+        "pk": "registry-url",
         "size": 3293
     },
     "request.json": {
         "filename": "data/npm_libs/request.json",
-        "name": "request",
-        "pk": "request.json",
+        "npm_name": "request",
+        "pk": "request",
         "size": 44854
     },
     "require-directory.json": {
         "filename": "data/npm_libs/require-directory.json",
-        "name": "require-directory",
-        "pk": "require-directory.json",
+        "npm_name": "require-directory",
+        "pk": "require-directory",
         "size": 2944
     },
     "require-main-filename.json": {
         "filename": "data/npm_libs/require-main-filename.json",
-        "name": "require-main-filename",
-        "pk": "require-main-filename.json",
+        "npm_name": "require-main-filename",
+        "pk": "require-main-filename",
         "size": 2567
     },
     "resolve-dir.json": {
         "filename": "data/npm_libs/resolve-dir.json",
-        "name": "resolve-dir",
-        "pk": "resolve-dir.json",
+        "npm_name": "resolve-dir",
+        "pk": "resolve-dir",
         "size": 2238
     },
     "resolve.json": {
         "filename": "data/npm_libs/resolve.json",
-        "name": "resolve",
-        "pk": "resolve.json",
+        "npm_name": "resolve",
+        "pk": "resolve",
         "size": 8392
     },
     "responselike.json": {
         "filename": "data/npm_libs/responselike.json",
-        "name": "responselike",
-        "pk": "responselike.json",
+        "npm_name": "responselike",
+        "pk": "responselike",
         "size": 1748
     },
     "restructure.json": {
         "filename": "data/npm_libs/restructure.json",
-        "name": "restructure",
-        "pk": "restructure.json",
+        "npm_name": "restructure",
+        "pk": "restructure",
         "size": 3841
     },
     "rfdc.json": {
         "filename": "data/npm_libs/rfdc.json",
-        "name": "rfdc",
-        "pk": "rfdc.json",
+        "npm_name": "rfdc",
+        "pk": "rfdc",
         "size": 3533
     },
     "rhea-promise.json": {
         "filename": "data/npm_libs/rhea-promise.json",
-        "name": "rhea-promise",
-        "pk": "rhea-promise.json",
+        "npm_name": "rhea-promise",
+        "pk": "rhea-promise",
         "size": 3704
     },
     "rhea.json": {
         "filename": "data/npm_libs/rhea.json",
-        "name": "rhea",
-        "pk": "rhea.json",
+        "npm_name": "rhea",
+        "pk": "rhea",
         "size": 5846
     },
     "rimraf.json": {
         "filename": "data/npm_libs/rimraf.json",
-        "name": "rimraf",
-        "pk": "rimraf.json",
+        "npm_name": "rimraf",
+        "pk": "rimraf",
         "size": 12259
     },
     "safe-buffer.json": {
         "filename": "data/npm_libs/safe-buffer.json",
-        "name": "safe-buffer",
-        "pk": "safe-buffer.json",
+        "npm_name": "safe-buffer",
+        "pk": "safe-buffer",
         "size": 3031
     },
     "safer-buffer.json": {
         "filename": "data/npm_libs/safer-buffer.json",
-        "name": "safer-buffer",
-        "pk": "safer-buffer.json",
+        "npm_name": "safer-buffer",
+        "pk": "safer-buffer",
         "size": 1864
     },
     "sax.json": {
         "filename": "data/npm_libs/sax.json",
-        "name": "sax",
-        "pk": "sax.json",
+        "npm_name": "sax",
+        "pk": "sax",
         "size": 5025
     },
     "scope-analyzer.json": {
         "filename": "data/npm_libs/scope-analyzer.json",
-        "name": "scope-analyzer",
-        "pk": "scope-analyzer.json",
+        "npm_name": "scope-analyzer",
+        "pk": "scope-analyzer",
         "size": 3396
     },
     "seed-random.json": {
         "filename": "data/npm_libs/seed-random.json",
-        "name": "seed-random",
-        "pk": "seed-random.json",
+        "npm_name": "seed-random",
+        "pk": "seed-random",
         "size": 1188
     },
     "semaphore.json": {
         "filename": "data/npm_libs/semaphore.json",
-        "name": "semaphore",
-        "pk": "semaphore.json",
+        "npm_name": "semaphore",
+        "pk": "semaphore",
         "size": 1679
     },
     "semver-diff.json": {
         "filename": "data/npm_libs/semver-diff.json",
-        "name": "semver-diff",
-        "pk": "semver-diff.json",
+        "npm_name": "semver-diff",
+        "pk": "semver-diff",
         "size": 2746
     },
     "semver.json": {
         "filename": "data/npm_libs/semver.json",
-        "name": "semver",
-        "pk": "semver.json",
+        "npm_name": "semver",
+        "pk": "semver",
         "size": 10423
     },
     "send.json": {
         "filename": "data/npm_libs/send.json",
-        "name": "send",
-        "pk": "send.json",
+        "npm_name": "send",
+        "pk": "send",
         "size": 7118
     },
     "seq-queue.json": {
         "filename": "data/npm_libs/seq-queue.json",
-        "name": "seq-queue",
-        "pk": "seq-queue.json",
+        "npm_name": "seq-queue",
+        "pk": "seq-queue",
         "size": 4807
     },
     "serve-static.json": {
         "filename": "data/npm_libs/serve-static.json",
-        "name": "serve-static",
-        "pk": "serve-static.json",
+        "npm_name": "serve-static",
+        "pk": "serve-static",
         "size": 8388
     },
     "set-blocking.json": {
         "filename": "data/npm_libs/set-blocking.json",
-        "name": "set-blocking",
-        "pk": "set-blocking.json",
+        "npm_name": "set-blocking",
+        "pk": "set-blocking",
         "size": 1615
     },
     "setprototypeof.json": {
         "filename": "data/npm_libs/setprototypeof.json",
-        "name": "setprototypeof",
-        "pk": "setprototypeof.json",
+        "npm_name": "setprototypeof",
+        "pk": "setprototypeof",
         "size": 3292
     },
     "shallow-copy.json": {
         "filename": "data/npm_libs/shallow-copy.json",
-        "name": "shallow-copy",
-        "pk": "shallow-copy.json",
+        "npm_name": "shallow-copy",
+        "pk": "shallow-copy",
         "size": 1506
     },
     "shebang-command.json": {
         "filename": "data/npm_libs/shebang-command.json",
-        "name": "shebang-command",
-        "pk": "shebang-command.json",
+        "npm_name": "shebang-command",
+        "pk": "shebang-command",
         "size": 1517
     },
     "shebang-regex.json": {
         "filename": "data/npm_libs/shebang-regex.json",
-        "name": "shebang-regex",
-        "pk": "shebang-regex.json",
+        "npm_name": "shebang-regex",
+        "pk": "shebang-regex",
         "size": 2536
     },
     "signal-exit.json": {
         "filename": "data/npm_libs/signal-exit.json",
-        "name": "signal-exit",
-        "pk": "signal-exit.json",
+        "npm_name": "signal-exit",
+        "pk": "signal-exit",
         "size": 2430
     },
     "single-line-log.json": {
         "filename": "data/npm_libs/single-line-log.json",
-        "name": "single-line-log",
-        "pk": "single-line-log.json",
+        "npm_name": "single-line-log",
+        "pk": "single-line-log",
         "size": 2372
     },
     "socket.io-adapter.json": {
         "filename": "data/npm_libs/socket.io-adapter.json",
-        "name": "socket.io-adapter",
-        "pk": "socket.io-adapter.json",
+        "npm_name": "socket.io-adapter",
+        "pk": "socket.io-adapter",
         "size": 1505
     },
     "socket.io-client.json": {
         "filename": "data/npm_libs/socket.io-client.json",
-        "name": "socket.io-client",
-        "pk": "socket.io-client.json",
+        "npm_name": "socket.io-client",
+        "pk": "socket.io-client",
         "size": 10841
     },
     "socket.io-parser.json": {
         "filename": "data/npm_libs/socket.io-parser.json",
-        "name": "socket.io-parser",
-        "pk": "socket.io-parser.json",
+        "npm_name": "socket.io-parser",
+        "pk": "socket.io-parser",
         "size": 4063
     },
     "socket.io.json": {
         "filename": "data/npm_libs/socket.io.json",
-        "name": "socket.io",
-        "pk": "socket.io.json",
+        "npm_name": "socket.io",
+        "pk": "socket.io",
         "size": 26849
     },
     "source-map.json": {
         "filename": "data/npm_libs/source-map.json",
-        "name": "source-map",
-        "pk": "source-map.json",
+        "npm_name": "source-map",
+        "pk": "source-map",
         "size": 9506
     },
     "sourcemap-codec.json": {
         "filename": "data/npm_libs/sourcemap-codec.json",
-        "name": "sourcemap-codec",
-        "pk": "sourcemap-codec.json",
+        "npm_name": "sourcemap-codec",
+        "pk": "sourcemap-codec",
         "size": 4095
     },
     "speedometer.json": {
         "filename": "data/npm_libs/speedometer.json",
-        "name": "speedometer",
-        "pk": "speedometer.json",
+        "npm_name": "speedometer",
+        "pk": "speedometer",
         "size": 2619
     },
     "split.json": {
         "filename": "data/npm_libs/split.json",
-        "name": "split",
-        "pk": "split.json",
+        "npm_name": "split",
+        "pk": "split",
         "size": 4313
     },
     "sprintf-js.json": {
         "filename": "data/npm_libs/sprintf-js.json",
-        "name": "sprintf-js",
-        "pk": "sprintf-js.json",
+        "npm_name": "sprintf-js",
+        "pk": "sprintf-js",
         "size": 3790
     },
     "sql-template-strings.json": {
         "filename": "data/npm_libs/sql-template-strings.json",
-        "name": "sql-template-strings",
-        "pk": "sql-template-strings.json",
+        "npm_name": "sql-template-strings",
+        "pk": "sql-template-strings",
         "size": 2841
     },
     "sqlite.json": {
         "filename": "data/npm_libs/sqlite.json",
-        "name": "sqlite",
-        "pk": "sqlite.json",
+        "npm_name": "sqlite",
+        "pk": "sqlite",
         "size": 4834
     },
     "sqlite3.json": {
         "filename": "data/npm_libs/sqlite3.json",
-        "name": "sqlite3",
-        "pk": "sqlite3.json",
+        "npm_name": "sqlite3",
+        "pk": "sqlite3",
         "size": 11163
     },
     "sqlstring.json": {
         "filename": "data/npm_libs/sqlstring.json",
-        "name": "sqlstring",
-        "pk": "sqlstring.json",
+        "npm_name": "sqlstring",
+        "pk": "sqlstring",
         "size": 2646
     },
     "sshpk.json": {
         "filename": "data/npm_libs/sshpk.json",
-        "name": "sshpk",
-        "pk": "sshpk.json",
+        "npm_name": "sshpk",
+        "pk": "sshpk",
         "size": 5875
     },
     "static-eval.json": {
         "filename": "data/npm_libs/static-eval.json",
-        "name": "static-eval",
-        "pk": "static-eval.json",
+        "npm_name": "static-eval",
+        "pk": "static-eval",
         "size": 4903
     },
     "static-module.json": {
         "filename": "data/npm_libs/static-module.json",
-        "name": "static-module",
-        "pk": "static-module.json",
+        "npm_name": "static-module",
+        "pk": "static-module",
         "size": 6295
     },
     "statuses.json": {
         "filename": "data/npm_libs/statuses.json",
-        "name": "statuses",
-        "pk": "statuses.json",
+        "npm_name": "statuses",
+        "pk": "statuses",
         "size": 3690
     },
     "stream-browserify.json": {
         "filename": "data/npm_libs/stream-browserify.json",
-        "name": "stream-browserify",
-        "pk": "stream-browserify.json",
+        "npm_name": "stream-browserify",
+        "pk": "stream-browserify",
         "size": 5043
     },
     "stream-transform.json": {
         "filename": "data/npm_libs/stream-transform.json",
-        "name": "stream-transform",
-        "pk": "stream-transform.json",
+        "npm_name": "stream-transform",
+        "pk": "stream-transform",
         "size": 4983
     },
     "streamroller.json": {
         "filename": "data/npm_libs/streamroller.json",
-        "name": "streamroller",
-        "pk": "streamroller.json",
+        "npm_name": "streamroller",
+        "pk": "streamroller",
         "size": 4973
     },
     "string-width.json": {
         "filename": "data/npm_libs/string-width.json",
-        "name": "string-width",
-        "pk": "string-width.json",
+        "npm_name": "string-width",
+        "pk": "string-width",
         "size": 3396
     },
     "string_decoder.json": {
         "filename": "data/npm_libs/string_decoder.json",
-        "name": "string_decoder",
-        "pk": "string_decoder.json",
+        "npm_name": "string_decoder",
+        "pk": "string_decoder",
         "size": 3635
     },
     "strip-ansi.json": {
         "filename": "data/npm_libs/strip-ansi.json",
-        "name": "strip-ansi",
-        "pk": "strip-ansi.json",
+        "npm_name": "strip-ansi",
+        "pk": "strip-ansi",
         "size": 3743
     },
     "strip-final-newline.json": {
         "filename": "data/npm_libs/strip-final-newline.json",
-        "name": "strip-final-newline",
-        "pk": "strip-final-newline.json",
+        "npm_name": "strip-final-newline",
+        "pk": "strip-final-newline",
         "size": 2507
     },
     "strip-json-comments.json": {
         "filename": "data/npm_libs/strip-json-comments.json",
-        "name": "strip-json-comments",
-        "pk": "strip-json-comments.json",
+        "npm_name": "strip-json-comments",
+        "pk": "strip-json-comments",
         "size": 3849
     },
     "sumchecker.json": {
         "filename": "data/npm_libs/sumchecker.json",
-        "name": "sumchecker",
-        "pk": "sumchecker.json",
+        "npm_name": "sumchecker",
+        "pk": "sumchecker",
         "size": 3942
     },
     "supports-color.json": {
         "filename": "data/npm_libs/supports-color.json",
-        "name": "supports-color",
-        "pk": "supports-color.json",
+        "npm_name": "supports-color",
+        "pk": "supports-color",
         "size": 4871
     },
     "tar.json": {
         "filename": "data/npm_libs/tar.json",
-        "name": "tar",
-        "pk": "tar.json",
+        "npm_name": "tar",
+        "pk": "tar",
         "size": 7987
     },
     "tcx-js.json": {
         "filename": "data/npm_libs/tcx-js.json",
-        "name": "tcx-js",
-        "pk": "tcx-js.json",
+        "npm_name": "tcx-js",
+        "pk": "tcx-js",
         "size": 2997
     },
     "tedious.json": {
         "filename": "data/npm_libs/tedious.json",
-        "name": "tedious",
-        "pk": "tedious.json",
+        "npm_name": "tedious",
+        "pk": "tedious",
         "size": 16418
     },
     "term-size.json": {
         "filename": "data/npm_libs/term-size.json",
-        "name": "term-size",
-        "pk": "term-size.json",
+        "npm_name": "term-size",
+        "pk": "term-size",
         "size": 2864
     },
     "throttleit.json": {
         "filename": "data/npm_libs/throttleit.json",
-        "name": "throttleit",
-        "pk": "throttleit.json",
+        "npm_name": "throttleit",
+        "pk": "throttleit",
         "size": 2252
     },
     "through.json": {
         "filename": "data/npm_libs/through.json",
-        "name": "through",
-        "pk": "through.json",
+        "npm_name": "through",
+        "pk": "through",
         "size": 5240
     },
     "through2.json": {
         "filename": "data/npm_libs/through2.json",
-        "name": "through2",
-        "pk": "through2.json",
+        "npm_name": "through2",
+        "pk": "through2",
         "size": 8892
     },
     "tiny-emitter.json": {
         "filename": "data/npm_libs/tiny-emitter.json",
-        "name": "tiny-emitter",
-        "pk": "tiny-emitter.json",
+        "npm_name": "tiny-emitter",
+        "pk": "tiny-emitter",
         "size": 4505
     },
     "tiny-inflate.json": {
         "filename": "data/npm_libs/tiny-inflate.json",
-        "name": "tiny-inflate",
-        "pk": "tiny-inflate.json",
+        "npm_name": "tiny-inflate",
+        "pk": "tiny-inflate",
         "size": 1261
     },
     "to-array.json": {
         "filename": "data/npm_libs/to-array.json",
-        "name": "to-array",
-        "pk": "to-array.json",
+        "npm_name": "to-array",
+        "pk": "to-array",
         "size": 1792
     },
     "to-fast-properties.json": {
         "filename": "data/npm_libs/to-fast-properties.json",
-        "name": "to-fast-properties",
-        "pk": "to-fast-properties.json",
+        "npm_name": "to-fast-properties",
+        "pk": "to-fast-properties",
         "size": 1607
     },
     "to-readable-stream.json": {
         "filename": "data/npm_libs/to-readable-stream.json",
-        "name": "to-readable-stream",
-        "pk": "to-readable-stream.json",
+        "npm_name": "to-readable-stream",
+        "pk": "to-readable-stream",
         "size": 2663
     },
     "to-regex-range.json": {
         "filename": "data/npm_libs/to-regex-range.json",
-        "name": "to-regex-range",
-        "pk": "to-regex-range.json",
+        "npm_name": "to-regex-range",
+        "pk": "to-regex-range",
         "size": 4472
     },
     "toidentifier.json": {
         "filename": "data/npm_libs/toidentifier.json",
-        "name": "toidentifier",
-        "pk": "toidentifier.json",
+        "npm_name": "toidentifier",
+        "pk": "toidentifier",
         "size": 3003
     },
     "token-stream.json": {
         "filename": "data/npm_libs/token-stream.json",
-        "name": "token-stream",
-        "pk": "token-stream.json",
+        "npm_name": "token-stream",
+        "pk": "token-stream",
         "size": 1403
     },
     "touch.json": {
         "filename": "data/npm_libs/touch.json",
-        "name": "touch",
-        "pk": "touch.json",
+        "npm_name": "touch",
+        "pk": "touch",
         "size": 2362
     },
     "tough-cookie.json": {
         "filename": "data/npm_libs/tough-cookie.json",
-        "name": "tough-cookie",
-        "pk": "tough-cookie.json",
+        "npm_name": "tough-cookie",
+        "pk": "tough-cookie",
         "size": 5550
     },
     "tslib.json": {
         "filename": "data/npm_libs/tslib.json",
-        "name": "tslib",
-        "pk": "tslib.json",
+        "npm_name": "tslib",
+        "pk": "tslib",
         "size": 3478
     },
     "tunnel-agent.json": {
         "filename": "data/npm_libs/tunnel-agent.json",
-        "name": "tunnel-agent",
-        "pk": "tunnel-agent.json",
+        "npm_name": "tunnel-agent",
+        "pk": "tunnel-agent",
         "size": 1910
     },
     "tunnel.json": {
         "filename": "data/npm_libs/tunnel.json",
-        "name": "tunnel",
-        "pk": "tunnel.json",
+        "npm_name": "tunnel",
+        "pk": "tunnel",
         "size": 3000
     },
     "tweetnacl.json": {
         "filename": "data/npm_libs/tweetnacl.json",
-        "name": "tweetnacl",
-        "pk": "tweetnacl.json",
+        "npm_name": "tweetnacl",
+        "pk": "tweetnacl",
         "size": 4691
     },
     "type-check.json": {
         "filename": "data/npm_libs/type-check.json",
-        "name": "type-check",
-        "pk": "type-check.json",
+        "npm_name": "type-check",
+        "pk": "type-check",
         "size": 1893
     },
     "type-fest.json": {
         "filename": "data/npm_libs/type-fest.json",
-        "name": "type-fest",
-        "pk": "type-fest.json",
+        "npm_name": "type-fest",
+        "pk": "type-fest",
         "size": 3351
     },
     "type-is.json": {
         "filename": "data/npm_libs/type-is.json",
-        "name": "type-is",
-        "pk": "type-is.json",
+        "npm_name": "type-is",
+        "pk": "type-is",
         "size": 5475
     },
     "type.json": {
         "filename": "data/npm_libs/type.json",
-        "name": "type",
-        "pk": "type.json",
+        "npm_name": "type",
+        "pk": "type",
         "size": 4411
     },
     "typed-function.json": {
         "filename": "data/npm_libs/typed-function.json",
-        "name": "typed-function",
-        "pk": "typed-function.json",
+        "npm_name": "typed-function",
+        "pk": "typed-function",
         "size": 4457
     },
     "typedarray-to-buffer.json": {
         "filename": "data/npm_libs/typedarray-to-buffer.json",
-        "name": "typedarray-to-buffer",
-        "pk": "typedarray-to-buffer.json",
+        "npm_name": "typedarray-to-buffer",
+        "pk": "typedarray-to-buffer",
         "size": 2790
     },
     "typedarray.json": {
         "filename": "data/npm_libs/typedarray.json",
-        "name": "typedarray",
-        "pk": "typedarray.json",
+        "npm_name": "typedarray",
+        "pk": "typedarray",
         "size": 2011
     },
     "typescript.json": {
         "filename": "data/npm_libs/typescript.json",
-        "name": "typescript",
-        "pk": "typescript.json",
+        "npm_name": "typescript",
+        "pk": "typescript",
         "size": 118603
     },
     "uglify-js.json": {
         "filename": "data/npm_libs/uglify-js.json",
-        "name": "uglify-js",
-        "pk": "uglify-js.json",
+        "npm_name": "uglify-js",
+        "pk": "uglify-js",
         "size": 20142
     },
     "uid-safe.json": {
         "filename": "data/npm_libs/uid-safe.json",
-        "name": "uid-safe",
-        "pk": "uid-safe.json",
+        "npm_name": "uid-safe",
+        "pk": "uid-safe",
         "size": 3176
     },
     "unc-path-regex.json": {
         "filename": "data/npm_libs/unc-path-regex.json",
-        "name": "unc-path-regex",
-        "pk": "unc-path-regex.json",
+        "npm_name": "unc-path-regex",
+        "pk": "unc-path-regex",
         "size": 1872
     },
     "undefsafe.json": {
         "filename": "data/npm_libs/undefsafe.json",
-        "name": "undefsafe",
-        "pk": "undefsafe.json",
+        "npm_name": "undefsafe",
+        "pk": "undefsafe",
         "size": 2058
     },
     "underscore.json": {
         "filename": "data/npm_libs/underscore.json",
-        "name": "underscore",
-        "pk": "underscore.json",
+        "npm_name": "underscore",
+        "pk": "underscore",
         "size": 18082
     },
     "underscore.string.json": {
         "filename": "data/npm_libs/underscore.string.json",
-        "name": "underscore.string",
-        "pk": "underscore.string.json",
+        "npm_name": "underscore.string",
+        "pk": "underscore.string",
         "size": 7226
     },
     "unicode-properties.json": {
         "filename": "data/npm_libs/unicode-properties.json",
-        "name": "unicode-properties",
-        "pk": "unicode-properties.json",
+        "npm_name": "unicode-properties",
+        "pk": "unicode-properties",
         "size": 3177
     },
     "unicode-trie.json": {
         "filename": "data/npm_libs/unicode-trie.json",
-        "name": "unicode-trie",
-        "pk": "unicode-trie.json",
+        "npm_name": "unicode-trie",
+        "pk": "unicode-trie",
         "size": 2680
     },
     "unique-string.json": {
         "filename": "data/npm_libs/unique-string.json",
-        "name": "unique-string",
-        "pk": "unique-string.json",
+        "npm_name": "unique-string",
+        "pk": "unique-string",
         "size": 2612
     },
     "universal-user-agent.json": {
         "filename": "data/npm_libs/universal-user-agent.json",
-        "name": "universal-user-agent",
-        "pk": "universal-user-agent.json",
+        "npm_name": "universal-user-agent",
+        "pk": "universal-user-agent",
         "size": 3423
     },
     "universalify.json": {
         "filename": "data/npm_libs/universalify.json",
-        "name": "universalify",
-        "pk": "universalify.json",
+        "npm_name": "universalify",
+        "pk": "universalify",
         "size": 2731
     },
     "unpipe.json": {
         "filename": "data/npm_libs/unpipe.json",
-        "name": "unpipe",
-        "pk": "unpipe.json",
+        "npm_name": "unpipe",
+        "pk": "unpipe",
         "size": 1500
     },
     "update-notifier.json": {
         "filename": "data/npm_libs/update-notifier.json",
-        "name": "update-notifier",
-        "pk": "update-notifier.json",
+        "npm_name": "update-notifier",
+        "pk": "update-notifier",
         "size": 7399
     },
     "uri-js.json": {
         "filename": "data/npm_libs/uri-js.json",
-        "name": "uri-js",
-        "pk": "uri-js.json",
+        "npm_name": "uri-js",
+        "pk": "uri-js",
         "size": 4268
     },
     "url-parse-lax.json": {
         "filename": "data/npm_libs/url-parse-lax.json",
-        "name": "url-parse-lax",
-        "pk": "url-parse-lax.json",
+        "npm_name": "url-parse-lax",
+        "pk": "url-parse-lax",
         "size": 2751
     },
     "url.json": {
         "filename": "data/npm_libs/url.json",
-        "name": "url",
-        "pk": "url.json",
+        "npm_name": "url",
+        "pk": "url",
         "size": 3293
     },
     "util-deprecate.json": {
         "filename": "data/npm_libs/util-deprecate.json",
-        "name": "util-deprecate",
-        "pk": "util-deprecate.json",
+        "npm_name": "util-deprecate",
+        "pk": "util-deprecate",
         "size": 1448
     },
     "util.json": {
         "filename": "data/npm_libs/util.json",
-        "name": "util",
-        "pk": "util.json",
+        "npm_name": "util",
+        "pk": "util",
         "size": 5611
     },
     "utils-merge.json": {
         "filename": "data/npm_libs/utils-merge.json",
-        "name": "utils-merge",
-        "pk": "utils-merge.json",
+        "npm_name": "utils-merge",
+        "pk": "utils-merge",
         "size": 1740
     },
     "uuid.json": {
         "filename": "data/npm_libs/uuid.json",
-        "name": "uuid",
-        "pk": "uuid.json",
+        "npm_name": "uuid",
+        "pk": "uuid",
         "size": 11094
     },
     "v8flags.json": {
         "filename": "data/npm_libs/v8flags.json",
-        "name": "v8flags",
-        "pk": "v8flags.json",
+        "npm_name": "v8flags",
+        "pk": "v8flags",
         "size": 4866
     },
     "validator.json": {
         "filename": "data/npm_libs/validator.json",
-        "name": "validator",
-        "pk": "validator.json",
+        "npm_name": "validator",
+        "pk": "validator",
         "size": 25193
     },
     "vary.json": {
         "filename": "data/npm_libs/vary.json",
-        "name": "vary",
-        "pk": "vary.json",
+        "npm_name": "vary",
+        "pk": "vary",
         "size": 2481
     },
     "verror.json": {
         "filename": "data/npm_libs/verror.json",
-        "name": "verror",
-        "pk": "verror.json",
+        "npm_name": "verror",
+        "pk": "verror",
         "size": 3365
     },
     "void-elements.json": {
         "filename": "data/npm_libs/void-elements.json",
-        "name": "void-elements",
-        "pk": "void-elements.json",
+        "npm_name": "void-elements",
+        "pk": "void-elements",
         "size": 1958
     },
     "walk.json": {
         "filename": "data/npm_libs/walk.json",
-        "name": "walk",
-        "pk": "walk.json",
+        "npm_name": "walk",
+        "pk": "walk",
         "size": 4440
     },
     "which-module.json": {
         "filename": "data/npm_libs/which-module.json",
-        "name": "which-module",
-        "pk": "which-module.json",
+        "npm_name": "which-module",
+        "pk": "which-module",
         "size": 1608
     },
     "which.json": {
         "filename": "data/npm_libs/which.json",
-        "name": "which",
-        "pk": "which.json",
+        "npm_name": "which",
+        "pk": "which",
         "size": 4452
     },
     "wide-align.json": {
         "filename": "data/npm_libs/wide-align.json",
-        "name": "wide-align",
-        "pk": "wide-align.json",
+        "npm_name": "wide-align",
+        "pk": "wide-align",
         "size": 2940
     },
     "widest-line.json": {
         "filename": "data/npm_libs/widest-line.json",
-        "name": "widest-line",
-        "pk": "widest-line.json",
+        "npm_name": "widest-line",
+        "pk": "widest-line",
         "size": 2991
     },
     "windows-release.json": {
         "filename": "data/npm_libs/windows-release.json",
-        "name": "windows-release",
-        "pk": "windows-release.json",
+        "npm_name": "windows-release",
+        "pk": "windows-release",
         "size": 2606
     },
     "with.json": {
         "filename": "data/npm_libs/with.json",
-        "name": "with",
-        "pk": "with.json",
+        "npm_name": "with",
+        "pk": "with",
         "size": 3599
     },
     "wns.json": {
         "filename": "data/npm_libs/wns.json",
-        "name": "wns",
-        "pk": "wns.json",
+        "npm_name": "wns",
+        "pk": "wns",
         "size": 2789
     },
     "wordwrap.json": {
         "filename": "data/npm_libs/wordwrap.json",
-        "name": "wordwrap",
-        "pk": "wordwrap.json",
+        "npm_name": "wordwrap",
+        "pk": "wordwrap",
         "size": 1749
     },
     "wrap-ansi.json": {
         "filename": "data/npm_libs/wrap-ansi.json",
-        "name": "wrap-ansi",
-        "pk": "wrap-ansi.json",
+        "npm_name": "wrap-ansi",
+        "pk": "wrap-ansi",
         "size": 3641
     },
     "wrappy.json": {
         "filename": "data/npm_libs/wrappy.json",
-        "name": "wrappy",
-        "pk": "wrappy.json",
+        "npm_name": "wrappy",
+        "pk": "wrappy",
         "size": 1360
     },
     "write-file-atomic.json": {
         "filename": "data/npm_libs/write-file-atomic.json",
-        "name": "write-file-atomic",
-        "pk": "write-file-atomic.json",
+        "npm_name": "write-file-atomic",
+        "pk": "write-file-atomic",
         "size": 4197
     },
     "ws.json": {
         "filename": "data/npm_libs/ws.json",
-        "name": "ws",
-        "pk": "ws.json",
+        "npm_name": "ws",
+        "pk": "ws",
         "size": 15072
     },
     "xdg-basedir.json": {
         "filename": "data/npm_libs/xdg-basedir.json",
-        "name": "xdg-basedir",
-        "pk": "xdg-basedir.json",
+        "npm_name": "xdg-basedir",
+        "pk": "xdg-basedir",
         "size": 2800
     },
     "xml2js.json": {
         "filename": "data/npm_libs/xml2js.json",
-        "name": "xml2js",
-        "pk": "xml2js.json",
+        "npm_name": "xml2js",
+        "pk": "xml2js",
         "size": 13120
     },
     "xmlbuilder.json": {
         "filename": "data/npm_libs/xmlbuilder.json",
-        "name": "xmlbuilder",
-        "pk": "xmlbuilder.json",
+        "npm_name": "xmlbuilder",
+        "pk": "xmlbuilder",
         "size": 8204
     },
     "xmldom.json": {
         "filename": "data/npm_libs/xmldom.json",
-        "name": "xmldom",
-        "pk": "xmldom.json",
+        "npm_name": "xmldom",
+        "pk": "xmldom",
         "size": 4353
     },
     "xmlhttprequest-ssl.json": {
         "filename": "data/npm_libs/xmlhttprequest-ssl.json",
-        "name": "xmlhttprequest-ssl",
-        "pk": "xmlhttprequest-ssl.json",
+        "npm_name": "xmlhttprequest-ssl",
+        "pk": "xmlhttprequest-ssl",
         "size": 2954
     },
     "xpath.js.json": {
         "filename": "data/npm_libs/xpath.js.json",
-        "name": "xpath.js",
-        "pk": "xpath.js.json",
+        "npm_name": "xpath.js",
+        "pk": "xpath.js",
         "size": 1881
     },
     "xregexp.json": {
         "filename": "data/npm_libs/xregexp.json",
-        "name": "xregexp",
-        "pk": "xregexp.json",
+        "npm_name": "xregexp",
+        "pk": "xregexp",
         "size": 4874
     },
     "xtend.json": {
         "filename": "data/npm_libs/xtend.json",
-        "name": "xtend",
-        "pk": "xtend.json",
+        "npm_name": "xtend",
+        "pk": "xtend",
         "size": 4580
     },
     "y18n.json": {
         "filename": "data/npm_libs/y18n.json",
-        "name": "y18n",
-        "pk": "y18n.json",
+        "npm_name": "y18n",
+        "pk": "y18n",
         "size": 2119
     },
     "yallist.json": {
         "filename": "data/npm_libs/yallist.json",
-        "name": "yallist",
-        "pk": "yallist.json",
+        "npm_name": "yallist",
+        "pk": "yallist",
         "size": 3075
     },
     "yargs-parser.json": {
         "filename": "data/npm_libs/yargs-parser.json",
-        "name": "yargs-parser",
-        "pk": "yargs-parser.json",
+        "npm_name": "yargs-parser",
+        "pk": "yargs-parser",
         "size": 5383
     },
     "yargs-unparser.json": {
         "filename": "data/npm_libs/yargs-unparser.json",
-        "name": "yargs-unparser",
-        "pk": "yargs-unparser.json",
+        "npm_name": "yargs-unparser",
+        "pk": "yargs-unparser",
         "size": 4633
     },
     "yargs.json": {
         "filename": "data/npm_libs/yargs.json",
-        "name": "yargs",
-        "pk": "yargs.json",
+        "npm_name": "yargs",
+        "pk": "yargs",
         "size": 28777
     },
     "yauzl.json": {
         "filename": "data/npm_libs/yauzl.json",
-        "name": "yauzl",
-        "pk": "yauzl.json",
+        "npm_name": "yauzl",
+        "pk": "yauzl",
         "size": 3455
     },
     "yeast.json": {
         "filename": "data/npm_libs/yeast.json",
-        "name": "yeast",
-        "pk": "yeast.json",
+        "npm_name": "yeast",
+        "pk": "yeast",
         "size": 1758
     }
 }
