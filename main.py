@@ -1,7 +1,5 @@
 """
 Usage:
-  python main.py create_files_list_json
-
   python main.py populate_cosmos_npm      > data/results/populate_cosmos_npm.txt
   python main.py populate_cosmos_zipcodes > data/results/populate_cosmos_zipcodes.txt
   python main.py populate_redis_npm       > data/results/populate_redis_npm.txt
@@ -10,6 +8,9 @@ Usage:
   python main.py perf_test_cosmos > data/results/perf_test_cosmos.txt
   python main.py perf_test_redis  > data/results/perf_test_redis.txt
   python main.py produce_report
+
+  python main.py create_files_list_json
+  python main.py create_keys_file
 Options:
   -h --help     Show this screen.
   --version     Show version.
@@ -334,6 +335,38 @@ def create_files_list_json():
             print('bypassing {}, no name key'.format(key))
     write('data/npm_libs/files-list.json', json.dumps(files_dict, sort_keys=True, indent=4))
 
+def create_keys_file():
+    data = dict()
+    
+    lines = read_lines('data/results/populate_redis_npm.txt')
+    for line in lines:
+        doc = dict()
+        tokens = line.split(' ')
+        key = tokens[2]
+        doc['key'] = key
+        doc['approx_size'] = tokens[3]
+        doc['type'] = 'npm'
+        data[key] = doc
+    print('npm keys count: {}'.format(len(data.keys())))
+
+    lines = read_lines('data/results/populate_redis_zipcodes.txt')
+    for line in lines:
+        doc = dict()
+        tokens = line.split(' ')
+        key = tokens[2]
+        doc['key'] = key
+        doc['approx_size'] = tokens[3]
+        doc['type'] = 'zipcode'
+        if key in data:
+            print('overlaying key: {}'.format(key))
+        data[key] = doc
+
+    print('total keys count: {}'.format(len(data.keys())))
+    write('data/keys.json', json.dumps(data, sort_keys=True, indent=4))
+    # npm keys count: 639
+    # total keys count: 1714
+    # file written: data/keys.json
+
 def read_lines(infile):
     lines = list()
     with open(infile, 'rt') as f:
@@ -360,6 +393,9 @@ def main_dispatch(func):
 
     if func == 'create_files_list_json':
         create_files_list_json()
+
+    elif func == 'create_keys_file':
+        create_keys_file()
 
     elif func == 'populate_cosmos_npm':
         populate_cosmos_npm()

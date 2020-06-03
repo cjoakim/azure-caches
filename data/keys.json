@@ -1,0 +1,8572 @@
+{
+    "27006": {
+        "approx_size": "206",
+        "key": "27006",
+        "type": "zipcode"
+    },
+    "27007": {
+        "approx_size": "205",
+        "key": "27007",
+        "type": "zipcode"
+    },
+    "27009": {
+        "approx_size": "209",
+        "key": "27009",
+        "type": "zipcode"
+    },
+    "27010": {
+        "approx_size": "199",
+        "key": "27010",
+        "type": "zipcode"
+    },
+    "27011": {
+        "approx_size": "208",
+        "key": "27011",
+        "type": "zipcode"
+    },
+    "27012": {
+        "approx_size": "207",
+        "key": "27012",
+        "type": "zipcode"
+    },
+    "27013": {
+        "approx_size": "206",
+        "key": "27013",
+        "type": "zipcode"
+    },
+    "27014": {
+        "approx_size": "208",
+        "key": "27014",
+        "type": "zipcode"
+    },
+    "27016": {
+        "approx_size": "204",
+        "key": "27016",
+        "type": "zipcode"
+    },
+    "27017": {
+        "approx_size": "205",
+        "key": "27017",
+        "type": "zipcode"
+    },
+    "27018": {
+        "approx_size": "208",
+        "key": "27018",
+        "type": "zipcode"
+    },
+    "27019": {
+        "approx_size": "208",
+        "key": "27019",
+        "type": "zipcode"
+    },
+    "27020": {
+        "approx_size": "209",
+        "key": "27020",
+        "type": "zipcode"
+    },
+    "27021": {
+        "approx_size": "203",
+        "key": "27021",
+        "type": "zipcode"
+    },
+    "27022": {
+        "approx_size": "210",
+        "key": "27022",
+        "type": "zipcode"
+    },
+    "27023": {
+        "approx_size": "207",
+        "key": "27023",
+        "type": "zipcode"
+    },
+    "27024": {
+        "approx_size": "203",
+        "key": "27024",
+        "type": "zipcode"
+    },
+    "27025": {
+        "approx_size": "206",
+        "key": "27025",
+        "type": "zipcode"
+    },
+    "27027": {
+        "approx_size": "206",
+        "key": "27027",
+        "type": "zipcode"
+    },
+    "27028": {
+        "approx_size": "209",
+        "key": "27028",
+        "type": "zipcode"
+    },
+    "27030": {
+        "approx_size": "209",
+        "key": "27030",
+        "type": "zipcode"
+    },
+    "27031": {
+        "approx_size": "203",
+        "key": "27031",
+        "type": "zipcode"
+    },
+    "27040": {
+        "approx_size": "208",
+        "key": "27040",
+        "type": "zipcode"
+    },
+    "27041": {
+        "approx_size": "211",
+        "key": "27041",
+        "type": "zipcode"
+    },
+    "27042": {
+        "approx_size": "208",
+        "key": "27042",
+        "type": "zipcode"
+    },
+    "27043": {
+        "approx_size": "205",
+        "key": "27043",
+        "type": "zipcode"
+    },
+    "27045": {
+        "approx_size": "207",
+        "key": "27045",
+        "type": "zipcode"
+    },
+    "27046": {
+        "approx_size": "210",
+        "key": "27046",
+        "type": "zipcode"
+    },
+    "27047": {
+        "approx_size": "203",
+        "key": "27047",
+        "type": "zipcode"
+    },
+    "27048": {
+        "approx_size": "209",
+        "key": "27048",
+        "type": "zipcode"
+    },
+    "27049": {
+        "approx_size": "196",
+        "key": "27049",
+        "type": "zipcode"
+    },
+    "27050": {
+        "approx_size": "209",
+        "key": "27050",
+        "type": "zipcode"
+    },
+    "27051": {
+        "approx_size": "209",
+        "key": "27051",
+        "type": "zipcode"
+    },
+    "27052": {
+        "approx_size": "210",
+        "key": "27052",
+        "type": "zipcode"
+    },
+    "27053": {
+        "approx_size": "208",
+        "key": "27053",
+        "type": "zipcode"
+    },
+    "27054": {
+        "approx_size": "207",
+        "key": "27054",
+        "type": "zipcode"
+    },
+    "27055": {
+        "approx_size": "210",
+        "key": "27055",
+        "type": "zipcode"
+    },
+    "27094": {
+        "approx_size": "201",
+        "key": "27094",
+        "type": "zipcode"
+    },
+    "27098": {
+        "approx_size": "201",
+        "key": "27098",
+        "type": "zipcode"
+    },
+    "27099": {
+        "approx_size": "201",
+        "key": "27099",
+        "type": "zipcode"
+    },
+    "27101": {
+        "approx_size": "210",
+        "key": "27101",
+        "type": "zipcode"
+    },
+    "27102": {
+        "approx_size": "204",
+        "key": "27102",
+        "type": "zipcode"
+    },
+    "27103": {
+        "approx_size": "212",
+        "key": "27103",
+        "type": "zipcode"
+    },
+    "27104": {
+        "approx_size": "212",
+        "key": "27104",
+        "type": "zipcode"
+    },
+    "27105": {
+        "approx_size": "212",
+        "key": "27105",
+        "type": "zipcode"
+    },
+    "27106": {
+        "approx_size": "212",
+        "key": "27106",
+        "type": "zipcode"
+    },
+    "27107": {
+        "approx_size": "212",
+        "key": "27107",
+        "type": "zipcode"
+    },
+    "27108": {
+        "approx_size": "204",
+        "key": "27108",
+        "type": "zipcode"
+    },
+    "27109": {
+        "approx_size": "212",
+        "key": "27109",
+        "type": "zipcode"
+    },
+    "27110": {
+        "approx_size": "212",
+        "key": "27110",
+        "type": "zipcode"
+    },
+    "27111": {
+        "approx_size": "204",
+        "key": "27111",
+        "type": "zipcode"
+    },
+    "27113": {
+        "approx_size": "204",
+        "key": "27113",
+        "type": "zipcode"
+    },
+    "27114": {
+        "approx_size": "204",
+        "key": "27114",
+        "type": "zipcode"
+    },
+    "27115": {
+        "approx_size": "204",
+        "key": "27115",
+        "type": "zipcode"
+    },
+    "27116": {
+        "approx_size": "202",
+        "key": "27116",
+        "type": "zipcode"
+    },
+    "27117": {
+        "approx_size": "204",
+        "key": "27117",
+        "type": "zipcode"
+    },
+    "27120": {
+        "approx_size": "204",
+        "key": "27120",
+        "type": "zipcode"
+    },
+    "27127": {
+        "approx_size": "212",
+        "key": "27127",
+        "type": "zipcode"
+    },
+    "27130": {
+        "approx_size": "204",
+        "key": "27130",
+        "type": "zipcode"
+    },
+    "27150": {
+        "approx_size": "204",
+        "key": "27150",
+        "type": "zipcode"
+    },
+    "27152": {
+        "approx_size": "204",
+        "key": "27152",
+        "type": "zipcode"
+    },
+    "27155": {
+        "approx_size": "204",
+        "key": "27155",
+        "type": "zipcode"
+    },
+    "27157": {
+        "approx_size": "204",
+        "key": "27157",
+        "type": "zipcode"
+    },
+    "27198": {
+        "approx_size": "204",
+        "key": "27198",
+        "type": "zipcode"
+    },
+    "27199": {
+        "approx_size": "204",
+        "key": "27199",
+        "type": "zipcode"
+    },
+    "27201": {
+        "approx_size": "199",
+        "key": "27201",
+        "type": "zipcode"
+    },
+    "27202": {
+        "approx_size": "208",
+        "key": "27202",
+        "type": "zipcode"
+    },
+    "27203": {
+        "approx_size": "205",
+        "key": "27203",
+        "type": "zipcode"
+    },
+    "27204": {
+        "approx_size": "199",
+        "key": "27204",
+        "type": "zipcode"
+    },
+    "27205": {
+        "approx_size": "207",
+        "key": "27205",
+        "type": "zipcode"
+    },
+    "27207": {
+        "approx_size": "209",
+        "key": "27207",
+        "type": "zipcode"
+    },
+    "27208": {
+        "approx_size": "206",
+        "key": "27208",
+        "type": "zipcode"
+    },
+    "27209": {
+        "approx_size": "205",
+        "key": "27209",
+        "type": "zipcode"
+    },
+    "27212": {
+        "approx_size": "205",
+        "key": "27212",
+        "type": "zipcode"
+    },
+    "27213": {
+        "approx_size": "197",
+        "key": "27213",
+        "type": "zipcode"
+    },
+    "27214": {
+        "approx_size": "212",
+        "key": "27214",
+        "type": "zipcode"
+    },
+    "27215": {
+        "approx_size": "209",
+        "key": "27215",
+        "type": "zipcode"
+    },
+    "27216": {
+        "approx_size": "201",
+        "key": "27216",
+        "type": "zipcode"
+    },
+    "27217": {
+        "approx_size": "209",
+        "key": "27217",
+        "type": "zipcode"
+    },
+    "27228": {
+        "approx_size": "196",
+        "key": "27228",
+        "type": "zipcode"
+    },
+    "27229": {
+        "approx_size": "205",
+        "key": "27229",
+        "type": "zipcode"
+    },
+    "27230": {
+        "approx_size": "202",
+        "key": "27230",
+        "type": "zipcode"
+    },
+    "27231": {
+        "approx_size": "208",
+        "key": "27231",
+        "type": "zipcode"
+    },
+    "27233": {
+        "approx_size": "205",
+        "key": "27233",
+        "type": "zipcode"
+    },
+    "27235": {
+        "approx_size": "203",
+        "key": "27235",
+        "type": "zipcode"
+    },
+    "27237": {
+        "approx_size": "198",
+        "key": "27237",
+        "type": "zipcode"
+    },
+    "27239": {
+        "approx_size": "205",
+        "key": "27239",
+        "type": "zipcode"
+    },
+    "27242": {
+        "approx_size": "208",
+        "key": "27242",
+        "type": "zipcode"
+    },
+    "27243": {
+        "approx_size": "205",
+        "key": "27243",
+        "type": "zipcode"
+    },
+    "27244": {
+        "approx_size": "199",
+        "key": "27244",
+        "type": "zipcode"
+    },
+    "27247": {
+        "approx_size": "196",
+        "key": "27247",
+        "type": "zipcode"
+    },
+    "27248": {
+        "approx_size": "212",
+        "key": "27248",
+        "type": "zipcode"
+    },
+    "27249": {
+        "approx_size": "210",
+        "key": "27249",
+        "type": "zipcode"
+    },
+    "27252": {
+        "approx_size": "207",
+        "key": "27252",
+        "type": "zipcode"
+    },
+    "27253": {
+        "approx_size": "205",
+        "key": "27253",
+        "type": "zipcode"
+    },
+    "27256": {
+        "approx_size": "203",
+        "key": "27256",
+        "type": "zipcode"
+    },
+    "27258": {
+        "approx_size": "208",
+        "key": "27258",
+        "type": "zipcode"
+    },
+    "27259": {
+        "approx_size": "200",
+        "key": "27259",
+        "type": "zipcode"
+    },
+    "27260": {
+        "approx_size": "207",
+        "key": "27260",
+        "type": "zipcode"
+    },
+    "27261": {
+        "approx_size": "201",
+        "key": "27261",
+        "type": "zipcode"
+    },
+    "27262": {
+        "approx_size": "209",
+        "key": "27262",
+        "type": "zipcode"
+    },
+    "27263": {
+        "approx_size": "209",
+        "key": "27263",
+        "type": "zipcode"
+    },
+    "27264": {
+        "approx_size": "201",
+        "key": "27264",
+        "type": "zipcode"
+    },
+    "27265": {
+        "approx_size": "209",
+        "key": "27265",
+        "type": "zipcode"
+    },
+    "27278": {
+        "approx_size": "211",
+        "key": "27278",
+        "type": "zipcode"
+    },
+    "27281": {
+        "approx_size": "214",
+        "key": "27281",
+        "type": "zipcode"
+    },
+    "27282": {
+        "approx_size": "206",
+        "key": "27282",
+        "type": "zipcode"
+    },
+    "27283": {
+        "approx_size": "205",
+        "key": "27283",
+        "type": "zipcode"
+    },
+    "27284": {
+        "approx_size": "209",
+        "key": "27284",
+        "type": "zipcode"
+    },
+    "27285": {
+        "approx_size": "203",
+        "key": "27285",
+        "type": "zipcode"
+    },
+    "27288": {
+        "approx_size": "203",
+        "key": "27288",
+        "type": "zipcode"
+    },
+    "27289": {
+        "approx_size": "195",
+        "key": "27289",
+        "type": "zipcode"
+    },
+    "27291": {
+        "approx_size": "207",
+        "key": "27291",
+        "type": "zipcode"
+    },
+    "27292": {
+        "approx_size": "208",
+        "key": "27292",
+        "type": "zipcode"
+    },
+    "27293": {
+        "approx_size": "200",
+        "key": "27293",
+        "type": "zipcode"
+    },
+    "27294": {
+        "approx_size": "200",
+        "key": "27294",
+        "type": "zipcode"
+    },
+    "27295": {
+        "approx_size": "208",
+        "key": "27295",
+        "type": "zipcode"
+    },
+    "27298": {
+        "approx_size": "206",
+        "key": "27298",
+        "type": "zipcode"
+    },
+    "27299": {
+        "approx_size": "206",
+        "key": "27299",
+        "type": "zipcode"
+    },
+    "27301": {
+        "approx_size": "212",
+        "key": "27301",
+        "type": "zipcode"
+    },
+    "27302": {
+        "approx_size": "205",
+        "key": "27302",
+        "type": "zipcode"
+    },
+    "27305": {
+        "approx_size": "205",
+        "key": "27305",
+        "type": "zipcode"
+    },
+    "27306": {
+        "approx_size": "211",
+        "key": "27306",
+        "type": "zipcode"
+    },
+    "27310": {
+        "approx_size": "208",
+        "key": "27310",
+        "type": "zipcode"
+    },
+    "27311": {
+        "approx_size": "205",
+        "key": "27311",
+        "type": "zipcode"
+    },
+    "27312": {
+        "approx_size": "208",
+        "key": "27312",
+        "type": "zipcode"
+    },
+    "27313": {
+        "approx_size": "214",
+        "key": "27313",
+        "type": "zipcode"
+    },
+    "27314": {
+        "approx_size": "212",
+        "key": "27314",
+        "type": "zipcode"
+    },
+    "27315": {
+        "approx_size": "207",
+        "key": "27315",
+        "type": "zipcode"
+    },
+    "27316": {
+        "approx_size": "206",
+        "key": "27316",
+        "type": "zipcode"
+    },
+    "27317": {
+        "approx_size": "208",
+        "key": "27317",
+        "type": "zipcode"
+    },
+    "27320": {
+        "approx_size": "207",
+        "key": "27320",
+        "type": "zipcode"
+    },
+    "27323": {
+        "approx_size": "201",
+        "key": "27323",
+        "type": "zipcode"
+    },
+    "27325": {
+        "approx_size": "206",
+        "key": "27325",
+        "type": "zipcode"
+    },
+    "27326": {
+        "approx_size": "205",
+        "key": "27326",
+        "type": "zipcode"
+    },
+    "27330": {
+        "approx_size": "204",
+        "key": "27330",
+        "type": "zipcode"
+    },
+    "27331": {
+        "approx_size": "198",
+        "key": "27331",
+        "type": "zipcode"
+    },
+    "27332": {
+        "approx_size": "206",
+        "key": "27332",
+        "type": "zipcode"
+    },
+    "27340": {
+        "approx_size": "198",
+        "key": "27340",
+        "type": "zipcode"
+    },
+    "27341": {
+        "approx_size": "207",
+        "key": "27341",
+        "type": "zipcode"
+    },
+    "27342": {
+        "approx_size": "204",
+        "key": "27342",
+        "type": "zipcode"
+    },
+    "27343": {
+        "approx_size": "205",
+        "key": "27343",
+        "type": "zipcode"
+    },
+    "27344": {
+        "approx_size": "209",
+        "key": "27344",
+        "type": "zipcode"
+    },
+    "27349": {
+        "approx_size": "208",
+        "key": "27349",
+        "type": "zipcode"
+    },
+    "27350": {
+        "approx_size": "205",
+        "key": "27350",
+        "type": "zipcode"
+    },
+    "27351": {
+        "approx_size": "200",
+        "key": "27351",
+        "type": "zipcode"
+    },
+    "27355": {
+        "approx_size": "203",
+        "key": "27355",
+        "type": "zipcode"
+    },
+    "27356": {
+        "approx_size": "201",
+        "key": "27356",
+        "type": "zipcode"
+    },
+    "27357": {
+        "approx_size": "207",
+        "key": "27357",
+        "type": "zipcode"
+    },
+    "27358": {
+        "approx_size": "206",
+        "key": "27358",
+        "type": "zipcode"
+    },
+    "27359": {
+        "approx_size": "203",
+        "key": "27359",
+        "type": "zipcode"
+    },
+    "27360": {
+        "approx_size": "210",
+        "key": "27360",
+        "type": "zipcode"
+    },
+    "27361": {
+        "approx_size": "202",
+        "key": "27361",
+        "type": "zipcode"
+    },
+    "27370": {
+        "approx_size": "206",
+        "key": "27370",
+        "type": "zipcode"
+    },
+    "27371": {
+        "approx_size": "203",
+        "key": "27371",
+        "type": "zipcode"
+    },
+    "27373": {
+        "approx_size": "199",
+        "key": "27373",
+        "type": "zipcode"
+    },
+    "27374": {
+        "approx_size": "198",
+        "key": "27374",
+        "type": "zipcode"
+    },
+    "27375": {
+        "approx_size": "194",
+        "key": "27375",
+        "type": "zipcode"
+    },
+    "27376": {
+        "approx_size": "207",
+        "key": "27376",
+        "type": "zipcode"
+    },
+    "27377": {
+        "approx_size": "207",
+        "key": "27377",
+        "type": "zipcode"
+    },
+    "27379": {
+        "approx_size": "210",
+        "key": "27379",
+        "type": "zipcode"
+    },
+    "27401": {
+        "approx_size": "209",
+        "key": "27401",
+        "type": "zipcode"
+    },
+    "27402": {
+        "approx_size": "201",
+        "key": "27402",
+        "type": "zipcode"
+    },
+    "27403": {
+        "approx_size": "209",
+        "key": "27403",
+        "type": "zipcode"
+    },
+    "27404": {
+        "approx_size": "201",
+        "key": "27404",
+        "type": "zipcode"
+    },
+    "27405": {
+        "approx_size": "209",
+        "key": "27405",
+        "type": "zipcode"
+    },
+    "27406": {
+        "approx_size": "209",
+        "key": "27406",
+        "type": "zipcode"
+    },
+    "27407": {
+        "approx_size": "209",
+        "key": "27407",
+        "type": "zipcode"
+    },
+    "27408": {
+        "approx_size": "209",
+        "key": "27408",
+        "type": "zipcode"
+    },
+    "27409": {
+        "approx_size": "209",
+        "key": "27409",
+        "type": "zipcode"
+    },
+    "27410": {
+        "approx_size": "201",
+        "key": "27410",
+        "type": "zipcode"
+    },
+    "27411": {
+        "approx_size": "209",
+        "key": "27411",
+        "type": "zipcode"
+    },
+    "27412": {
+        "approx_size": "201",
+        "key": "27412",
+        "type": "zipcode"
+    },
+    "27413": {
+        "approx_size": "205",
+        "key": "27413",
+        "type": "zipcode"
+    },
+    "27415": {
+        "approx_size": "201",
+        "key": "27415",
+        "type": "zipcode"
+    },
+    "27416": {
+        "approx_size": "201",
+        "key": "27416",
+        "type": "zipcode"
+    },
+    "27417": {
+        "approx_size": "201",
+        "key": "27417",
+        "type": "zipcode"
+    },
+    "27419": {
+        "approx_size": "201",
+        "key": "27419",
+        "type": "zipcode"
+    },
+    "27420": {
+        "approx_size": "201",
+        "key": "27420",
+        "type": "zipcode"
+    },
+    "27425": {
+        "approx_size": "201",
+        "key": "27425",
+        "type": "zipcode"
+    },
+    "27427": {
+        "approx_size": "201",
+        "key": "27427",
+        "type": "zipcode"
+    },
+    "27429": {
+        "approx_size": "201",
+        "key": "27429",
+        "type": "zipcode"
+    },
+    "27435": {
+        "approx_size": "201",
+        "key": "27435",
+        "type": "zipcode"
+    },
+    "27438": {
+        "approx_size": "201",
+        "key": "27438",
+        "type": "zipcode"
+    },
+    "27455": {
+        "approx_size": "205",
+        "key": "27455",
+        "type": "zipcode"
+    },
+    "27495": {
+        "approx_size": "201",
+        "key": "27495",
+        "type": "zipcode"
+    },
+    "27497": {
+        "approx_size": "209",
+        "key": "27497",
+        "type": "zipcode"
+    },
+    "27498": {
+        "approx_size": "201",
+        "key": "27498",
+        "type": "zipcode"
+    },
+    "27499": {
+        "approx_size": "201",
+        "key": "27499",
+        "type": "zipcode"
+    },
+    "27501": {
+        "approx_size": "205",
+        "key": "27501",
+        "type": "zipcode"
+    },
+    "27502": {
+        "approx_size": "199",
+        "key": "27502",
+        "type": "zipcode"
+    },
+    "27503": {
+        "approx_size": "205",
+        "key": "27503",
+        "type": "zipcode"
+    },
+    "27504": {
+        "approx_size": "205",
+        "key": "27504",
+        "type": "zipcode"
+    },
+    "27505": {
+        "approx_size": "207",
+        "key": "27505",
+        "type": "zipcode"
+    },
+    "27506": {
+        "approx_size": "210",
+        "key": "27506",
+        "type": "zipcode"
+    },
+    "27507": {
+        "approx_size": "206",
+        "key": "27507",
+        "type": "zipcode"
+    },
+    "27508": {
+        "approx_size": "203",
+        "key": "27508",
+        "type": "zipcode"
+    },
+    "27509": {
+        "approx_size": "205",
+        "key": "27509",
+        "type": "zipcode"
+    },
+    "27510": {
+        "approx_size": "207",
+        "key": "27510",
+        "type": "zipcode"
+    },
+    "27511": {
+        "approx_size": "203",
+        "key": "27511",
+        "type": "zipcode"
+    },
+    "27512": {
+        "approx_size": "195",
+        "key": "27512",
+        "type": "zipcode"
+    },
+    "27513": {
+        "approx_size": "201",
+        "key": "27513",
+        "type": "zipcode"
+    },
+    "27514": {
+        "approx_size": "210",
+        "key": "27514",
+        "type": "zipcode"
+    },
+    "27515": {
+        "approx_size": "202",
+        "key": "27515",
+        "type": "zipcode"
+    },
+    "27516": {
+        "approx_size": "210",
+        "key": "27516",
+        "type": "zipcode"
+    },
+    "27517": {
+        "approx_size": "208",
+        "key": "27517",
+        "type": "zipcode"
+    },
+    "27518": {
+        "approx_size": "199",
+        "key": "27518",
+        "type": "zipcode"
+    },
+    "27519": {
+        "approx_size": "203",
+        "key": "27519",
+        "type": "zipcode"
+    },
+    "27520": {
+        "approx_size": "206",
+        "key": "27520",
+        "type": "zipcode"
+    },
+    "27521": {
+        "approx_size": "204",
+        "key": "27521",
+        "type": "zipcode"
+    },
+    "27522": {
+        "approx_size": "208",
+        "key": "27522",
+        "type": "zipcode"
+    },
+    "27523": {
+        "approx_size": "201",
+        "key": "27523",
+        "type": "zipcode"
+    },
+    "27524": {
+        "approx_size": "208",
+        "key": "27524",
+        "type": "zipcode"
+    },
+    "27525": {
+        "approx_size": "210",
+        "key": "27525",
+        "type": "zipcode"
+    },
+    "27526": {
+        "approx_size": "208",
+        "key": "27526",
+        "type": "zipcode"
+    },
+    "27527": {
+        "approx_size": "204",
+        "key": "27527",
+        "type": "zipcode"
+    },
+    "27529": {
+        "approx_size": "201",
+        "key": "27529",
+        "type": "zipcode"
+    },
+    "27530": {
+        "approx_size": "204",
+        "key": "27530",
+        "type": "zipcode"
+    },
+    "27531": {
+        "approx_size": "208",
+        "key": "27531",
+        "type": "zipcode"
+    },
+    "27532": {
+        "approx_size": "200",
+        "key": "27532",
+        "type": "zipcode"
+    },
+    "27533": {
+        "approx_size": "200",
+        "key": "27533",
+        "type": "zipcode"
+    },
+    "27534": {
+        "approx_size": "208",
+        "key": "27534",
+        "type": "zipcode"
+    },
+    "27536": {
+        "approx_size": "206",
+        "key": "27536",
+        "type": "zipcode"
+    },
+    "27537": {
+        "approx_size": "208",
+        "key": "27537",
+        "type": "zipcode"
+    },
+    "27539": {
+        "approx_size": "203",
+        "key": "27539",
+        "type": "zipcode"
+    },
+    "27540": {
+        "approx_size": "212",
+        "key": "27540",
+        "type": "zipcode"
+    },
+    "27541": {
+        "approx_size": "211",
+        "key": "27541",
+        "type": "zipcode"
+    },
+    "27542": {
+        "approx_size": "204",
+        "key": "27542",
+        "type": "zipcode"
+    },
+    "27543": {
+        "approx_size": "198",
+        "key": "27543",
+        "type": "zipcode"
+    },
+    "27544": {
+        "approx_size": "205",
+        "key": "27544",
+        "type": "zipcode"
+    },
+    "27545": {
+        "approx_size": "209",
+        "key": "27545",
+        "type": "zipcode"
+    },
+    "27546": {
+        "approx_size": "209",
+        "key": "27546",
+        "type": "zipcode"
+    },
+    "27549": {
+        "approx_size": "208",
+        "key": "27549",
+        "type": "zipcode"
+    },
+    "27551": {
+        "approx_size": "204",
+        "key": "27551",
+        "type": "zipcode"
+    },
+    "27552": {
+        "approx_size": "197",
+        "key": "27552",
+        "type": "zipcode"
+    },
+    "27553": {
+        "approx_size": "205",
+        "key": "27553",
+        "type": "zipcode"
+    },
+    "27555": {
+        "approx_size": "202",
+        "key": "27555",
+        "type": "zipcode"
+    },
+    "27556": {
+        "approx_size": "201",
+        "key": "27556",
+        "type": "zipcode"
+    },
+    "27557": {
+        "approx_size": "208",
+        "key": "27557",
+        "type": "zipcode"
+    },
+    "27559": {
+        "approx_size": "206",
+        "key": "27559",
+        "type": "zipcode"
+    },
+    "27560": {
+        "approx_size": "210",
+        "key": "27560",
+        "type": "zipcode"
+    },
+    "27562": {
+        "approx_size": "207",
+        "key": "27562",
+        "type": "zipcode"
+    },
+    "27563": {
+        "approx_size": "204",
+        "key": "27563",
+        "type": "zipcode"
+    },
+    "27565": {
+        "approx_size": "205",
+        "key": "27565",
+        "type": "zipcode"
+    },
+    "27568": {
+        "approx_size": "209",
+        "key": "27568",
+        "type": "zipcode"
+    },
+    "27569": {
+        "approx_size": "206",
+        "key": "27569",
+        "type": "zipcode"
+    },
+    "27570": {
+        "approx_size": "207",
+        "key": "27570",
+        "type": "zipcode"
+    },
+    "27571": {
+        "approx_size": "207",
+        "key": "27571",
+        "type": "zipcode"
+    },
+    "27572": {
+        "approx_size": "208",
+        "key": "27572",
+        "type": "zipcode"
+    },
+    "27573": {
+        "approx_size": "206",
+        "key": "27573",
+        "type": "zipcode"
+    },
+    "27574": {
+        "approx_size": "206",
+        "key": "27574",
+        "type": "zipcode"
+    },
+    "27576": {
+        "approx_size": "202",
+        "key": "27576",
+        "type": "zipcode"
+    },
+    "27577": {
+        "approx_size": "209",
+        "key": "27577",
+        "type": "zipcode"
+    },
+    "27581": {
+        "approx_size": "203",
+        "key": "27581",
+        "type": "zipcode"
+    },
+    "27582": {
+        "approx_size": "206",
+        "key": "27582",
+        "type": "zipcode"
+    },
+    "27583": {
+        "approx_size": "209",
+        "key": "27583",
+        "type": "zipcode"
+    },
+    "27584": {
+        "approx_size": "207",
+        "key": "27584",
+        "type": "zipcode"
+    },
+    "27586": {
+        "approx_size": "198",
+        "key": "27586",
+        "type": "zipcode"
+    },
+    "27587": {
+        "approx_size": "210",
+        "key": "27587",
+        "type": "zipcode"
+    },
+    "27588": {
+        "approx_size": "202",
+        "key": "27588",
+        "type": "zipcode"
+    },
+    "27589": {
+        "approx_size": "208",
+        "key": "27589",
+        "type": "zipcode"
+    },
+    "27591": {
+        "approx_size": "206",
+        "key": "27591",
+        "type": "zipcode"
+    },
+    "27592": {
+        "approx_size": "210",
+        "key": "27592",
+        "type": "zipcode"
+    },
+    "27593": {
+        "approx_size": "204",
+        "key": "27593",
+        "type": "zipcode"
+    },
+    "27594": {
+        "approx_size": "195",
+        "key": "27594",
+        "type": "zipcode"
+    },
+    "27596": {
+        "approx_size": "210",
+        "key": "27596",
+        "type": "zipcode"
+    },
+    "27597": {
+        "approx_size": "206",
+        "key": "27597",
+        "type": "zipcode"
+    },
+    "27599": {
+        "approx_size": "202",
+        "key": "27599",
+        "type": "zipcode"
+    },
+    "27601": {
+        "approx_size": "206",
+        "key": "27601",
+        "type": "zipcode"
+    },
+    "27602": {
+        "approx_size": "198",
+        "key": "27602",
+        "type": "zipcode"
+    },
+    "27603": {
+        "approx_size": "206",
+        "key": "27603",
+        "type": "zipcode"
+    },
+    "27604": {
+        "approx_size": "206",
+        "key": "27604",
+        "type": "zipcode"
+    },
+    "27605": {
+        "approx_size": "206",
+        "key": "27605",
+        "type": "zipcode"
+    },
+    "27606": {
+        "approx_size": "206",
+        "key": "27606",
+        "type": "zipcode"
+    },
+    "27607": {
+        "approx_size": "204",
+        "key": "27607",
+        "type": "zipcode"
+    },
+    "27608": {
+        "approx_size": "206",
+        "key": "27608",
+        "type": "zipcode"
+    },
+    "27609": {
+        "approx_size": "204",
+        "key": "27609",
+        "type": "zipcode"
+    },
+    "27610": {
+        "approx_size": "206",
+        "key": "27610",
+        "type": "zipcode"
+    },
+    "27611": {
+        "approx_size": "198",
+        "key": "27611",
+        "type": "zipcode"
+    },
+    "27612": {
+        "approx_size": "206",
+        "key": "27612",
+        "type": "zipcode"
+    },
+    "27613": {
+        "approx_size": "206",
+        "key": "27613",
+        "type": "zipcode"
+    },
+    "27614": {
+        "approx_size": "204",
+        "key": "27614",
+        "type": "zipcode"
+    },
+    "27615": {
+        "approx_size": "206",
+        "key": "27615",
+        "type": "zipcode"
+    },
+    "27616": {
+        "approx_size": "206",
+        "key": "27616",
+        "type": "zipcode"
+    },
+    "27617": {
+        "approx_size": "206",
+        "key": "27617",
+        "type": "zipcode"
+    },
+    "27619": {
+        "approx_size": "198",
+        "key": "27619",
+        "type": "zipcode"
+    },
+    "27620": {
+        "approx_size": "198",
+        "key": "27620",
+        "type": "zipcode"
+    },
+    "27621": {
+        "approx_size": "198",
+        "key": "27621",
+        "type": "zipcode"
+    },
+    "27622": {
+        "approx_size": "198",
+        "key": "27622",
+        "type": "zipcode"
+    },
+    "27623": {
+        "approx_size": "206",
+        "key": "27623",
+        "type": "zipcode"
+    },
+    "27624": {
+        "approx_size": "198",
+        "key": "27624",
+        "type": "zipcode"
+    },
+    "27625": {
+        "approx_size": "198",
+        "key": "27625",
+        "type": "zipcode"
+    },
+    "27626": {
+        "approx_size": "198",
+        "key": "27626",
+        "type": "zipcode"
+    },
+    "27627": {
+        "approx_size": "198",
+        "key": "27627",
+        "type": "zipcode"
+    },
+    "27628": {
+        "approx_size": "198",
+        "key": "27628",
+        "type": "zipcode"
+    },
+    "27629": {
+        "approx_size": "198",
+        "key": "27629",
+        "type": "zipcode"
+    },
+    "27634": {
+        "approx_size": "198",
+        "key": "27634",
+        "type": "zipcode"
+    },
+    "27635": {
+        "approx_size": "198",
+        "key": "27635",
+        "type": "zipcode"
+    },
+    "27636": {
+        "approx_size": "198",
+        "key": "27636",
+        "type": "zipcode"
+    },
+    "27640": {
+        "approx_size": "198",
+        "key": "27640",
+        "type": "zipcode"
+    },
+    "27650": {
+        "approx_size": "198",
+        "key": "27650",
+        "type": "zipcode"
+    },
+    "27656": {
+        "approx_size": "198",
+        "key": "27656",
+        "type": "zipcode"
+    },
+    "27658": {
+        "approx_size": "198",
+        "key": "27658",
+        "type": "zipcode"
+    },
+    "27661": {
+        "approx_size": "198",
+        "key": "27661",
+        "type": "zipcode"
+    },
+    "27668": {
+        "approx_size": "198",
+        "key": "27668",
+        "type": "zipcode"
+    },
+    "27675": {
+        "approx_size": "198",
+        "key": "27675",
+        "type": "zipcode"
+    },
+    "27676": {
+        "approx_size": "204",
+        "key": "27676",
+        "type": "zipcode"
+    },
+    "27690": {
+        "approx_size": "198",
+        "key": "27690",
+        "type": "zipcode"
+    },
+    "27695": {
+        "approx_size": "206",
+        "key": "27695",
+        "type": "zipcode"
+    },
+    "27697": {
+        "approx_size": "198",
+        "key": "27697",
+        "type": "zipcode"
+    },
+    "27698": {
+        "approx_size": "198",
+        "key": "27698",
+        "type": "zipcode"
+    },
+    "27699": {
+        "approx_size": "198",
+        "key": "27699",
+        "type": "zipcode"
+    },
+    "27701": {
+        "approx_size": "205",
+        "key": "27701",
+        "type": "zipcode"
+    },
+    "27702": {
+        "approx_size": "197",
+        "key": "27702",
+        "type": "zipcode"
+    },
+    "27703": {
+        "approx_size": "205",
+        "key": "27703",
+        "type": "zipcode"
+    },
+    "27704": {
+        "approx_size": "205",
+        "key": "27704",
+        "type": "zipcode"
+    },
+    "27705": {
+        "approx_size": "205",
+        "key": "27705",
+        "type": "zipcode"
+    },
+    "27706": {
+        "approx_size": "203",
+        "key": "27706",
+        "type": "zipcode"
+    },
+    "27707": {
+        "approx_size": "205",
+        "key": "27707",
+        "type": "zipcode"
+    },
+    "27708": {
+        "approx_size": "197",
+        "key": "27708",
+        "type": "zipcode"
+    },
+    "27709": {
+        "approx_size": "203",
+        "key": "27709",
+        "type": "zipcode"
+    },
+    "27710": {
+        "approx_size": "197",
+        "key": "27710",
+        "type": "zipcode"
+    },
+    "27711": {
+        "approx_size": "197",
+        "key": "27711",
+        "type": "zipcode"
+    },
+    "27712": {
+        "approx_size": "205",
+        "key": "27712",
+        "type": "zipcode"
+    },
+    "27713": {
+        "approx_size": "205",
+        "key": "27713",
+        "type": "zipcode"
+    },
+    "27715": {
+        "approx_size": "197",
+        "key": "27715",
+        "type": "zipcode"
+    },
+    "27717": {
+        "approx_size": "197",
+        "key": "27717",
+        "type": "zipcode"
+    },
+    "27722": {
+        "approx_size": "197",
+        "key": "27722",
+        "type": "zipcode"
+    },
+    "27801": {
+        "approx_size": "210",
+        "key": "27801",
+        "type": "zipcode"
+    },
+    "27802": {
+        "approx_size": "202",
+        "key": "27802",
+        "type": "zipcode"
+    },
+    "27803": {
+        "approx_size": "208",
+        "key": "27803",
+        "type": "zipcode"
+    },
+    "27804": {
+        "approx_size": "210",
+        "key": "27804",
+        "type": "zipcode"
+    },
+    "27805": {
+        "approx_size": "207",
+        "key": "27805",
+        "type": "zipcode"
+    },
+    "27806": {
+        "approx_size": "205",
+        "key": "27806",
+        "type": "zipcode"
+    },
+    "27807": {
+        "approx_size": "205",
+        "key": "27807",
+        "type": "zipcode"
+    },
+    "27808": {
+        "approx_size": "203",
+        "key": "27808",
+        "type": "zipcode"
+    },
+    "27809": {
+        "approx_size": "209",
+        "key": "27809",
+        "type": "zipcode"
+    },
+    "27810": {
+        "approx_size": "207",
+        "key": "27810",
+        "type": "zipcode"
+    },
+    "27811": {
+        "approx_size": "201",
+        "key": "27811",
+        "type": "zipcode"
+    },
+    "27812": {
+        "approx_size": "203",
+        "key": "27812",
+        "type": "zipcode"
+    },
+    "27813": {
+        "approx_size": "210",
+        "key": "27813",
+        "type": "zipcode"
+    },
+    "27814": {
+        "approx_size": "210",
+        "key": "27814",
+        "type": "zipcode"
+    },
+    "27815": {
+        "approx_size": "208",
+        "key": "27815",
+        "type": "zipcode"
+    },
+    "27816": {
+        "approx_size": "207",
+        "key": "27816",
+        "type": "zipcode"
+    },
+    "27817": {
+        "approx_size": "210",
+        "key": "27817",
+        "type": "zipcode"
+    },
+    "27818": {
+        "approx_size": "203",
+        "key": "27818",
+        "type": "zipcode"
+    },
+    "27819": {
+        "approx_size": "206",
+        "key": "27819",
+        "type": "zipcode"
+    },
+    "27820": {
+        "approx_size": "205",
+        "key": "27820",
+        "type": "zipcode"
+    },
+    "27821": {
+        "approx_size": "203",
+        "key": "27821",
+        "type": "zipcode"
+    },
+    "27822": {
+        "approx_size": "207",
+        "key": "27822",
+        "type": "zipcode"
+    },
+    "27823": {
+        "approx_size": "206",
+        "key": "27823",
+        "type": "zipcode"
+    },
+    "27824": {
+        "approx_size": "208",
+        "key": "27824",
+        "type": "zipcode"
+    },
+    "27825": {
+        "approx_size": "199",
+        "key": "27825",
+        "type": "zipcode"
+    },
+    "27826": {
+        "approx_size": "208",
+        "key": "27826",
+        "type": "zipcode"
+    },
+    "27827": {
+        "approx_size": "207",
+        "key": "27827",
+        "type": "zipcode"
+    },
+    "27828": {
+        "approx_size": "208",
+        "key": "27828",
+        "type": "zipcode"
+    },
+    "27829": {
+        "approx_size": "207",
+        "key": "27829",
+        "type": "zipcode"
+    },
+    "27830": {
+        "approx_size": "204",
+        "key": "27830",
+        "type": "zipcode"
+    },
+    "27831": {
+        "approx_size": "208",
+        "key": "27831",
+        "type": "zipcode"
+    },
+    "27832": {
+        "approx_size": "205",
+        "key": "27832",
+        "type": "zipcode"
+    },
+    "27833": {
+        "approx_size": "201",
+        "key": "27833",
+        "type": "zipcode"
+    },
+    "27834": {
+        "approx_size": "205",
+        "key": "27834",
+        "type": "zipcode"
+    },
+    "27835": {
+        "approx_size": "201",
+        "key": "27835",
+        "type": "zipcode"
+    },
+    "27836": {
+        "approx_size": "201",
+        "key": "27836",
+        "type": "zipcode"
+    },
+    "27837": {
+        "approx_size": "209",
+        "key": "27837",
+        "type": "zipcode"
+    },
+    "27839": {
+        "approx_size": "206",
+        "key": "27839",
+        "type": "zipcode"
+    },
+    "27840": {
+        "approx_size": "207",
+        "key": "27840",
+        "type": "zipcode"
+    },
+    "27841": {
+        "approx_size": "204",
+        "key": "27841",
+        "type": "zipcode"
+    },
+    "27842": {
+        "approx_size": "206",
+        "key": "27842",
+        "type": "zipcode"
+    },
+    "27843": {
+        "approx_size": "206",
+        "key": "27843",
+        "type": "zipcode"
+    },
+    "27844": {
+        "approx_size": "208",
+        "key": "27844",
+        "type": "zipcode"
+    },
+    "27845": {
+        "approx_size": "206",
+        "key": "27845",
+        "type": "zipcode"
+    },
+    "27846": {
+        "approx_size": "209",
+        "key": "27846",
+        "type": "zipcode"
+    },
+    "27847": {
+        "approx_size": "206",
+        "key": "27847",
+        "type": "zipcode"
+    },
+    "27849": {
+        "approx_size": "217",
+        "key": "27849",
+        "type": "zipcode"
+    },
+    "27850": {
+        "approx_size": "206",
+        "key": "27850",
+        "type": "zipcode"
+    },
+    "27851": {
+        "approx_size": "205",
+        "key": "27851",
+        "type": "zipcode"
+    },
+    "27852": {
+        "approx_size": "211",
+        "key": "27852",
+        "type": "zipcode"
+    },
+    "27853": {
+        "approx_size": "214",
+        "key": "27853",
+        "type": "zipcode"
+    },
+    "27855": {
+        "approx_size": "211",
+        "key": "27855",
+        "type": "zipcode"
+    },
+    "27856": {
+        "approx_size": "208",
+        "key": "27856",
+        "type": "zipcode"
+    },
+    "27857": {
+        "approx_size": "207",
+        "key": "27857",
+        "type": "zipcode"
+    },
+    "27858": {
+        "approx_size": "209",
+        "key": "27858",
+        "type": "zipcode"
+    },
+    "27860": {
+        "approx_size": "206",
+        "key": "27860",
+        "type": "zipcode"
+    },
+    "27861": {
+        "approx_size": "198",
+        "key": "27861",
+        "type": "zipcode"
+    },
+    "27862": {
+        "approx_size": "208",
+        "key": "27862",
+        "type": "zipcode"
+    },
+    "27863": {
+        "approx_size": "208",
+        "key": "27863",
+        "type": "zipcode"
+    },
+    "27864": {
+        "approx_size": "207",
+        "key": "27864",
+        "type": "zipcode"
+    },
+    "27865": {
+        "approx_size": "207",
+        "key": "27865",
+        "type": "zipcode"
+    },
+    "27866": {
+        "approx_size": "212",
+        "key": "27866",
+        "type": "zipcode"
+    },
+    "27867": {
+        "approx_size": "199",
+        "key": "27867",
+        "type": "zipcode"
+    },
+    "27868": {
+        "approx_size": "198",
+        "key": "27868",
+        "type": "zipcode"
+    },
+    "27869": {
+        "approx_size": "208",
+        "key": "27869",
+        "type": "zipcode"
+    },
+    "27870": {
+        "approx_size": "213",
+        "key": "27870",
+        "type": "zipcode"
+    },
+    "27871": {
+        "approx_size": "212",
+        "key": "27871",
+        "type": "zipcode"
+    },
+    "27872": {
+        "approx_size": "206",
+        "key": "27872",
+        "type": "zipcode"
+    },
+    "27873": {
+        "approx_size": "207",
+        "key": "27873",
+        "type": "zipcode"
+    },
+    "27874": {
+        "approx_size": "212",
+        "key": "27874",
+        "type": "zipcode"
+    },
+    "27875": {
+        "approx_size": "203",
+        "key": "27875",
+        "type": "zipcode"
+    },
+    "27876": {
+        "approx_size": "205",
+        "key": "27876",
+        "type": "zipcode"
+    },
+    "27877": {
+        "approx_size": "205",
+        "key": "27877",
+        "type": "zipcode"
+    },
+    "27878": {
+        "approx_size": "207",
+        "key": "27878",
+        "type": "zipcode"
+    },
+    "27879": {
+        "approx_size": "198",
+        "key": "27879",
+        "type": "zipcode"
+    },
+    "27880": {
+        "approx_size": "203",
+        "key": "27880",
+        "type": "zipcode"
+    },
+    "27881": {
+        "approx_size": "196",
+        "key": "27881",
+        "type": "zipcode"
+    },
+    "27882": {
+        "approx_size": "210",
+        "key": "27882",
+        "type": "zipcode"
+    },
+    "27883": {
+        "approx_size": "205",
+        "key": "27883",
+        "type": "zipcode"
+    },
+    "27884": {
+        "approx_size": "203",
+        "key": "27884",
+        "type": "zipcode"
+    },
+    "27885": {
+        "approx_size": "208",
+        "key": "27885",
+        "type": "zipcode"
+    },
+    "27886": {
+        "approx_size": "206",
+        "key": "27886",
+        "type": "zipcode"
+    },
+    "27887": {
+        "approx_size": "198",
+        "key": "27887",
+        "type": "zipcode"
+    },
+    "27888": {
+        "approx_size": "210",
+        "key": "27888",
+        "type": "zipcode"
+    },
+    "27889": {
+        "approx_size": "209",
+        "key": "27889",
+        "type": "zipcode"
+    },
+    "27890": {
+        "approx_size": "201",
+        "key": "27890",
+        "type": "zipcode"
+    },
+    "27891": {
+        "approx_size": "206",
+        "key": "27891",
+        "type": "zipcode"
+    },
+    "27892": {
+        "approx_size": "210",
+        "key": "27892",
+        "type": "zipcode"
+    },
+    "27893": {
+        "approx_size": "205",
+        "key": "27893",
+        "type": "zipcode"
+    },
+    "27894": {
+        "approx_size": "197",
+        "key": "27894",
+        "type": "zipcode"
+    },
+    "27895": {
+        "approx_size": "197",
+        "key": "27895",
+        "type": "zipcode"
+    },
+    "27896": {
+        "approx_size": "203",
+        "key": "27896",
+        "type": "zipcode"
+    },
+    "27897": {
+        "approx_size": "205",
+        "key": "27897",
+        "type": "zipcode"
+    },
+    "27906": {
+        "approx_size": "205",
+        "key": "27906",
+        "type": "zipcode"
+    },
+    "27907": {
+        "approx_size": "205",
+        "key": "27907",
+        "type": "zipcode"
+    },
+    "27909": {
+        "approx_size": "211",
+        "key": "27909",
+        "type": "zipcode"
+    },
+    "27910": {
+        "approx_size": "206",
+        "key": "27910",
+        "type": "zipcode"
+    },
+    "27915": {
+        "approx_size": "203",
+        "key": "27915",
+        "type": "zipcode"
+    },
+    "27916": {
+        "approx_size": "206",
+        "key": "27916",
+        "type": "zipcode"
+    },
+    "27917": {
+        "approx_size": "204",
+        "key": "27917",
+        "type": "zipcode"
+    },
+    "27919": {
+        "approx_size": "208",
+        "key": "27919",
+        "type": "zipcode"
+    },
+    "27921": {
+        "approx_size": "205",
+        "key": "27921",
+        "type": "zipcode"
+    },
+    "27922": {
+        "approx_size": "206",
+        "key": "27922",
+        "type": "zipcode"
+    },
+    "27923": {
+        "approx_size": "205",
+        "key": "27923",
+        "type": "zipcode"
+    },
+    "27924": {
+        "approx_size": "207",
+        "key": "27924",
+        "type": "zipcode"
+    },
+    "27925": {
+        "approx_size": "207",
+        "key": "27925",
+        "type": "zipcode"
+    },
+    "27926": {
+        "approx_size": "208",
+        "key": "27926",
+        "type": "zipcode"
+    },
+    "27927": {
+        "approx_size": "206",
+        "key": "27927",
+        "type": "zipcode"
+    },
+    "27928": {
+        "approx_size": "205",
+        "key": "27928",
+        "type": "zipcode"
+    },
+    "27929": {
+        "approx_size": "208",
+        "key": "27929",
+        "type": "zipcode"
+    },
+    "27930": {
+        "approx_size": "201",
+        "key": "27930",
+        "type": "zipcode"
+    },
+    "27932": {
+        "approx_size": "206",
+        "key": "27932",
+        "type": "zipcode"
+    },
+    "27935": {
+        "approx_size": "203",
+        "key": "27935",
+        "type": "zipcode"
+    },
+    "27936": {
+        "approx_size": "205",
+        "key": "27936",
+        "type": "zipcode"
+    },
+    "27937": {
+        "approx_size": "202",
+        "key": "27937",
+        "type": "zipcode"
+    },
+    "27938": {
+        "approx_size": "207",
+        "key": "27938",
+        "type": "zipcode"
+    },
+    "27939": {
+        "approx_size": "203",
+        "key": "27939",
+        "type": "zipcode"
+    },
+    "27941": {
+        "approx_size": "206",
+        "key": "27941",
+        "type": "zipcode"
+    },
+    "27942": {
+        "approx_size": "212",
+        "key": "27942",
+        "type": "zipcode"
+    },
+    "27943": {
+        "approx_size": "207",
+        "key": "27943",
+        "type": "zipcode"
+    },
+    "27944": {
+        "approx_size": "207",
+        "key": "27944",
+        "type": "zipcode"
+    },
+    "27946": {
+        "approx_size": "209",
+        "key": "27946",
+        "type": "zipcode"
+    },
+    "27947": {
+        "approx_size": "207",
+        "key": "27947",
+        "type": "zipcode"
+    },
+    "27948": {
+        "approx_size": "209",
+        "key": "27948",
+        "type": "zipcode"
+    },
+    "27949": {
+        "approx_size": "209",
+        "key": "27949",
+        "type": "zipcode"
+    },
+    "27950": {
+        "approx_size": "210",
+        "key": "27950",
+        "type": "zipcode"
+    },
+    "27953": {
+        "approx_size": "211",
+        "key": "27953",
+        "type": "zipcode"
+    },
+    "27954": {
+        "approx_size": "205",
+        "key": "27954",
+        "type": "zipcode"
+    },
+    "27956": {
+        "approx_size": "204",
+        "key": "27956",
+        "type": "zipcode"
+    },
+    "27957": {
+        "approx_size": "209",
+        "key": "27957",
+        "type": "zipcode"
+    },
+    "27958": {
+        "approx_size": "205",
+        "key": "27958",
+        "type": "zipcode"
+    },
+    "27962": {
+        "approx_size": "207",
+        "key": "27962",
+        "type": "zipcode"
+    },
+    "27964": {
+        "approx_size": "211",
+        "key": "27964",
+        "type": "zipcode"
+    },
+    "27965": {
+        "approx_size": "208",
+        "key": "27965",
+        "type": "zipcode"
+    },
+    "27966": {
+        "approx_size": "212",
+        "key": "27966",
+        "type": "zipcode"
+    },
+    "27967": {
+        "approx_size": "211",
+        "key": "27967",
+        "type": "zipcode"
+    },
+    "27968": {
+        "approx_size": "207",
+        "key": "27968",
+        "type": "zipcode"
+    },
+    "27969": {
+        "approx_size": "197",
+        "key": "27969",
+        "type": "zipcode"
+    },
+    "27970": {
+        "approx_size": "204",
+        "key": "27970",
+        "type": "zipcode"
+    },
+    "27972": {
+        "approx_size": "204",
+        "key": "27972",
+        "type": "zipcode"
+    },
+    "27973": {
+        "approx_size": "207",
+        "key": "27973",
+        "type": "zipcode"
+    },
+    "27974": {
+        "approx_size": "205",
+        "key": "27974",
+        "type": "zipcode"
+    },
+    "27976": {
+        "approx_size": "210",
+        "key": "27976",
+        "type": "zipcode"
+    },
+    "27978": {
+        "approx_size": "211",
+        "key": "27978",
+        "type": "zipcode"
+    },
+    "27979": {
+        "approx_size": "206",
+        "key": "27979",
+        "type": "zipcode"
+    },
+    "27980": {
+        "approx_size": "202",
+        "key": "27980",
+        "type": "zipcode"
+    },
+    "27981": {
+        "approx_size": "207",
+        "key": "27981",
+        "type": "zipcode"
+    },
+    "27982": {
+        "approx_size": "204",
+        "key": "27982",
+        "type": "zipcode"
+    },
+    "27983": {
+        "approx_size": "204",
+        "key": "27983",
+        "type": "zipcode"
+    },
+    "27985": {
+        "approx_size": "206",
+        "key": "27985",
+        "type": "zipcode"
+    },
+    "27986": {
+        "approx_size": "205",
+        "key": "27986",
+        "type": "zipcode"
+    },
+    "28001": {
+        "approx_size": "208",
+        "key": "28001",
+        "type": "zipcode"
+    },
+    "28002": {
+        "approx_size": "200",
+        "key": "28002",
+        "type": "zipcode"
+    },
+    "28006": {
+        "approx_size": "205",
+        "key": "28006",
+        "type": "zipcode"
+    },
+    "28007": {
+        "approx_size": "209",
+        "key": "28007",
+        "type": "zipcode"
+    },
+    "28009": {
+        "approx_size": "204",
+        "key": "28009",
+        "type": "zipcode"
+    },
+    "28010": {
+        "approx_size": "205",
+        "key": "28010",
+        "type": "zipcode"
+    },
+    "28012": {
+        "approx_size": "206",
+        "key": "28012",
+        "type": "zipcode"
+    },
+    "28016": {
+        "approx_size": "212",
+        "key": "28016",
+        "type": "zipcode"
+    },
+    "28017": {
+        "approx_size": "214",
+        "key": "28017",
+        "type": "zipcode"
+    },
+    "28018": {
+        "approx_size": "205",
+        "key": "28018",
+        "type": "zipcode"
+    },
+    "28019": {
+        "approx_size": "207",
+        "key": "28019",
+        "type": "zipcode"
+    },
+    "28020": {
+        "approx_size": "204",
+        "key": "28020",
+        "type": "zipcode"
+    },
+    "28021": {
+        "approx_size": "206",
+        "key": "28021",
+        "type": "zipcode"
+    },
+    "28023": {
+        "approx_size": "208",
+        "key": "28023",
+        "type": "zipcode"
+    },
+    "28024": {
+        "approx_size": "200",
+        "key": "28024",
+        "type": "zipcode"
+    },
+    "28025": {
+        "approx_size": "206",
+        "key": "28025",
+        "type": "zipcode"
+    },
+    "28026": {
+        "approx_size": "198",
+        "key": "28026",
+        "type": "zipcode"
+    },
+    "28027": {
+        "approx_size": "206",
+        "key": "28027",
+        "type": "zipcode"
+    },
+    "28031": {
+        "approx_size": "208",
+        "key": "28031",
+        "type": "zipcode"
+    },
+    "28032": {
+        "approx_size": "208",
+        "key": "28032",
+        "type": "zipcode"
+    },
+    "28033": {
+        "approx_size": "203",
+        "key": "28033",
+        "type": "zipcode"
+    },
+    "28034": {
+        "approx_size": "205",
+        "key": "28034",
+        "type": "zipcode"
+    },
+    "28035": {
+        "approx_size": "199",
+        "key": "28035",
+        "type": "zipcode"
+    },
+    "28036": {
+        "approx_size": "207",
+        "key": "28036",
+        "type": "zipcode"
+    },
+    "28037": {
+        "approx_size": "205",
+        "key": "28037",
+        "type": "zipcode"
+    },
+    "28038": {
+        "approx_size": "201",
+        "key": "28038",
+        "type": "zipcode"
+    },
+    "28039": {
+        "approx_size": "203",
+        "key": "28039",
+        "type": "zipcode"
+    },
+    "28040": {
+        "approx_size": "208",
+        "key": "28040",
+        "type": "zipcode"
+    },
+    "28041": {
+        "approx_size": "196",
+        "key": "28041",
+        "type": "zipcode"
+    },
+    "28042": {
+        "approx_size": "199",
+        "key": "28042",
+        "type": "zipcode"
+    },
+    "28043": {
+        "approx_size": "210",
+        "key": "28043",
+        "type": "zipcode"
+    },
+    "28052": {
+        "approx_size": "207",
+        "key": "28052",
+        "type": "zipcode"
+    },
+    "28053": {
+        "approx_size": "199",
+        "key": "28053",
+        "type": "zipcode"
+    },
+    "28054": {
+        "approx_size": "207",
+        "key": "28054",
+        "type": "zipcode"
+    },
+    "28055": {
+        "approx_size": "199",
+        "key": "28055",
+        "type": "zipcode"
+    },
+    "28056": {
+        "approx_size": "207",
+        "key": "28056",
+        "type": "zipcode"
+    },
+    "28070": {
+        "approx_size": "203",
+        "key": "28070",
+        "type": "zipcode"
+    },
+    "28071": {
+        "approx_size": "208",
+        "key": "28071",
+        "type": "zipcode"
+    },
+    "28072": {
+        "approx_size": "213",
+        "key": "28072",
+        "type": "zipcode"
+    },
+    "28073": {
+        "approx_size": "205",
+        "key": "28073",
+        "type": "zipcode"
+    },
+    "28074": {
+        "approx_size": "197",
+        "key": "28074",
+        "type": "zipcode"
+    },
+    "28075": {
+        "approx_size": "209",
+        "key": "28075",
+        "type": "zipcode"
+    },
+    "28076": {
+        "approx_size": "206",
+        "key": "28076",
+        "type": "zipcode"
+    },
+    "28077": {
+        "approx_size": "210",
+        "key": "28077",
+        "type": "zipcode"
+    },
+    "28078": {
+        "approx_size": "211",
+        "key": "28078",
+        "type": "zipcode"
+    },
+    "28079": {
+        "approx_size": "211",
+        "key": "28079",
+        "type": "zipcode"
+    },
+    "28080": {
+        "approx_size": "211",
+        "key": "28080",
+        "type": "zipcode"
+    },
+    "28081": {
+        "approx_size": "209",
+        "key": "28081",
+        "type": "zipcode"
+    },
+    "28082": {
+        "approx_size": "201",
+        "key": "28082",
+        "type": "zipcode"
+    },
+    "28083": {
+        "approx_size": "209",
+        "key": "28083",
+        "type": "zipcode"
+    },
+    "28086": {
+        "approx_size": "211",
+        "key": "28086",
+        "type": "zipcode"
+    },
+    "28088": {
+        "approx_size": "205",
+        "key": "28088",
+        "type": "zipcode"
+    },
+    "28089": {
+        "approx_size": "208",
+        "key": "28089",
+        "type": "zipcode"
+    },
+    "28090": {
+        "approx_size": "207",
+        "key": "28090",
+        "type": "zipcode"
+    },
+    "28091": {
+        "approx_size": "209",
+        "key": "28091",
+        "type": "zipcode"
+    },
+    "28092": {
+        "approx_size": "209",
+        "key": "28092",
+        "type": "zipcode"
+    },
+    "28093": {
+        "approx_size": "201",
+        "key": "28093",
+        "type": "zipcode"
+    },
+    "28097": {
+        "approx_size": "205",
+        "key": "28097",
+        "type": "zipcode"
+    },
+    "28098": {
+        "approx_size": "205",
+        "key": "28098",
+        "type": "zipcode"
+    },
+    "28101": {
+        "approx_size": "211",
+        "key": "28101",
+        "type": "zipcode"
+    },
+    "28102": {
+        "approx_size": "208",
+        "key": "28102",
+        "type": "zipcode"
+    },
+    "28103": {
+        "approx_size": "207",
+        "key": "28103",
+        "type": "zipcode"
+    },
+    "28104": {
+        "approx_size": "207",
+        "key": "28104",
+        "type": "zipcode"
+    },
+    "28105": {
+        "approx_size": "207",
+        "key": "28105",
+        "type": "zipcode"
+    },
+    "28106": {
+        "approx_size": "199",
+        "key": "28106",
+        "type": "zipcode"
+    },
+    "28107": {
+        "approx_size": "206",
+        "key": "28107",
+        "type": "zipcode"
+    },
+    "28108": {
+        "approx_size": "206",
+        "key": "28108",
+        "type": "zipcode"
+    },
+    "28109": {
+        "approx_size": "210",
+        "key": "28109",
+        "type": "zipcode"
+    },
+    "28110": {
+        "approx_size": "205",
+        "key": "28110",
+        "type": "zipcode"
+    },
+    "28111": {
+        "approx_size": "197",
+        "key": "28111",
+        "type": "zipcode"
+    },
+    "28112": {
+        "approx_size": "205",
+        "key": "28112",
+        "type": "zipcode"
+    },
+    "28114": {
+        "approx_size": "209",
+        "key": "28114",
+        "type": "zipcode"
+    },
+    "28115": {
+        "approx_size": "210",
+        "key": "28115",
+        "type": "zipcode"
+    },
+    "28117": {
+        "approx_size": "210",
+        "key": "28117",
+        "type": "zipcode"
+    },
+    "28119": {
+        "approx_size": "203",
+        "key": "28119",
+        "type": "zipcode"
+    },
+    "28120": {
+        "approx_size": "210",
+        "key": "28120",
+        "type": "zipcode"
+    },
+    "28123": {
+        "approx_size": "203",
+        "key": "28123",
+        "type": "zipcode"
+    },
+    "28124": {
+        "approx_size": "213",
+        "key": "28124",
+        "type": "zipcode"
+    },
+    "28125": {
+        "approx_size": "209",
+        "key": "28125",
+        "type": "zipcode"
+    },
+    "28126": {
+        "approx_size": "197",
+        "key": "28126",
+        "type": "zipcode"
+    },
+    "28127": {
+        "approx_size": "209",
+        "key": "28127",
+        "type": "zipcode"
+    },
+    "28128": {
+        "approx_size": "206",
+        "key": "28128",
+        "type": "zipcode"
+    },
+    "28129": {
+        "approx_size": "206",
+        "key": "28129",
+        "type": "zipcode"
+    },
+    "28130": {
+        "approx_size": "200",
+        "key": "28130",
+        "type": "zipcode"
+    },
+    "28133": {
+        "approx_size": "208",
+        "key": "28133",
+        "type": "zipcode"
+    },
+    "28134": {
+        "approx_size": "208",
+        "key": "28134",
+        "type": "zipcode"
+    },
+    "28135": {
+        "approx_size": "204",
+        "key": "28135",
+        "type": "zipcode"
+    },
+    "28136": {
+        "approx_size": "200",
+        "key": "28136",
+        "type": "zipcode"
+    },
+    "28137": {
+        "approx_size": "208",
+        "key": "28137",
+        "type": "zipcode"
+    },
+    "28138": {
+        "approx_size": "205",
+        "key": "28138",
+        "type": "zipcode"
+    },
+    "28139": {
+        "approx_size": "212",
+        "key": "28139",
+        "type": "zipcode"
+    },
+    "28144": {
+        "approx_size": "206",
+        "key": "28144",
+        "type": "zipcode"
+    },
+    "28145": {
+        "approx_size": "200",
+        "key": "28145",
+        "type": "zipcode"
+    },
+    "28146": {
+        "approx_size": "206",
+        "key": "28146",
+        "type": "zipcode"
+    },
+    "28147": {
+        "approx_size": "208",
+        "key": "28147",
+        "type": "zipcode"
+    },
+    "28150": {
+        "approx_size": "201",
+        "key": "28150",
+        "type": "zipcode"
+    },
+    "28151": {
+        "approx_size": "197",
+        "key": "28151",
+        "type": "zipcode"
+    },
+    "28152": {
+        "approx_size": "205",
+        "key": "28152",
+        "type": "zipcode"
+    },
+    "28159": {
+        "approx_size": "206",
+        "key": "28159",
+        "type": "zipcode"
+    },
+    "28160": {
+        "approx_size": "207",
+        "key": "28160",
+        "type": "zipcode"
+    },
+    "28163": {
+        "approx_size": "204",
+        "key": "28163",
+        "type": "zipcode"
+    },
+    "28164": {
+        "approx_size": "204",
+        "key": "28164",
+        "type": "zipcode"
+    },
+    "28166": {
+        "approx_size": "207",
+        "key": "28166",
+        "type": "zipcode"
+    },
+    "28167": {
+        "approx_size": "208",
+        "key": "28167",
+        "type": "zipcode"
+    },
+    "28168": {
+        "approx_size": "203",
+        "key": "28168",
+        "type": "zipcode"
+    },
+    "28169": {
+        "approx_size": "203",
+        "key": "28169",
+        "type": "zipcode"
+    },
+    "28170": {
+        "approx_size": "208",
+        "key": "28170",
+        "type": "zipcode"
+    },
+    "28173": {
+        "approx_size": "203",
+        "key": "28173",
+        "type": "zipcode"
+    },
+    "28174": {
+        "approx_size": "206",
+        "key": "28174",
+        "type": "zipcode"
+    },
+    "28201": {
+        "approx_size": "200",
+        "key": "28201",
+        "type": "zipcode"
+    },
+    "28202": {
+        "approx_size": "206",
+        "key": "28202",
+        "type": "zipcode"
+    },
+    "28203": {
+        "approx_size": "208",
+        "key": "28203",
+        "type": "zipcode"
+    },
+    "28204": {
+        "approx_size": "204",
+        "key": "28204",
+        "type": "zipcode"
+    },
+    "28205": {
+        "approx_size": "208",
+        "key": "28205",
+        "type": "zipcode"
+    },
+    "28206": {
+        "approx_size": "208",
+        "key": "28206",
+        "type": "zipcode"
+    },
+    "28207": {
+        "approx_size": "208",
+        "key": "28207",
+        "type": "zipcode"
+    },
+    "28208": {
+        "approx_size": "208",
+        "key": "28208",
+        "type": "zipcode"
+    },
+    "28209": {
+        "approx_size": "206",
+        "key": "28209",
+        "type": "zipcode"
+    },
+    "28210": {
+        "approx_size": "208",
+        "key": "28210",
+        "type": "zipcode"
+    },
+    "28211": {
+        "approx_size": "208",
+        "key": "28211",
+        "type": "zipcode"
+    },
+    "28212": {
+        "approx_size": "206",
+        "key": "28212",
+        "type": "zipcode"
+    },
+    "28213": {
+        "approx_size": "206",
+        "key": "28213",
+        "type": "zipcode"
+    },
+    "28214": {
+        "approx_size": "208",
+        "key": "28214",
+        "type": "zipcode"
+    },
+    "28215": {
+        "approx_size": "208",
+        "key": "28215",
+        "type": "zipcode"
+    },
+    "28216": {
+        "approx_size": "208",
+        "key": "28216",
+        "type": "zipcode"
+    },
+    "28217": {
+        "approx_size": "208",
+        "key": "28217",
+        "type": "zipcode"
+    },
+    "28218": {
+        "approx_size": "200",
+        "key": "28218",
+        "type": "zipcode"
+    },
+    "28219": {
+        "approx_size": "200",
+        "key": "28219",
+        "type": "zipcode"
+    },
+    "28220": {
+        "approx_size": "200",
+        "key": "28220",
+        "type": "zipcode"
+    },
+    "28221": {
+        "approx_size": "200",
+        "key": "28221",
+        "type": "zipcode"
+    },
+    "28222": {
+        "approx_size": "200",
+        "key": "28222",
+        "type": "zipcode"
+    },
+    "28223": {
+        "approx_size": "208",
+        "key": "28223",
+        "type": "zipcode"
+    },
+    "28224": {
+        "approx_size": "200",
+        "key": "28224",
+        "type": "zipcode"
+    },
+    "28226": {
+        "approx_size": "208",
+        "key": "28226",
+        "type": "zipcode"
+    },
+    "28227": {
+        "approx_size": "208",
+        "key": "28227",
+        "type": "zipcode"
+    },
+    "28228": {
+        "approx_size": "200",
+        "key": "28228",
+        "type": "zipcode"
+    },
+    "28229": {
+        "approx_size": "200",
+        "key": "28229",
+        "type": "zipcode"
+    },
+    "28230": {
+        "approx_size": "200",
+        "key": "28230",
+        "type": "zipcode"
+    },
+    "28231": {
+        "approx_size": "200",
+        "key": "28231",
+        "type": "zipcode"
+    },
+    "28232": {
+        "approx_size": "200",
+        "key": "28232",
+        "type": "zipcode"
+    },
+    "28233": {
+        "approx_size": "200",
+        "key": "28233",
+        "type": "zipcode"
+    },
+    "28234": {
+        "approx_size": "200",
+        "key": "28234",
+        "type": "zipcode"
+    },
+    "28235": {
+        "approx_size": "200",
+        "key": "28235",
+        "type": "zipcode"
+    },
+    "28236": {
+        "approx_size": "200",
+        "key": "28236",
+        "type": "zipcode"
+    },
+    "28237": {
+        "approx_size": "200",
+        "key": "28237",
+        "type": "zipcode"
+    },
+    "28241": {
+        "approx_size": "200",
+        "key": "28241",
+        "type": "zipcode"
+    },
+    "28242": {
+        "approx_size": "200",
+        "key": "28242",
+        "type": "zipcode"
+    },
+    "28243": {
+        "approx_size": "200",
+        "key": "28243",
+        "type": "zipcode"
+    },
+    "28244": {
+        "approx_size": "200",
+        "key": "28244",
+        "type": "zipcode"
+    },
+    "28246": {
+        "approx_size": "200",
+        "key": "28246",
+        "type": "zipcode"
+    },
+    "28247": {
+        "approx_size": "200",
+        "key": "28247",
+        "type": "zipcode"
+    },
+    "28250": {
+        "approx_size": "200",
+        "key": "28250",
+        "type": "zipcode"
+    },
+    "28253": {
+        "approx_size": "200",
+        "key": "28253",
+        "type": "zipcode"
+    },
+    "28254": {
+        "approx_size": "200",
+        "key": "28254",
+        "type": "zipcode"
+    },
+    "28255": {
+        "approx_size": "200",
+        "key": "28255",
+        "type": "zipcode"
+    },
+    "28256": {
+        "approx_size": "200",
+        "key": "28256",
+        "type": "zipcode"
+    },
+    "28258": {
+        "approx_size": "200",
+        "key": "28258",
+        "type": "zipcode"
+    },
+    "28260": {
+        "approx_size": "200",
+        "key": "28260",
+        "type": "zipcode"
+    },
+    "28262": {
+        "approx_size": "208",
+        "key": "28262",
+        "type": "zipcode"
+    },
+    "28263": {
+        "approx_size": "192",
+        "key": "28263",
+        "type": "zipcode"
+    },
+    "28265": {
+        "approx_size": "200",
+        "key": "28265",
+        "type": "zipcode"
+    },
+    "28266": {
+        "approx_size": "200",
+        "key": "28266",
+        "type": "zipcode"
+    },
+    "28269": {
+        "approx_size": "204",
+        "key": "28269",
+        "type": "zipcode"
+    },
+    "28270": {
+        "approx_size": "208",
+        "key": "28270",
+        "type": "zipcode"
+    },
+    "28271": {
+        "approx_size": "200",
+        "key": "28271",
+        "type": "zipcode"
+    },
+    "28272": {
+        "approx_size": "200",
+        "key": "28272",
+        "type": "zipcode"
+    },
+    "28273": {
+        "approx_size": "208",
+        "key": "28273",
+        "type": "zipcode"
+    },
+    "28274": {
+        "approx_size": "208",
+        "key": "28274",
+        "type": "zipcode"
+    },
+    "28275": {
+        "approx_size": "200",
+        "key": "28275",
+        "type": "zipcode"
+    },
+    "28277": {
+        "approx_size": "208",
+        "key": "28277",
+        "type": "zipcode"
+    },
+    "28278": {
+        "approx_size": "208",
+        "key": "28278",
+        "type": "zipcode"
+    },
+    "28280": {
+        "approx_size": "200",
+        "key": "28280",
+        "type": "zipcode"
+    },
+    "28281": {
+        "approx_size": "200",
+        "key": "28281",
+        "type": "zipcode"
+    },
+    "28282": {
+        "approx_size": "200",
+        "key": "28282",
+        "type": "zipcode"
+    },
+    "28284": {
+        "approx_size": "200",
+        "key": "28284",
+        "type": "zipcode"
+    },
+    "28285": {
+        "approx_size": "200",
+        "key": "28285",
+        "type": "zipcode"
+    },
+    "28287": {
+        "approx_size": "200",
+        "key": "28287",
+        "type": "zipcode"
+    },
+    "28288": {
+        "approx_size": "200",
+        "key": "28288",
+        "type": "zipcode"
+    },
+    "28289": {
+        "approx_size": "200",
+        "key": "28289",
+        "type": "zipcode"
+    },
+    "28290": {
+        "approx_size": "200",
+        "key": "28290",
+        "type": "zipcode"
+    },
+    "28296": {
+        "approx_size": "200",
+        "key": "28296",
+        "type": "zipcode"
+    },
+    "28297": {
+        "approx_size": "200",
+        "key": "28297",
+        "type": "zipcode"
+    },
+    "28299": {
+        "approx_size": "200",
+        "key": "28299",
+        "type": "zipcode"
+    },
+    "28301": {
+        "approx_size": "209",
+        "key": "28301",
+        "type": "zipcode"
+    },
+    "28302": {
+        "approx_size": "203",
+        "key": "28302",
+        "type": "zipcode"
+    },
+    "28303": {
+        "approx_size": "207",
+        "key": "28303",
+        "type": "zipcode"
+    },
+    "28304": {
+        "approx_size": "211",
+        "key": "28304",
+        "type": "zipcode"
+    },
+    "28305": {
+        "approx_size": "211",
+        "key": "28305",
+        "type": "zipcode"
+    },
+    "28306": {
+        "approx_size": "211",
+        "key": "28306",
+        "type": "zipcode"
+    },
+    "28307": {
+        "approx_size": "209",
+        "key": "28307",
+        "type": "zipcode"
+    },
+    "28308": {
+        "approx_size": "217",
+        "key": "28308",
+        "type": "zipcode"
+    },
+    "28309": {
+        "approx_size": "203",
+        "key": "28309",
+        "type": "zipcode"
+    },
+    "28310": {
+        "approx_size": "207",
+        "key": "28310",
+        "type": "zipcode"
+    },
+    "28311": {
+        "approx_size": "211",
+        "key": "28311",
+        "type": "zipcode"
+    },
+    "28312": {
+        "approx_size": "209",
+        "key": "28312",
+        "type": "zipcode"
+    },
+    "28314": {
+        "approx_size": "209",
+        "key": "28314",
+        "type": "zipcode"
+    },
+    "28315": {
+        "approx_size": "207",
+        "key": "28315",
+        "type": "zipcode"
+    },
+    "28318": {
+        "approx_size": "205",
+        "key": "28318",
+        "type": "zipcode"
+    },
+    "28319": {
+        "approx_size": "202",
+        "key": "28319",
+        "type": "zipcode"
+    },
+    "28320": {
+        "approx_size": "209",
+        "key": "28320",
+        "type": "zipcode"
+    },
+    "28323": {
+        "approx_size": "208",
+        "key": "28323",
+        "type": "zipcode"
+    },
+    "28325": {
+        "approx_size": "206",
+        "key": "28325",
+        "type": "zipcode"
+    },
+    "28326": {
+        "approx_size": "206",
+        "key": "28326",
+        "type": "zipcode"
+    },
+    "28327": {
+        "approx_size": "207",
+        "key": "28327",
+        "type": "zipcode"
+    },
+    "28328": {
+        "approx_size": "204",
+        "key": "28328",
+        "type": "zipcode"
+    },
+    "28329": {
+        "approx_size": "198",
+        "key": "28329",
+        "type": "zipcode"
+    },
+    "28330": {
+        "approx_size": "206",
+        "key": "28330",
+        "type": "zipcode"
+    },
+    "28331": {
+        "approx_size": "201",
+        "key": "28331",
+        "type": "zipcode"
+    },
+    "28332": {
+        "approx_size": "205",
+        "key": "28332",
+        "type": "zipcode"
+    },
+    "28333": {
+        "approx_size": "205",
+        "key": "28333",
+        "type": "zipcode"
+    },
+    "28334": {
+        "approx_size": "203",
+        "key": "28334",
+        "type": "zipcode"
+    },
+    "28335": {
+        "approx_size": "195",
+        "key": "28335",
+        "type": "zipcode"
+    },
+    "28337": {
+        "approx_size": "210",
+        "key": "28337",
+        "type": "zipcode"
+    },
+    "28338": {
+        "approx_size": "202",
+        "key": "28338",
+        "type": "zipcode"
+    },
+    "28339": {
+        "approx_size": "204",
+        "key": "28339",
+        "type": "zipcode"
+    },
+    "28340": {
+        "approx_size": "205",
+        "key": "28340",
+        "type": "zipcode"
+    },
+    "28341": {
+        "approx_size": "205",
+        "key": "28341",
+        "type": "zipcode"
+    },
+    "28342": {
+        "approx_size": "205",
+        "key": "28342",
+        "type": "zipcode"
+    },
+    "28343": {
+        "approx_size": "205",
+        "key": "28343",
+        "type": "zipcode"
+    },
+    "28344": {
+        "approx_size": "203",
+        "key": "28344",
+        "type": "zipcode"
+    },
+    "28345": {
+        "approx_size": "203",
+        "key": "28345",
+        "type": "zipcode"
+    },
+    "28347": {
+        "approx_size": "206",
+        "key": "28347",
+        "type": "zipcode"
+    },
+    "28348": {
+        "approx_size": "209",
+        "key": "28348",
+        "type": "zipcode"
+    },
+    "28349": {
+        "approx_size": "210",
+        "key": "28349",
+        "type": "zipcode"
+    },
+    "28350": {
+        "approx_size": "207",
+        "key": "28350",
+        "type": "zipcode"
+    },
+    "28351": {
+        "approx_size": "206",
+        "key": "28351",
+        "type": "zipcode"
+    },
+    "28352": {
+        "approx_size": "207",
+        "key": "28352",
+        "type": "zipcode"
+    },
+    "28353": {
+        "approx_size": "201",
+        "key": "28353",
+        "type": "zipcode"
+    },
+    "28355": {
+        "approx_size": "204",
+        "key": "28355",
+        "type": "zipcode"
+    },
+    "28356": {
+        "approx_size": "203",
+        "key": "28356",
+        "type": "zipcode"
+    },
+    "28357": {
+        "approx_size": "212",
+        "key": "28357",
+        "type": "zipcode"
+    },
+    "28358": {
+        "approx_size": "208",
+        "key": "28358",
+        "type": "zipcode"
+    },
+    "28359": {
+        "approx_size": "200",
+        "key": "28359",
+        "type": "zipcode"
+    },
+    "28360": {
+        "approx_size": "208",
+        "key": "28360",
+        "type": "zipcode"
+    },
+    "28362": {
+        "approx_size": "207",
+        "key": "28362",
+        "type": "zipcode"
+    },
+    "28363": {
+        "approx_size": "206",
+        "key": "28363",
+        "type": "zipcode"
+    },
+    "28364": {
+        "approx_size": "205",
+        "key": "28364",
+        "type": "zipcode"
+    },
+    "28365": {
+        "approx_size": "210",
+        "key": "28365",
+        "type": "zipcode"
+    },
+    "28366": {
+        "approx_size": "207",
+        "key": "28366",
+        "type": "zipcode"
+    },
+    "28367": {
+        "approx_size": "203",
+        "key": "28367",
+        "type": "zipcode"
+    },
+    "28368": {
+        "approx_size": "205",
+        "key": "28368",
+        "type": "zipcode"
+    },
+    "28369": {
+        "approx_size": "204",
+        "key": "28369",
+        "type": "zipcode"
+    },
+    "28370": {
+        "approx_size": "200",
+        "key": "28370",
+        "type": "zipcode"
+    },
+    "28371": {
+        "approx_size": "206",
+        "key": "28371",
+        "type": "zipcode"
+    },
+    "28372": {
+        "approx_size": "207",
+        "key": "28372",
+        "type": "zipcode"
+    },
+    "28373": {
+        "approx_size": "208",
+        "key": "28373",
+        "type": "zipcode"
+    },
+    "28374": {
+        "approx_size": "206",
+        "key": "28374",
+        "type": "zipcode"
+    },
+    "28375": {
+        "approx_size": "203",
+        "key": "28375",
+        "type": "zipcode"
+    },
+    "28376": {
+        "approx_size": "206",
+        "key": "28376",
+        "type": "zipcode"
+    },
+    "28377": {
+        "approx_size": "210",
+        "key": "28377",
+        "type": "zipcode"
+    },
+    "28378": {
+        "approx_size": "202",
+        "key": "28378",
+        "type": "zipcode"
+    },
+    "28379": {
+        "approx_size": "209",
+        "key": "28379",
+        "type": "zipcode"
+    },
+    "28380": {
+        "approx_size": "201",
+        "key": "28380",
+        "type": "zipcode"
+    },
+    "28382": {
+        "approx_size": "205",
+        "key": "28382",
+        "type": "zipcode"
+    },
+    "28383": {
+        "approx_size": "204",
+        "key": "28383",
+        "type": "zipcode"
+    },
+    "28384": {
+        "approx_size": "210",
+        "key": "28384",
+        "type": "zipcode"
+    },
+    "28385": {
+        "approx_size": "208",
+        "key": "28385",
+        "type": "zipcode"
+    },
+    "28386": {
+        "approx_size": "206",
+        "key": "28386",
+        "type": "zipcode"
+    },
+    "28387": {
+        "approx_size": "213",
+        "key": "28387",
+        "type": "zipcode"
+    },
+    "28388": {
+        "approx_size": "205",
+        "key": "28388",
+        "type": "zipcode"
+    },
+    "28390": {
+        "approx_size": "210",
+        "key": "28390",
+        "type": "zipcode"
+    },
+    "28391": {
+        "approx_size": "206",
+        "key": "28391",
+        "type": "zipcode"
+    },
+    "28392": {
+        "approx_size": "207",
+        "key": "28392",
+        "type": "zipcode"
+    },
+    "28393": {
+        "approx_size": "205",
+        "key": "28393",
+        "type": "zipcode"
+    },
+    "28394": {
+        "approx_size": "203",
+        "key": "28394",
+        "type": "zipcode"
+    },
+    "28395": {
+        "approx_size": "203",
+        "key": "28395",
+        "type": "zipcode"
+    },
+    "28396": {
+        "approx_size": "205",
+        "key": "28396",
+        "type": "zipcode"
+    },
+    "28398": {
+        "approx_size": "205",
+        "key": "28398",
+        "type": "zipcode"
+    },
+    "28399": {
+        "approx_size": "208",
+        "key": "28399",
+        "type": "zipcode"
+    },
+    "28401": {
+        "approx_size": "209",
+        "key": "28401",
+        "type": "zipcode"
+    },
+    "28402": {
+        "approx_size": "201",
+        "key": "28402",
+        "type": "zipcode"
+    },
+    "28403": {
+        "approx_size": "207",
+        "key": "28403",
+        "type": "zipcode"
+    },
+    "28404": {
+        "approx_size": "201",
+        "key": "28404",
+        "type": "zipcode"
+    },
+    "28405": {
+        "approx_size": "207",
+        "key": "28405",
+        "type": "zipcode"
+    },
+    "28406": {
+        "approx_size": "201",
+        "key": "28406",
+        "type": "zipcode"
+    },
+    "28407": {
+        "approx_size": "201",
+        "key": "28407",
+        "type": "zipcode"
+    },
+    "28408": {
+        "approx_size": "201",
+        "key": "28408",
+        "type": "zipcode"
+    },
+    "28409": {
+        "approx_size": "209",
+        "key": "28409",
+        "type": "zipcode"
+    },
+    "28410": {
+        "approx_size": "201",
+        "key": "28410",
+        "type": "zipcode"
+    },
+    "28411": {
+        "approx_size": "209",
+        "key": "28411",
+        "type": "zipcode"
+    },
+    "28412": {
+        "approx_size": "207",
+        "key": "28412",
+        "type": "zipcode"
+    },
+    "28420": {
+        "approx_size": "200",
+        "key": "28420",
+        "type": "zipcode"
+    },
+    "28421": {
+        "approx_size": "207",
+        "key": "28421",
+        "type": "zipcode"
+    },
+    "28422": {
+        "approx_size": "204",
+        "key": "28422",
+        "type": "zipcode"
+    },
+    "28423": {
+        "approx_size": "203",
+        "key": "28423",
+        "type": "zipcode"
+    },
+    "28424": {
+        "approx_size": "200",
+        "key": "28424",
+        "type": "zipcode"
+    },
+    "28425": {
+        "approx_size": "205",
+        "key": "28425",
+        "type": "zipcode"
+    },
+    "28428": {
+        "approx_size": "213",
+        "key": "28428",
+        "type": "zipcode"
+    },
+    "28429": {
+        "approx_size": "211",
+        "key": "28429",
+        "type": "zipcode"
+    },
+    "28430": {
+        "approx_size": "210",
+        "key": "28430",
+        "type": "zipcode"
+    },
+    "28431": {
+        "approx_size": "208",
+        "key": "28431",
+        "type": "zipcode"
+    },
+    "28432": {
+        "approx_size": "208",
+        "key": "28432",
+        "type": "zipcode"
+    },
+    "28433": {
+        "approx_size": "207",
+        "key": "28433",
+        "type": "zipcode"
+    },
+    "28434": {
+        "approx_size": "206",
+        "key": "28434",
+        "type": "zipcode"
+    },
+    "28435": {
+        "approx_size": "205",
+        "key": "28435",
+        "type": "zipcode"
+    },
+    "28436": {
+        "approx_size": "202",
+        "key": "28436",
+        "type": "zipcode"
+    },
+    "28438": {
+        "approx_size": "208",
+        "key": "28438",
+        "type": "zipcode"
+    },
+    "28439": {
+        "approx_size": "209",
+        "key": "28439",
+        "type": "zipcode"
+    },
+    "28441": {
+        "approx_size": "204",
+        "key": "28441",
+        "type": "zipcode"
+    },
+    "28442": {
+        "approx_size": "208",
+        "key": "28442",
+        "type": "zipcode"
+    },
+    "28443": {
+        "approx_size": "208",
+        "key": "28443",
+        "type": "zipcode"
+    },
+    "28444": {
+        "approx_size": "207",
+        "key": "28444",
+        "type": "zipcode"
+    },
+    "28445": {
+        "approx_size": "208",
+        "key": "28445",
+        "type": "zipcode"
+    },
+    "28447": {
+        "approx_size": "206",
+        "key": "28447",
+        "type": "zipcode"
+    },
+    "28448": {
+        "approx_size": "204",
+        "key": "28448",
+        "type": "zipcode"
+    },
+    "28449": {
+        "approx_size": "209",
+        "key": "28449",
+        "type": "zipcode"
+    },
+    "28450": {
+        "approx_size": "210",
+        "key": "28450",
+        "type": "zipcode"
+    },
+    "28451": {
+        "approx_size": "205",
+        "key": "28451",
+        "type": "zipcode"
+    },
+    "28452": {
+        "approx_size": "205",
+        "key": "28452",
+        "type": "zipcode"
+    },
+    "28453": {
+        "approx_size": "207",
+        "key": "28453",
+        "type": "zipcode"
+    },
+    "28454": {
+        "approx_size": "209",
+        "key": "28454",
+        "type": "zipcode"
+    },
+    "28455": {
+        "approx_size": "205",
+        "key": "28455",
+        "type": "zipcode"
+    },
+    "28456": {
+        "approx_size": "209",
+        "key": "28456",
+        "type": "zipcode"
+    },
+    "28457": {
+        "approx_size": "208",
+        "key": "28457",
+        "type": "zipcode"
+    },
+    "28458": {
+        "approx_size": "206",
+        "key": "28458",
+        "type": "zipcode"
+    },
+    "28459": {
+        "approx_size": "198",
+        "key": "28459",
+        "type": "zipcode"
+    },
+    "28460": {
+        "approx_size": "209",
+        "key": "28460",
+        "type": "zipcode"
+    },
+    "28461": {
+        "approx_size": "206",
+        "key": "28461",
+        "type": "zipcode"
+    },
+    "28462": {
+        "approx_size": "205",
+        "key": "28462",
+        "type": "zipcode"
+    },
+    "28463": {
+        "approx_size": "207",
+        "key": "28463",
+        "type": "zipcode"
+    },
+    "28464": {
+        "approx_size": "206",
+        "key": "28464",
+        "type": "zipcode"
+    },
+    "28465": {
+        "approx_size": "209",
+        "key": "28465",
+        "type": "zipcode"
+    },
+    "28466": {
+        "approx_size": "206",
+        "key": "28466",
+        "type": "zipcode"
+    },
+    "28467": {
+        "approx_size": "207",
+        "key": "28467",
+        "type": "zipcode"
+    },
+    "28468": {
+        "approx_size": "211",
+        "key": "28468",
+        "type": "zipcode"
+    },
+    "28469": {
+        "approx_size": "215",
+        "key": "28469",
+        "type": "zipcode"
+    },
+    "28470": {
+        "approx_size": "208",
+        "key": "28470",
+        "type": "zipcode"
+    },
+    "28472": {
+        "approx_size": "207",
+        "key": "28472",
+        "type": "zipcode"
+    },
+    "28478": {
+        "approx_size": "204",
+        "key": "28478",
+        "type": "zipcode"
+    },
+    "28479": {
+        "approx_size": "207",
+        "key": "28479",
+        "type": "zipcode"
+    },
+    "28480": {
+        "approx_size": "217",
+        "key": "28480",
+        "type": "zipcode"
+    },
+    "28501": {
+        "approx_size": "206",
+        "key": "28501",
+        "type": "zipcode"
+    },
+    "28502": {
+        "approx_size": "198",
+        "key": "28502",
+        "type": "zipcode"
+    },
+    "28503": {
+        "approx_size": "198",
+        "key": "28503",
+        "type": "zipcode"
+    },
+    "28504": {
+        "approx_size": "204",
+        "key": "28504",
+        "type": "zipcode"
+    },
+    "28508": {
+        "approx_size": "204",
+        "key": "28508",
+        "type": "zipcode"
+    },
+    "28509": {
+        "approx_size": "199",
+        "key": "28509",
+        "type": "zipcode"
+    },
+    "28510": {
+        "approx_size": "203",
+        "key": "28510",
+        "type": "zipcode"
+    },
+    "28511": {
+        "approx_size": "207",
+        "key": "28511",
+        "type": "zipcode"
+    },
+    "28512": {
+        "approx_size": "213",
+        "key": "28512",
+        "type": "zipcode"
+    },
+    "28513": {
+        "approx_size": "204",
+        "key": "28513",
+        "type": "zipcode"
+    },
+    "28515": {
+        "approx_size": "206",
+        "key": "28515",
+        "type": "zipcode"
+    },
+    "28516": {
+        "approx_size": "205",
+        "key": "28516",
+        "type": "zipcode"
+    },
+    "28518": {
+        "approx_size": "209",
+        "key": "28518",
+        "type": "zipcode"
+    },
+    "28519": {
+        "approx_size": "208",
+        "key": "28519",
+        "type": "zipcode"
+    },
+    "28521": {
+        "approx_size": "209",
+        "key": "28521",
+        "type": "zipcode"
+    },
+    "28522": {
+        "approx_size": "198",
+        "key": "28522",
+        "type": "zipcode"
+    },
+    "28523": {
+        "approx_size": "208",
+        "key": "28523",
+        "type": "zipcode"
+    },
+    "28524": {
+        "approx_size": "204",
+        "key": "28524",
+        "type": "zipcode"
+    },
+    "28525": {
+        "approx_size": "205",
+        "key": "28525",
+        "type": "zipcode"
+    },
+    "28526": {
+        "approx_size": "204",
+        "key": "28526",
+        "type": "zipcode"
+    },
+    "28527": {
+        "approx_size": "204",
+        "key": "28527",
+        "type": "zipcode"
+    },
+    "28528": {
+        "approx_size": "207",
+        "key": "28528",
+        "type": "zipcode"
+    },
+    "28529": {
+        "approx_size": "209",
+        "key": "28529",
+        "type": "zipcode"
+    },
+    "28530": {
+        "approx_size": "206",
+        "key": "28530",
+        "type": "zipcode"
+    },
+    "28531": {
+        "approx_size": "213",
+        "key": "28531",
+        "type": "zipcode"
+    },
+    "28532": {
+        "approx_size": "207",
+        "key": "28532",
+        "type": "zipcode"
+    },
+    "28533": {
+        "approx_size": "203",
+        "key": "28533",
+        "type": "zipcode"
+    },
+    "28537": {
+        "approx_size": "205",
+        "key": "28537",
+        "type": "zipcode"
+    },
+    "28538": {
+        "approx_size": "208",
+        "key": "28538",
+        "type": "zipcode"
+    },
+    "28539": {
+        "approx_size": "205",
+        "key": "28539",
+        "type": "zipcode"
+    },
+    "28540": {
+        "approx_size": "211",
+        "key": "28540",
+        "type": "zipcode"
+    },
+    "28541": {
+        "approx_size": "203",
+        "key": "28541",
+        "type": "zipcode"
+    },
+    "28542": {
+        "approx_size": "211",
+        "key": "28542",
+        "type": "zipcode"
+    },
+    "28543": {
+        "approx_size": "213",
+        "key": "28543",
+        "type": "zipcode"
+    },
+    "28544": {
+        "approx_size": "208",
+        "key": "28544",
+        "type": "zipcode"
+    },
+    "28545": {
+        "approx_size": "207",
+        "key": "28545",
+        "type": "zipcode"
+    },
+    "28546": {
+        "approx_size": "211",
+        "key": "28546",
+        "type": "zipcode"
+    },
+    "28547": {
+        "approx_size": "211",
+        "key": "28547",
+        "type": "zipcode"
+    },
+    "28551": {
+        "approx_size": "206",
+        "key": "28551",
+        "type": "zipcode"
+    },
+    "28552": {
+        "approx_size": "206",
+        "key": "28552",
+        "type": "zipcode"
+    },
+    "28553": {
+        "approx_size": "209",
+        "key": "28553",
+        "type": "zipcode"
+    },
+    "28554": {
+        "approx_size": "200",
+        "key": "28554",
+        "type": "zipcode"
+    },
+    "28555": {
+        "approx_size": "208",
+        "key": "28555",
+        "type": "zipcode"
+    },
+    "28556": {
+        "approx_size": "206",
+        "key": "28556",
+        "type": "zipcode"
+    },
+    "28557": {
+        "approx_size": "212",
+        "key": "28557",
+        "type": "zipcode"
+    },
+    "28560": {
+        "approx_size": "207",
+        "key": "28560",
+        "type": "zipcode"
+    },
+    "28561": {
+        "approx_size": "199",
+        "key": "28561",
+        "type": "zipcode"
+    },
+    "28562": {
+        "approx_size": "207",
+        "key": "28562",
+        "type": "zipcode"
+    },
+    "28563": {
+        "approx_size": "199",
+        "key": "28563",
+        "type": "zipcode"
+    },
+    "28564": {
+        "approx_size": "199",
+        "key": "28564",
+        "type": "zipcode"
+    },
+    "28570": {
+        "approx_size": "206",
+        "key": "28570",
+        "type": "zipcode"
+    },
+    "28571": {
+        "approx_size": "207",
+        "key": "28571",
+        "type": "zipcode"
+    },
+    "28572": {
+        "approx_size": "208",
+        "key": "28572",
+        "type": "zipcode"
+    },
+    "28573": {
+        "approx_size": "212",
+        "key": "28573",
+        "type": "zipcode"
+    },
+    "28574": {
+        "approx_size": "208",
+        "key": "28574",
+        "type": "zipcode"
+    },
+    "28575": {
+        "approx_size": "208",
+        "key": "28575",
+        "type": "zipcode"
+    },
+    "28577": {
+        "approx_size": "207",
+        "key": "28577",
+        "type": "zipcode"
+    },
+    "28578": {
+        "approx_size": "212",
+        "key": "28578",
+        "type": "zipcode"
+    },
+    "28579": {
+        "approx_size": "205",
+        "key": "28579",
+        "type": "zipcode"
+    },
+    "28580": {
+        "approx_size": "206",
+        "key": "28580",
+        "type": "zipcode"
+    },
+    "28581": {
+        "approx_size": "204",
+        "key": "28581",
+        "type": "zipcode"
+    },
+    "28582": {
+        "approx_size": "203",
+        "key": "28582",
+        "type": "zipcode"
+    },
+    "28583": {
+        "approx_size": "200",
+        "key": "28583",
+        "type": "zipcode"
+    },
+    "28584": {
+        "approx_size": "206",
+        "key": "28584",
+        "type": "zipcode"
+    },
+    "28585": {
+        "approx_size": "206",
+        "key": "28585",
+        "type": "zipcode"
+    },
+    "28586": {
+        "approx_size": "208",
+        "key": "28586",
+        "type": "zipcode"
+    },
+    "28587": {
+        "approx_size": "206",
+        "key": "28587",
+        "type": "zipcode"
+    },
+    "28589": {
+        "approx_size": "208",
+        "key": "28589",
+        "type": "zipcode"
+    },
+    "28590": {
+        "approx_size": "210",
+        "key": "28590",
+        "type": "zipcode"
+    },
+    "28594": {
+        "approx_size": "211",
+        "key": "28594",
+        "type": "zipcode"
+    },
+    "28601": {
+        "approx_size": "204",
+        "key": "28601",
+        "type": "zipcode"
+    },
+    "28602": {
+        "approx_size": "204",
+        "key": "28602",
+        "type": "zipcode"
+    },
+    "28603": {
+        "approx_size": "198",
+        "key": "28603",
+        "type": "zipcode"
+    },
+    "28604": {
+        "approx_size": "209",
+        "key": "28604",
+        "type": "zipcode"
+    },
+    "28605": {
+        "approx_size": "211",
+        "key": "28605",
+        "type": "zipcode"
+    },
+    "28606": {
+        "approx_size": "205",
+        "key": "28606",
+        "type": "zipcode"
+    },
+    "28607": {
+        "approx_size": "204",
+        "key": "28607",
+        "type": "zipcode"
+    },
+    "28608": {
+        "approx_size": "202",
+        "key": "28608",
+        "type": "zipcode"
+    },
+    "28609": {
+        "approx_size": "206",
+        "key": "28609",
+        "type": "zipcode"
+    },
+    "28610": {
+        "approx_size": "208",
+        "key": "28610",
+        "type": "zipcode"
+    },
+    "28611": {
+        "approx_size": "212",
+        "key": "28611",
+        "type": "zipcode"
+    },
+    "28612": {
+        "approx_size": "216",
+        "key": "28612",
+        "type": "zipcode"
+    },
+    "28613": {
+        "approx_size": "206",
+        "key": "28613",
+        "type": "zipcode"
+    },
+    "28615": {
+        "approx_size": "202",
+        "key": "28615",
+        "type": "zipcode"
+    },
+    "28616": {
+        "approx_size": "208",
+        "key": "28616",
+        "type": "zipcode"
+    },
+    "28617": {
+        "approx_size": "205",
+        "key": "28617",
+        "type": "zipcode"
+    },
+    "28618": {
+        "approx_size": "207",
+        "key": "28618",
+        "type": "zipcode"
+    },
+    "28619": {
+        "approx_size": "205",
+        "key": "28619",
+        "type": "zipcode"
+    },
+    "28621": {
+        "approx_size": "204",
+        "key": "28621",
+        "type": "zipcode"
+    },
+    "28622": {
+        "approx_size": "207",
+        "key": "28622",
+        "type": "zipcode"
+    },
+    "28623": {
+        "approx_size": "205",
+        "key": "28623",
+        "type": "zipcode"
+    },
+    "28624": {
+        "approx_size": "207",
+        "key": "28624",
+        "type": "zipcode"
+    },
+    "28625": {
+        "approx_size": "210",
+        "key": "28625",
+        "type": "zipcode"
+    },
+    "28626": {
+        "approx_size": "208",
+        "key": "28626",
+        "type": "zipcode"
+    },
+    "28627": {
+        "approx_size": "211",
+        "key": "28627",
+        "type": "zipcode"
+    },
+    "28628": {
+        "approx_size": "202",
+        "key": "28628",
+        "type": "zipcode"
+    },
+    "28629": {
+        "approx_size": "215",
+        "key": "28629",
+        "type": "zipcode"
+    },
+    "28630": {
+        "approx_size": "210",
+        "key": "28630",
+        "type": "zipcode"
+    },
+    "28631": {
+        "approx_size": "211",
+        "key": "28631",
+        "type": "zipcode"
+    },
+    "28633": {
+        "approx_size": "197",
+        "key": "28633",
+        "type": "zipcode"
+    },
+    "28634": {
+        "approx_size": "204",
+        "key": "28634",
+        "type": "zipcode"
+    },
+    "28635": {
+        "approx_size": "203",
+        "key": "28635",
+        "type": "zipcode"
+    },
+    "28636": {
+        "approx_size": "208",
+        "key": "28636",
+        "type": "zipcode"
+    },
+    "28637": {
+        "approx_size": "208",
+        "key": "28637",
+        "type": "zipcode"
+    },
+    "28638": {
+        "approx_size": "205",
+        "key": "28638",
+        "type": "zipcode"
+    },
+    "28640": {
+        "approx_size": "208",
+        "key": "28640",
+        "type": "zipcode"
+    },
+    "28641": {
+        "approx_size": "202",
+        "key": "28641",
+        "type": "zipcode"
+    },
+    "28642": {
+        "approx_size": "205",
+        "key": "28642",
+        "type": "zipcode"
+    },
+    "28643": {
+        "approx_size": "206",
+        "key": "28643",
+        "type": "zipcode"
+    },
+    "28644": {
+        "approx_size": "213",
+        "key": "28644",
+        "type": "zipcode"
+    },
+    "28645": {
+        "approx_size": "203",
+        "key": "28645",
+        "type": "zipcode"
+    },
+    "28646": {
+        "approx_size": "207",
+        "key": "28646",
+        "type": "zipcode"
+    },
+    "28647": {
+        "approx_size": "205",
+        "key": "28647",
+        "type": "zipcode"
+    },
+    "28649": {
+        "approx_size": "207",
+        "key": "28649",
+        "type": "zipcode"
+    },
+    "28650": {
+        "approx_size": "205",
+        "key": "28650",
+        "type": "zipcode"
+    },
+    "28651": {
+        "approx_size": "210",
+        "key": "28651",
+        "type": "zipcode"
+    },
+    "28652": {
+        "approx_size": "202",
+        "key": "28652",
+        "type": "zipcode"
+    },
+    "28653": {
+        "approx_size": "200",
+        "key": "28653",
+        "type": "zipcode"
+    },
+    "28654": {
+        "approx_size": "213",
+        "key": "28654",
+        "type": "zipcode"
+    },
+    "28655": {
+        "approx_size": "208",
+        "key": "28655",
+        "type": "zipcode"
+    },
+    "28656": {
+        "approx_size": "207",
+        "key": "28656",
+        "type": "zipcode"
+    },
+    "28657": {
+        "approx_size": "206",
+        "key": "28657",
+        "type": "zipcode"
+    },
+    "28658": {
+        "approx_size": "205",
+        "key": "28658",
+        "type": "zipcode"
+    },
+    "28659": {
+        "approx_size": "215",
+        "key": "28659",
+        "type": "zipcode"
+    },
+    "28660": {
+        "approx_size": "201",
+        "key": "28660",
+        "type": "zipcode"
+    },
+    "28661": {
+        "approx_size": "200",
+        "key": "28661",
+        "type": "zipcode"
+    },
+    "28662": {
+        "approx_size": "206",
+        "key": "28662",
+        "type": "zipcode"
+    },
+    "28663": {
+        "approx_size": "210",
+        "key": "28663",
+        "type": "zipcode"
+    },
+    "28664": {
+        "approx_size": "199",
+        "key": "28664",
+        "type": "zipcode"
+    },
+    "28665": {
+        "approx_size": "206",
+        "key": "28665",
+        "type": "zipcode"
+    },
+    "28666": {
+        "approx_size": "202",
+        "key": "28666",
+        "type": "zipcode"
+    },
+    "28667": {
+        "approx_size": "199",
+        "key": "28667",
+        "type": "zipcode"
+    },
+    "28668": {
+        "approx_size": "208",
+        "key": "28668",
+        "type": "zipcode"
+    },
+    "28669": {
+        "approx_size": "212",
+        "key": "28669",
+        "type": "zipcode"
+    },
+    "28670": {
+        "approx_size": "204",
+        "key": "28670",
+        "type": "zipcode"
+    },
+    "28671": {
+        "approx_size": "215",
+        "key": "28671",
+        "type": "zipcode"
+    },
+    "28672": {
+        "approx_size": "209",
+        "key": "28672",
+        "type": "zipcode"
+    },
+    "28673": {
+        "approx_size": "213",
+        "key": "28673",
+        "type": "zipcode"
+    },
+    "28675": {
+        "approx_size": "205",
+        "key": "28675",
+        "type": "zipcode"
+    },
+    "28676": {
+        "approx_size": "209",
+        "key": "28676",
+        "type": "zipcode"
+    },
+    "28677": {
+        "approx_size": "210",
+        "key": "28677",
+        "type": "zipcode"
+    },
+    "28678": {
+        "approx_size": "210",
+        "key": "28678",
+        "type": "zipcode"
+    },
+    "28679": {
+        "approx_size": "206",
+        "key": "28679",
+        "type": "zipcode"
+    },
+    "28680": {
+        "approx_size": "200",
+        "key": "28680",
+        "type": "zipcode"
+    },
+    "28681": {
+        "approx_size": "211",
+        "key": "28681",
+        "type": "zipcode"
+    },
+    "28682": {
+        "approx_size": "206",
+        "key": "28682",
+        "type": "zipcode"
+    },
+    "28683": {
+        "approx_size": "207",
+        "key": "28683",
+        "type": "zipcode"
+    },
+    "28684": {
+        "approx_size": "201",
+        "key": "28684",
+        "type": "zipcode"
+    },
+    "28685": {
+        "approx_size": "207",
+        "key": "28685",
+        "type": "zipcode"
+    },
+    "28687": {
+        "approx_size": "202",
+        "key": "28687",
+        "type": "zipcode"
+    },
+    "28688": {
+        "approx_size": "202",
+        "key": "28688",
+        "type": "zipcode"
+    },
+    "28689": {
+        "approx_size": "208",
+        "key": "28689",
+        "type": "zipcode"
+    },
+    "28690": {
+        "approx_size": "206",
+        "key": "28690",
+        "type": "zipcode"
+    },
+    "28691": {
+        "approx_size": "203",
+        "key": "28691",
+        "type": "zipcode"
+    },
+    "28692": {
+        "approx_size": "202",
+        "key": "28692",
+        "type": "zipcode"
+    },
+    "28693": {
+        "approx_size": "209",
+        "key": "28693",
+        "type": "zipcode"
+    },
+    "28694": {
+        "approx_size": "213",
+        "key": "28694",
+        "type": "zipcode"
+    },
+    "28697": {
+        "approx_size": "209",
+        "key": "28697",
+        "type": "zipcode"
+    },
+    "28698": {
+        "approx_size": "208",
+        "key": "28698",
+        "type": "zipcode"
+    },
+    "28699": {
+        "approx_size": "197",
+        "key": "28699",
+        "type": "zipcode"
+    },
+    "28701": {
+        "approx_size": "208",
+        "key": "28701",
+        "type": "zipcode"
+    },
+    "28702": {
+        "approx_size": "205",
+        "key": "28702",
+        "type": "zipcode"
+    },
+    "28704": {
+        "approx_size": "204",
+        "key": "28704",
+        "type": "zipcode"
+    },
+    "28705": {
+        "approx_size": "210",
+        "key": "28705",
+        "type": "zipcode"
+    },
+    "28707": {
+        "approx_size": "203",
+        "key": "28707",
+        "type": "zipcode"
+    },
+    "28708": {
+        "approx_size": "211",
+        "key": "28708",
+        "type": "zipcode"
+    },
+    "28709": {
+        "approx_size": "210",
+        "key": "28709",
+        "type": "zipcode"
+    },
+    "28710": {
+        "approx_size": "207",
+        "key": "28710",
+        "type": "zipcode"
+    },
+    "28711": {
+        "approx_size": "213",
+        "key": "28711",
+        "type": "zipcode"
+    },
+    "28712": {
+        "approx_size": "204",
+        "key": "28712",
+        "type": "zipcode"
+    },
+    "28713": {
+        "approx_size": "210",
+        "key": "28713",
+        "type": "zipcode"
+    },
+    "28714": {
+        "approx_size": "209",
+        "key": "28714",
+        "type": "zipcode"
+    },
+    "28715": {
+        "approx_size": "204",
+        "key": "28715",
+        "type": "zipcode"
+    },
+    "28716": {
+        "approx_size": "203",
+        "key": "28716",
+        "type": "zipcode"
+    },
+    "28717": {
+        "approx_size": "207",
+        "key": "28717",
+        "type": "zipcode"
+    },
+    "28718": {
+        "approx_size": "213",
+        "key": "28718",
+        "type": "zipcode"
+    },
+    "28719": {
+        "approx_size": "205",
+        "key": "28719",
+        "type": "zipcode"
+    },
+    "28720": {
+        "approx_size": "203",
+        "key": "28720",
+        "type": "zipcode"
+    },
+    "28721": {
+        "approx_size": "202",
+        "key": "28721",
+        "type": "zipcode"
+    },
+    "28722": {
+        "approx_size": "207",
+        "key": "28722",
+        "type": "zipcode"
+    },
+    "28723": {
+        "approx_size": "208",
+        "key": "28723",
+        "type": "zipcode"
+    },
+    "28724": {
+        "approx_size": "195",
+        "key": "28724",
+        "type": "zipcode"
+    },
+    "28725": {
+        "approx_size": "208",
+        "key": "28725",
+        "type": "zipcode"
+    },
+    "28726": {
+        "approx_size": "211",
+        "key": "28726",
+        "type": "zipcode"
+    },
+    "28727": {
+        "approx_size": "201",
+        "key": "28727",
+        "type": "zipcode"
+    },
+    "28728": {
+        "approx_size": "195",
+        "key": "28728",
+        "type": "zipcode"
+    },
+    "28729": {
+        "approx_size": "203",
+        "key": "28729",
+        "type": "zipcode"
+    },
+    "28730": {
+        "approx_size": "207",
+        "key": "28730",
+        "type": "zipcode"
+    },
+    "28731": {
+        "approx_size": "208",
+        "key": "28731",
+        "type": "zipcode"
+    },
+    "28732": {
+        "approx_size": "205",
+        "key": "28732",
+        "type": "zipcode"
+    },
+    "28733": {
+        "approx_size": "210",
+        "key": "28733",
+        "type": "zipcode"
+    },
+    "28734": {
+        "approx_size": "207",
+        "key": "28734",
+        "type": "zipcode"
+    },
+    "28735": {
+        "approx_size": "205",
+        "key": "28735",
+        "type": "zipcode"
+    },
+    "28736": {
+        "approx_size": "208",
+        "key": "28736",
+        "type": "zipcode"
+    },
+    "28737": {
+        "approx_size": "199",
+        "key": "28737",
+        "type": "zipcode"
+    },
+    "28738": {
+        "approx_size": "198",
+        "key": "28738",
+        "type": "zipcode"
+    },
+    "28739": {
+        "approx_size": "213",
+        "key": "28739",
+        "type": "zipcode"
+    },
+    "28740": {
+        "approx_size": "213",
+        "key": "28740",
+        "type": "zipcode"
+    },
+    "28741": {
+        "approx_size": "208",
+        "key": "28741",
+        "type": "zipcode"
+    },
+    "28742": {
+        "approx_size": "207",
+        "key": "28742",
+        "type": "zipcode"
+    },
+    "28743": {
+        "approx_size": "210",
+        "key": "28743",
+        "type": "zipcode"
+    },
+    "28744": {
+        "approx_size": "199",
+        "key": "28744",
+        "type": "zipcode"
+    },
+    "28745": {
+        "approx_size": "213",
+        "key": "28745",
+        "type": "zipcode"
+    },
+    "28746": {
+        "approx_size": "208",
+        "key": "28746",
+        "type": "zipcode"
+    },
+    "28747": {
+        "approx_size": "211",
+        "key": "28747",
+        "type": "zipcode"
+    },
+    "28748": {
+        "approx_size": "208",
+        "key": "28748",
+        "type": "zipcode"
+    },
+    "28749": {
+        "approx_size": "217",
+        "key": "28749",
+        "type": "zipcode"
+    },
+    "28750": {
+        "approx_size": "195",
+        "key": "28750",
+        "type": "zipcode"
+    },
+    "28751": {
+        "approx_size": "210",
+        "key": "28751",
+        "type": "zipcode"
+    },
+    "28752": {
+        "approx_size": "205",
+        "key": "28752",
+        "type": "zipcode"
+    },
+    "28753": {
+        "approx_size": "207",
+        "key": "28753",
+        "type": "zipcode"
+    },
+    "28754": {
+        "approx_size": "208",
+        "key": "28754",
+        "type": "zipcode"
+    },
+    "28755": {
+        "approx_size": "206",
+        "key": "28755",
+        "type": "zipcode"
+    },
+    "28756": {
+        "approx_size": "210",
+        "key": "28756",
+        "type": "zipcode"
+    },
+    "28757": {
+        "approx_size": "207",
+        "key": "28757",
+        "type": "zipcode"
+    },
+    "28758": {
+        "approx_size": "212",
+        "key": "28758",
+        "type": "zipcode"
+    },
+    "28759": {
+        "approx_size": "208",
+        "key": "28759",
+        "type": "zipcode"
+    },
+    "28760": {
+        "approx_size": "197",
+        "key": "28760",
+        "type": "zipcode"
+    },
+    "28761": {
+        "approx_size": "203",
+        "key": "28761",
+        "type": "zipcode"
+    },
+    "28762": {
+        "approx_size": "207",
+        "key": "28762",
+        "type": "zipcode"
+    },
+    "28763": {
+        "approx_size": "203",
+        "key": "28763",
+        "type": "zipcode"
+    },
+    "28765": {
+        "approx_size": "206",
+        "key": "28765",
+        "type": "zipcode"
+    },
+    "28766": {
+        "approx_size": "204",
+        "key": "28766",
+        "type": "zipcode"
+    },
+    "28768": {
+        "approx_size": "212",
+        "key": "28768",
+        "type": "zipcode"
+    },
+    "28770": {
+        "approx_size": "201",
+        "key": "28770",
+        "type": "zipcode"
+    },
+    "28771": {
+        "approx_size": "211",
+        "key": "28771",
+        "type": "zipcode"
+    },
+    "28772": {
+        "approx_size": "203",
+        "key": "28772",
+        "type": "zipcode"
+    },
+    "28773": {
+        "approx_size": "205",
+        "key": "28773",
+        "type": "zipcode"
+    },
+    "28774": {
+        "approx_size": "207",
+        "key": "28774",
+        "type": "zipcode"
+    },
+    "28775": {
+        "approx_size": "213",
+        "key": "28775",
+        "type": "zipcode"
+    },
+    "28776": {
+        "approx_size": "198",
+        "key": "28776",
+        "type": "zipcode"
+    },
+    "28777": {
+        "approx_size": "208",
+        "key": "28777",
+        "type": "zipcode"
+    },
+    "28778": {
+        "approx_size": "208",
+        "key": "28778",
+        "type": "zipcode"
+    },
+    "28779": {
+        "approx_size": "204",
+        "key": "28779",
+        "type": "zipcode"
+    },
+    "28781": {
+        "approx_size": "205",
+        "key": "28781",
+        "type": "zipcode"
+    },
+    "28782": {
+        "approx_size": "204",
+        "key": "28782",
+        "type": "zipcode"
+    },
+    "28783": {
+        "approx_size": "209",
+        "key": "28783",
+        "type": "zipcode"
+    },
+    "28784": {
+        "approx_size": "203",
+        "key": "28784",
+        "type": "zipcode"
+    },
+    "28785": {
+        "approx_size": "208",
+        "key": "28785",
+        "type": "zipcode"
+    },
+    "28786": {
+        "approx_size": "208",
+        "key": "28786",
+        "type": "zipcode"
+    },
+    "28787": {
+        "approx_size": "210",
+        "key": "28787",
+        "type": "zipcode"
+    },
+    "28788": {
+        "approx_size": "198",
+        "key": "28788",
+        "type": "zipcode"
+    },
+    "28789": {
+        "approx_size": "207",
+        "key": "28789",
+        "type": "zipcode"
+    },
+    "28790": {
+        "approx_size": "207",
+        "key": "28790",
+        "type": "zipcode"
+    },
+    "28791": {
+        "approx_size": "213",
+        "key": "28791",
+        "type": "zipcode"
+    },
+    "28792": {
+        "approx_size": "213",
+        "key": "28792",
+        "type": "zipcode"
+    },
+    "28793": {
+        "approx_size": "205",
+        "key": "28793",
+        "type": "zipcode"
+    },
+    "28801": {
+        "approx_size": "208",
+        "key": "28801",
+        "type": "zipcode"
+    },
+    "28802": {
+        "approx_size": "200",
+        "key": "28802",
+        "type": "zipcode"
+    },
+    "28803": {
+        "approx_size": "208",
+        "key": "28803",
+        "type": "zipcode"
+    },
+    "28804": {
+        "approx_size": "206",
+        "key": "28804",
+        "type": "zipcode"
+    },
+    "28805": {
+        "approx_size": "208",
+        "key": "28805",
+        "type": "zipcode"
+    },
+    "28806": {
+        "approx_size": "208",
+        "key": "28806",
+        "type": "zipcode"
+    },
+    "28810": {
+        "approx_size": "200",
+        "key": "28810",
+        "type": "zipcode"
+    },
+    "28813": {
+        "approx_size": "200",
+        "key": "28813",
+        "type": "zipcode"
+    },
+    "28814": {
+        "approx_size": "200",
+        "key": "28814",
+        "type": "zipcode"
+    },
+    "28815": {
+        "approx_size": "200",
+        "key": "28815",
+        "type": "zipcode"
+    },
+    "28816": {
+        "approx_size": "200",
+        "key": "28816",
+        "type": "zipcode"
+    },
+    "28901": {
+        "approx_size": "206",
+        "key": "28901",
+        "type": "zipcode"
+    },
+    "28902": {
+        "approx_size": "208",
+        "key": "28902",
+        "type": "zipcode"
+    },
+    "28903": {
+        "approx_size": "200",
+        "key": "28903",
+        "type": "zipcode"
+    },
+    "28904": {
+        "approx_size": "209",
+        "key": "28904",
+        "type": "zipcode"
+    },
+    "28905": {
+        "approx_size": "205",
+        "key": "28905",
+        "type": "zipcode"
+    },
+    "28906": {
+        "approx_size": "205",
+        "key": "28906",
+        "type": "zipcode"
+    },
+    "28909": {
+        "approx_size": "204",
+        "key": "28909",
+        "type": "zipcode"
+    },
+    "@azure/amqp-common": {
+        "approx_size": "19962",
+        "key": "@azure/amqp-common",
+        "type": "npm"
+    },
+    "@azure/cosmos": {
+        "approx_size": "7232",
+        "key": "@azure/cosmos",
+        "type": "npm"
+    },
+    "@azure/cosmos-sign": {
+        "approx_size": "2781",
+        "key": "@azure/cosmos-sign",
+        "type": "npm"
+    },
+    "@azure/event-hubs": {
+        "approx_size": "6663",
+        "key": "@azure/event-hubs",
+        "type": "npm"
+    },
+    "@azure/ms-rest-azure-env": {
+        "approx_size": "3436",
+        "key": "@azure/ms-rest-azure-env",
+        "type": "npm"
+    },
+    "@azure/ms-rest-js": {
+        "approx_size": "8545",
+        "key": "@azure/ms-rest-js",
+        "type": "npm"
+    },
+    "@azure/ms-rest-nodeauth": {
+        "approx_size": "4280",
+        "key": "@azure/ms-rest-nodeauth",
+        "type": "npm"
+    },
+    "@azure/storage-blob": {
+        "approx_size": "6977",
+        "key": "@azure/storage-blob",
+        "type": "npm"
+    },
+    "@babel/runtime-corejs2": {
+        "approx_size": "3353",
+        "key": "@babel/runtime-corejs2",
+        "type": "npm"
+    },
+    "@sindresorhus/is": {
+        "approx_size": "4220",
+        "key": "@sindresorhus/is",
+        "type": "npm"
+    },
+    "@szmarczak/http-timer": {
+        "approx_size": "3097",
+        "key": "@szmarczak/http-timer",
+        "type": "npm"
+    },
+    "@types/async-lock": {
+        "approx_size": "3267",
+        "key": "@types/async-lock",
+        "type": "npm"
+    },
+    "@types/babel-types": {
+        "approx_size": "3785",
+        "key": "@types/babel-types",
+        "type": "npm"
+    },
+    "@types/babylon": {
+        "approx_size": "3349",
+        "key": "@types/babylon",
+        "type": "npm"
+    },
+    "@types/debug": {
+        "approx_size": "3795",
+        "key": "@types/debug",
+        "type": "npm"
+    },
+    "@types/is-buffer": {
+        "approx_size": "2149",
+        "key": "@types/is-buffer",
+        "type": "npm"
+    },
+    "@types/node": {
+        "approx_size": "36954",
+        "key": "@types/node",
+        "type": "npm"
+    },
+    "@types/node-fetch": {
+        "approx_size": "4228",
+        "key": "@types/node-fetch",
+        "type": "npm"
+    },
+    "@types/tunnel": {
+        "approx_size": "2404",
+        "key": "@types/tunnel",
+        "type": "npm"
+    },
+    "abbrev": {
+        "approx_size": "1917",
+        "key": "abbrev",
+        "type": "npm"
+    },
+    "abort-controller": {
+        "approx_size": "7954",
+        "key": "abort-controller",
+        "type": "npm"
+    },
+    "accepts": {
+        "approx_size": "4654",
+        "key": "accepts",
+        "type": "npm"
+    },
+    "acorn": {
+        "approx_size": "6834",
+        "key": "acorn",
+        "type": "npm"
+    },
+    "acorn-node": {
+        "approx_size": "4717",
+        "key": "acorn-node",
+        "type": "npm"
+    },
+    "acorn-walk": {
+        "approx_size": "2149",
+        "key": "acorn-walk",
+        "type": "npm"
+    },
+    "adal-node": {
+        "approx_size": "4248",
+        "key": "adal-node",
+        "type": "npm"
+    },
+    "after": {
+        "approx_size": "2460",
+        "key": "after",
+        "type": "npm"
+    },
+    "ajv": {
+        "approx_size": "19350",
+        "key": "ajv",
+        "type": "npm"
+    },
+    "ansi-align": {
+        "approx_size": "2474",
+        "key": "ansi-align",
+        "type": "npm"
+    },
+    "ansi-colors": {
+        "approx_size": "4509",
+        "key": "ansi-colors",
+        "type": "npm"
+    },
+    "ansi-regex": {
+        "approx_size": "3018",
+        "key": "ansi-regex",
+        "type": "npm"
+    },
+    "ansi-styles": {
+        "approx_size": "3470",
+        "key": "ansi-styles",
+        "type": "npm"
+    },
+    "anymatch": {
+        "approx_size": "3422",
+        "key": "anymatch",
+        "type": "npm"
+    },
+    "aproba": {
+        "approx_size": "2755",
+        "key": "aproba",
+        "type": "npm"
+    },
+    "are-we-there-yet": {
+        "approx_size": "3006",
+        "key": "are-we-there-yet",
+        "type": "npm"
+    },
+    "argparse": {
+        "approx_size": "2995",
+        "key": "argparse",
+        "type": "npm"
+    },
+    "array-each": {
+        "approx_size": "1505",
+        "key": "array-each",
+        "type": "npm"
+    },
+    "array-flatten": {
+        "approx_size": "3184",
+        "key": "array-flatten",
+        "type": "npm"
+    },
+    "array-from": {
+        "approx_size": "2115",
+        "key": "array-from",
+        "type": "npm"
+    },
+    "array-slice": {
+        "approx_size": "1889",
+        "key": "array-slice",
+        "type": "npm"
+    },
+    "arraybuffer.slice": {
+        "approx_size": "1331",
+        "key": "arraybuffer.slice",
+        "type": "npm"
+    },
+    "asap": {
+        "approx_size": "2953",
+        "key": "asap",
+        "type": "npm"
+    },
+    "asn1": {
+        "approx_size": "3203",
+        "key": "asn1",
+        "type": "npm"
+    },
+    "assert-plus": {
+        "approx_size": "1978",
+        "key": "assert-plus",
+        "type": "npm"
+    },
+    "ast-transform": {
+        "approx_size": "1063",
+        "key": "ast-transform",
+        "type": "npm"
+    },
+    "ast-types": {
+        "approx_size": "10710",
+        "key": "ast-types",
+        "type": "npm"
+    },
+    "async": {
+        "approx_size": "30512",
+        "key": "async",
+        "type": "npm"
+    },
+    "async-limiter": {
+        "approx_size": "2560",
+        "key": "async-limiter",
+        "type": "npm"
+    },
+    "async-lock": {
+        "approx_size": "4250",
+        "key": "async-lock",
+        "type": "npm"
+    },
+    "asynckit": {
+        "approx_size": "2005",
+        "key": "asynckit",
+        "type": "npm"
+    },
+    "atob": {
+        "approx_size": "2637",
+        "key": "atob",
+        "type": "npm"
+    },
+    "aws-sign2": {
+        "approx_size": "1213",
+        "key": "aws-sign2",
+        "type": "npm"
+    },
+    "aws4": {
+        "approx_size": "4740",
+        "key": "aws4",
+        "type": "npm"
+    },
+    "azure-common": {
+        "approx_size": "3696",
+        "key": "azure-common",
+        "type": "npm"
+    },
+    "azure-sb": {
+        "approx_size": "3260",
+        "key": "azure-sb",
+        "type": "npm"
+    },
+    "babel-runtime": {
+        "approx_size": "10730",
+        "key": "babel-runtime",
+        "type": "npm"
+    },
+    "babel-types": {
+        "approx_size": "5014",
+        "key": "babel-types",
+        "type": "npm"
+    },
+    "babylon": {
+        "approx_size": "10890",
+        "key": "babylon",
+        "type": "npm"
+    },
+    "babylon-walk": {
+        "approx_size": "1326",
+        "key": "babylon-walk",
+        "type": "npm"
+    },
+    "backo2": {
+        "approx_size": "999",
+        "key": "backo2",
+        "type": "npm"
+    },
+    "balanced-match": {
+        "approx_size": "1960",
+        "key": "balanced-match",
+        "type": "npm"
+    },
+    "base64-arraybuffer": {
+        "approx_size": "2603",
+        "key": "base64-arraybuffer",
+        "type": "npm"
+    },
+    "base64-js": {
+        "approx_size": "3623",
+        "key": "base64-js",
+        "type": "npm"
+    },
+    "base64id": {
+        "approx_size": "2193",
+        "key": "base64id",
+        "type": "npm"
+    },
+    "basic-auth": {
+        "approx_size": "3939",
+        "key": "basic-auth",
+        "type": "npm"
+    },
+    "bcrypt-pbkdf": {
+        "approx_size": "1161",
+        "key": "bcrypt-pbkdf",
+        "type": "npm"
+    },
+    "better-assert": {
+        "approx_size": "1359",
+        "key": "better-assert",
+        "type": "npm"
+    },
+    "big-number": {
+        "approx_size": "2626",
+        "key": "big-number",
+        "type": "npm"
+    },
+    "bignumber.js": {
+        "approx_size": "5361",
+        "key": "bignumber.js",
+        "type": "npm"
+    },
+    "binary-extensions": {
+        "approx_size": "3182",
+        "key": "binary-extensions",
+        "type": "npm"
+    },
+    "binary-search-bounds": {
+        "approx_size": "1878",
+        "key": "binary-search-bounds",
+        "type": "npm"
+    },
+    "bl": {
+        "approx_size": "5249",
+        "key": "bl",
+        "type": "npm"
+    },
+    "blob": {
+        "approx_size": "2372",
+        "key": "blob",
+        "type": "npm"
+    },
+    "bluebird": {
+        "approx_size": "25224",
+        "key": "bluebird",
+        "type": "npm"
+    },
+    "body-parser": {
+        "approx_size": "17632",
+        "key": "body-parser",
+        "type": "npm"
+    },
+    "boxen": {
+        "approx_size": "3610",
+        "key": "boxen",
+        "type": "npm"
+    },
+    "brace-expansion": {
+        "approx_size": "2416",
+        "key": "brace-expansion",
+        "type": "npm"
+    },
+    "braces": {
+        "approx_size": "4724",
+        "key": "braces",
+        "type": "npm"
+    },
+    "brfs": {
+        "approx_size": "5657",
+        "key": "brfs",
+        "type": "npm"
+    },
+    "brotli": {
+        "approx_size": "1582",
+        "key": "brotli",
+        "type": "npm"
+    },
+    "browser-resolve": {
+        "approx_size": "4199",
+        "key": "browser-resolve",
+        "type": "npm"
+    },
+    "browser-stdout": {
+        "approx_size": "1359",
+        "key": "browser-stdout",
+        "type": "npm"
+    },
+    "browserify-optional": {
+        "approx_size": "1302",
+        "key": "browserify-optional",
+        "type": "npm"
+    },
+    "buffer": {
+        "approx_size": "7775",
+        "key": "buffer",
+        "type": "npm"
+    },
+    "buffer-crc32": {
+        "approx_size": "1971",
+        "key": "buffer-crc32",
+        "type": "npm"
+    },
+    "buffer-equal": {
+        "approx_size": "1265",
+        "key": "buffer-equal",
+        "type": "npm"
+    },
+    "buffer-equal-constant-time": {
+        "approx_size": "1067",
+        "key": "buffer-equal-constant-time",
+        "type": "npm"
+    },
+    "buffer-from": {
+        "approx_size": "2309",
+        "key": "buffer-from",
+        "type": "npm"
+    },
+    "buffer-writer": {
+        "approx_size": "2197",
+        "key": "buffer-writer",
+        "type": "npm"
+    },
+    "bytes": {
+        "approx_size": "3630",
+        "key": "bytes",
+        "type": "npm"
+    },
+    "cacheable-request": {
+        "approx_size": "4120",
+        "key": "cacheable-request",
+        "type": "npm"
+    },
+    "callsite": {
+        "approx_size": "994",
+        "key": "callsite",
+        "type": "npm"
+    },
+    "camelcase": {
+        "approx_size": "3687",
+        "key": "camelcase",
+        "type": "npm"
+    },
+    "caseless": {
+        "approx_size": "1780",
+        "key": "caseless",
+        "type": "npm"
+    },
+    "chalk": {
+        "approx_size": "21132",
+        "key": "chalk",
+        "type": "npm"
+    },
+    "character-parser": {
+        "approx_size": "3285",
+        "key": "character-parser",
+        "type": "npm"
+    },
+    "chokidar": {
+        "approx_size": "10343",
+        "key": "chokidar",
+        "type": "npm"
+    },
+    "chownr": {
+        "approx_size": "2454",
+        "key": "chownr",
+        "type": "npm"
+    },
+    "ci-info": {
+        "approx_size": "2858",
+        "key": "ci-info",
+        "type": "npm"
+    },
+    "clean-css": {
+        "approx_size": "13146",
+        "key": "clean-css",
+        "type": "npm"
+    },
+    "cli-boxes": {
+        "approx_size": "2391",
+        "key": "cli-boxes",
+        "type": "npm"
+    },
+    "cliui": {
+        "approx_size": "3617",
+        "key": "cliui",
+        "type": "npm"
+    },
+    "clone": {
+        "approx_size": "5335",
+        "key": "clone",
+        "type": "npm"
+    },
+    "clone-response": {
+        "approx_size": "1772",
+        "key": "clone-response",
+        "type": "npm"
+    },
+    "coffeescript": {
+        "approx_size": "6358",
+        "key": "coffeescript",
+        "type": "npm"
+    },
+    "color-convert": {
+        "approx_size": "4110",
+        "key": "color-convert",
+        "type": "npm"
+    },
+    "color-name": {
+        "approx_size": "2397",
+        "key": "color-name",
+        "type": "npm"
+    },
+    "colors": {
+        "approx_size": "11890",
+        "key": "colors",
+        "type": "npm"
+    },
+    "combined-stream": {
+        "approx_size": "3279",
+        "key": "combined-stream",
+        "type": "npm"
+    },
+    "commander": {
+        "approx_size": "24260",
+        "key": "commander",
+        "type": "npm"
+    },
+    "complex.js": {
+        "approx_size": "3545",
+        "key": "complex.js",
+        "type": "npm"
+    },
+    "component-bind": {
+        "approx_size": "855",
+        "key": "component-bind",
+        "type": "npm"
+    },
+    "component-emitter": {
+        "approx_size": "3530",
+        "key": "component-emitter",
+        "type": "npm"
+    },
+    "component-inherit": {
+        "approx_size": "844",
+        "key": "component-inherit",
+        "type": "npm"
+    },
+    "concat-map": {
+        "approx_size": "1294",
+        "key": "concat-map",
+        "type": "npm"
+    },
+    "concat-stream": {
+        "approx_size": "6063",
+        "key": "concat-stream",
+        "type": "npm"
+    },
+    "configstore": {
+        "approx_size": "4569",
+        "key": "configstore",
+        "type": "npm"
+    },
+    "console-control-strings": {
+        "approx_size": "1417",
+        "key": "console-control-strings",
+        "type": "npm"
+    },
+    "constantinople": {
+        "approx_size": "2021",
+        "key": "constantinople",
+        "type": "npm"
+    },
+    "content-disposition": {
+        "approx_size": "3442",
+        "key": "content-disposition",
+        "type": "npm"
+    },
+    "content-type": {
+        "approx_size": "2201",
+        "key": "content-type",
+        "type": "npm"
+    },
+    "convert-source-map": {
+        "approx_size": "3820",
+        "key": "convert-source-map",
+        "type": "npm"
+    },
+    "cookie": {
+        "approx_size": "4875",
+        "key": "cookie",
+        "type": "npm"
+    },
+    "cookie-parser": {
+        "approx_size": "8007",
+        "key": "cookie-parser",
+        "type": "npm"
+    },
+    "cookie-signature": {
+        "approx_size": "1873",
+        "key": "cookie-signature",
+        "type": "npm"
+    },
+    "core-js": {
+        "approx_size": "11098",
+        "key": "core-js",
+        "type": "npm"
+    },
+    "core-util-is": {
+        "approx_size": "1294",
+        "key": "core-util-is",
+        "type": "npm"
+    },
+    "cross-spawn": {
+        "approx_size": "5346",
+        "key": "cross-spawn",
+        "type": "npm"
+    },
+    "crypto-hash": {
+        "approx_size": "2697",
+        "key": "crypto-hash",
+        "type": "npm"
+    },
+    "crypto-js": {
+        "approx_size": "4504",
+        "key": "crypto-js",
+        "type": "npm"
+    },
+    "crypto-random-string": {
+        "approx_size": "2584",
+        "key": "crypto-random-string",
+        "type": "npm"
+    },
+    "csv": {
+        "approx_size": "8125",
+        "key": "csv",
+        "type": "npm"
+    },
+    "csv-generate": {
+        "approx_size": "4305",
+        "key": "csv-generate",
+        "type": "npm"
+    },
+    "csv-parse": {
+        "approx_size": "7950",
+        "key": "csv-parse",
+        "type": "npm"
+    },
+    "csv-stringify": {
+        "approx_size": "5059",
+        "key": "csv-stringify",
+        "type": "npm"
+    },
+    "d": {
+        "approx_size": "3246",
+        "key": "d",
+        "type": "npm"
+    },
+    "dashdash": {
+        "approx_size": "2875",
+        "key": "dashdash",
+        "type": "npm"
+    },
+    "date-format": {
+        "approx_size": "2881",
+        "key": "date-format",
+        "type": "npm"
+    },
+    "date-utils": {
+        "approx_size": "3209",
+        "key": "date-utils",
+        "type": "npm"
+    },
+    "dateformat": {
+        "approx_size": "4413",
+        "key": "dateformat",
+        "type": "npm"
+    },
+    "debug": {
+        "approx_size": "19022",
+        "key": "debug",
+        "type": "npm"
+    },
+    "decamelize": {
+        "approx_size": "2907",
+        "key": "decamelize",
+        "type": "npm"
+    },
+    "decimal.js": {
+        "approx_size": "4708",
+        "key": "decimal.js",
+        "type": "npm"
+    },
+    "decompress-response": {
+        "approx_size": "2740",
+        "key": "decompress-response",
+        "type": "npm"
+    },
+    "deep-equal": {
+        "approx_size": "3678",
+        "key": "deep-equal",
+        "type": "npm"
+    },
+    "deep-extend": {
+        "approx_size": "3793",
+        "key": "deep-extend",
+        "type": "npm"
+    },
+    "deep-is": {
+        "approx_size": "1461",
+        "key": "deep-is",
+        "type": "npm"
+    },
+    "defer-to-connect": {
+        "approx_size": "2178",
+        "key": "defer-to-connect",
+        "type": "npm"
+    },
+    "define-properties": {
+        "approx_size": "3407",
+        "key": "define-properties",
+        "type": "npm"
+    },
+    "delayed-stream": {
+        "approx_size": "1624",
+        "key": "delayed-stream",
+        "type": "npm"
+    },
+    "delegates": {
+        "approx_size": "1691",
+        "key": "delegates",
+        "type": "npm"
+    },
+    "denque": {
+        "approx_size": "3768",
+        "key": "denque",
+        "type": "npm"
+    },
+    "depd": {
+        "approx_size": "4033",
+        "key": "depd",
+        "type": "npm"
+    },
+    "destroy": {
+        "approx_size": "1533",
+        "key": "destroy",
+        "type": "npm"
+    },
+    "detect-file": {
+        "approx_size": "1511",
+        "key": "detect-file",
+        "type": "npm"
+    },
+    "detect-libc": {
+        "approx_size": "1879",
+        "key": "detect-libc",
+        "type": "npm"
+    },
+    "dfa": {
+        "approx_size": "2443",
+        "key": "dfa",
+        "type": "npm"
+    },
+    "diff": {
+        "approx_size": "6444",
+        "key": "diff",
+        "type": "npm"
+    },
+    "doctypes": {
+        "approx_size": "1144",
+        "key": "doctypes",
+        "type": "npm"
+    },
+    "dot-prop": {
+        "approx_size": "3237",
+        "key": "dot-prop",
+        "type": "npm"
+    },
+    "double-ended-queue": {
+        "approx_size": "1645",
+        "key": "double-ended-queue",
+        "type": "npm"
+    },
+    "duplexer": {
+        "approx_size": "2897",
+        "key": "duplexer",
+        "type": "npm"
+    },
+    "duplexer2": {
+        "approx_size": "1719",
+        "key": "duplexer2",
+        "type": "npm"
+    },
+    "duplexer3": {
+        "approx_size": "1072",
+        "key": "duplexer3",
+        "type": "npm"
+    },
+    "ecc-jsbn": {
+        "approx_size": "2373",
+        "key": "ecc-jsbn",
+        "type": "npm"
+    },
+    "ecdsa-sig-formatter": {
+        "approx_size": "3077",
+        "key": "ecdsa-sig-formatter",
+        "type": "npm"
+    },
+    "ee-first": {
+        "approx_size": "1792",
+        "key": "ee-first",
+        "type": "npm"
+    },
+    "electron": {
+        "approx_size": "24300",
+        "key": "electron",
+        "type": "npm"
+    },
+    "electron-download": {
+        "approx_size": "4504",
+        "key": "electron-download",
+        "type": "npm"
+    },
+    "emoji-regex": {
+        "approx_size": "3633",
+        "key": "emoji-regex",
+        "type": "npm"
+    },
+    "encodeurl": {
+        "approx_size": "1803",
+        "key": "encodeurl",
+        "type": "npm"
+    },
+    "end-of-stream": {
+        "approx_size": "2064",
+        "key": "end-of-stream",
+        "type": "npm"
+    },
+    "engine.io": {
+        "approx_size": "8145",
+        "key": "engine.io",
+        "type": "npm"
+    },
+    "engine.io-client": {
+        "approx_size": "8090",
+        "key": "engine.io-client",
+        "type": "npm"
+    },
+    "engine.io-parser": {
+        "approx_size": "3732",
+        "key": "engine.io-parser",
+        "type": "npm"
+    },
+    "env-paths": {
+        "approx_size": "2655",
+        "key": "env-paths",
+        "type": "npm"
+    },
+    "envconf": {
+        "approx_size": "1533",
+        "key": "envconf",
+        "type": "npm"
+    },
+    "es-abstract": {
+        "approx_size": "4942",
+        "key": "es-abstract",
+        "type": "npm"
+    },
+    "es-to-primitive": {
+        "approx_size": "3482",
+        "key": "es-to-primitive",
+        "type": "npm"
+    },
+    "es5-ext": {
+        "approx_size": "6773",
+        "key": "es5-ext",
+        "type": "npm"
+    },
+    "es6-iterator": {
+        "approx_size": "1809",
+        "key": "es6-iterator",
+        "type": "npm"
+    },
+    "es6-map": {
+        "approx_size": "1922",
+        "key": "es6-map",
+        "type": "npm"
+    },
+    "es6-set": {
+        "approx_size": "1782",
+        "key": "es6-set",
+        "type": "npm"
+    },
+    "es6-symbol": {
+        "approx_size": "1947",
+        "key": "es6-symbol",
+        "type": "npm"
+    },
+    "escape-html": {
+        "approx_size": "1954",
+        "key": "escape-html",
+        "type": "npm"
+    },
+    "escape-latex": {
+        "approx_size": "3802",
+        "key": "escape-latex",
+        "type": "npm"
+    },
+    "escape-string-regexp": {
+        "approx_size": "3232",
+        "key": "escape-string-regexp",
+        "type": "npm"
+    },
+    "escodegen": {
+        "approx_size": "5505",
+        "key": "escodegen",
+        "type": "npm"
+    },
+    "esprima": {
+        "approx_size": "8907",
+        "key": "esprima",
+        "type": "npm"
+    },
+    "estraverse": {
+        "approx_size": "4014",
+        "key": "estraverse",
+        "type": "npm"
+    },
+    "estree-is-function": {
+        "approx_size": "1305",
+        "key": "estree-is-function",
+        "type": "npm"
+    },
+    "esutils": {
+        "approx_size": "3000",
+        "key": "esutils",
+        "type": "npm"
+    },
+    "etag": {
+        "approx_size": "2764",
+        "key": "etag",
+        "type": "npm"
+    },
+    "event-emitter": {
+        "approx_size": "2602",
+        "key": "event-emitter",
+        "type": "npm"
+    },
+    "event-target-shim": {
+        "approx_size": "4919",
+        "key": "event-target-shim",
+        "type": "npm"
+    },
+    "eventemitter2": {
+        "approx_size": "4836",
+        "key": "eventemitter2",
+        "type": "npm"
+    },
+    "events": {
+        "approx_size": "4014",
+        "key": "events",
+        "type": "npm"
+    },
+    "execa": {
+        "approx_size": "4599",
+        "key": "execa",
+        "type": "npm"
+    },
+    "exit": {
+        "approx_size": "3962",
+        "key": "exit",
+        "type": "npm"
+    },
+    "expand-tilde": {
+        "approx_size": "2109",
+        "key": "expand-tilde",
+        "type": "npm"
+    },
+    "express": {
+        "approx_size": "66010",
+        "key": "express",
+        "type": "npm"
+    },
+    "express-favicon": {
+        "approx_size": "2640",
+        "key": "express-favicon",
+        "type": "npm"
+    },
+    "express-session": {
+        "approx_size": "12725",
+        "key": "express-session",
+        "type": "npm"
+    },
+    "extend": {
+        "approx_size": "4116",
+        "key": "extend",
+        "type": "npm"
+    },
+    "extract-zip": {
+        "approx_size": "3370",
+        "key": "extract-zip",
+        "type": "npm"
+    },
+    "extsprintf": {
+        "approx_size": "1343",
+        "key": "extsprintf",
+        "type": "npm"
+    },
+    "faker": {
+        "approx_size": "7595",
+        "key": "faker",
+        "type": "npm"
+    },
+    "fast-deep-equal": {
+        "approx_size": "3105",
+        "key": "fast-deep-equal",
+        "type": "npm"
+    },
+    "fast-json-stable-stringify": {
+        "approx_size": "1634",
+        "key": "fast-json-stable-stringify",
+        "type": "npm"
+    },
+    "fast-levenshtein": {
+        "approx_size": "2661",
+        "key": "fast-levenshtein",
+        "type": "npm"
+    },
+    "fd-slicer": {
+        "approx_size": "2984",
+        "key": "fd-slicer",
+        "type": "npm"
+    },
+    "filesize": {
+        "approx_size": "6038",
+        "key": "filesize",
+        "type": "npm"
+    },
+    "fill-range": {
+        "approx_size": "4394",
+        "key": "fill-range",
+        "type": "npm"
+    },
+    "finalhandler": {
+        "approx_size": "4391",
+        "key": "finalhandler",
+        "type": "npm"
+    },
+    "find-up": {
+        "approx_size": "3016",
+        "key": "find-up",
+        "type": "npm"
+    },
+    "findup-sync": {
+        "approx_size": "3959",
+        "key": "findup-sync",
+        "type": "npm"
+    },
+    "fined": {
+        "approx_size": "2910",
+        "key": "fined",
+        "type": "npm"
+    },
+    "flagged-respawn": {
+        "approx_size": "3255",
+        "key": "flagged-respawn",
+        "type": "npm"
+    },
+    "flat": {
+        "approx_size": "4013",
+        "key": "flat",
+        "type": "npm"
+    },
+    "flatted": {
+        "approx_size": "3434",
+        "key": "flatted",
+        "type": "npm"
+    },
+    "fontkit": {
+        "approx_size": "5063",
+        "key": "fontkit",
+        "type": "npm"
+    },
+    "for-in": {
+        "approx_size": "2274",
+        "key": "for-in",
+        "type": "npm"
+    },
+    "for-own": {
+        "approx_size": "2054",
+        "key": "for-own",
+        "type": "npm"
+    },
+    "foreachasync": {
+        "approx_size": "2737",
+        "key": "foreachasync",
+        "type": "npm"
+    },
+    "forever-agent": {
+        "approx_size": "1541",
+        "key": "forever-agent",
+        "type": "npm"
+    },
+    "form-data": {
+        "approx_size": "6613",
+        "key": "form-data",
+        "type": "npm"
+    },
+    "forwarded": {
+        "approx_size": "1840",
+        "key": "forwarded",
+        "type": "npm"
+    },
+    "fraction.js": {
+        "approx_size": "3966",
+        "key": "fraction.js",
+        "type": "npm"
+    },
+    "fresh": {
+        "approx_size": "2616",
+        "key": "fresh",
+        "type": "npm"
+    },
+    "fs-extra": {
+        "approx_size": "14869",
+        "key": "fs-extra",
+        "type": "npm"
+    },
+    "fs-minipass": {
+        "approx_size": "2713",
+        "key": "fs-minipass",
+        "type": "npm"
+    },
+    "fs.realpath": {
+        "approx_size": "1193",
+        "key": "fs.realpath",
+        "type": "npm"
+    },
+    "fsevents": {
+        "approx_size": "5504",
+        "key": "fsevents",
+        "type": "npm"
+    },
+    "function-bind": {
+        "approx_size": "2098",
+        "key": "function-bind",
+        "type": "npm"
+    },
+    "gauge": {
+        "approx_size": "3223",
+        "key": "gauge",
+        "type": "npm"
+    },
+    "generate-function": {
+        "approx_size": "2662",
+        "key": "generate-function",
+        "type": "npm"
+    },
+    "generic-pool": {
+        "approx_size": "6982",
+        "key": "generic-pool",
+        "type": "npm"
+    },
+    "get-assigned-identifiers": {
+        "approx_size": "1476",
+        "key": "get-assigned-identifiers",
+        "type": "npm"
+    },
+    "get-caller-file": {
+        "approx_size": "3007",
+        "key": "get-caller-file",
+        "type": "npm"
+    },
+    "get-stream": {
+        "approx_size": "3104",
+        "key": "get-stream",
+        "type": "npm"
+    },
+    "getobject": {
+        "approx_size": "1943",
+        "key": "getobject",
+        "type": "npm"
+    },
+    "getpass": {
+        "approx_size": "1302",
+        "key": "getpass",
+        "type": "npm"
+    },
+    "glob": {
+        "approx_size": "14102",
+        "key": "glob",
+        "type": "npm"
+    },
+    "glob-parent": {
+        "approx_size": "3242",
+        "key": "glob-parent",
+        "type": "npm"
+    },
+    "global-dirs": {
+        "approx_size": "2531",
+        "key": "global-dirs",
+        "type": "npm"
+    },
+    "global-modules": {
+        "approx_size": "3070",
+        "key": "global-modules",
+        "type": "npm"
+    },
+    "global-prefix": {
+        "approx_size": "3188",
+        "key": "global-prefix",
+        "type": "npm"
+    },
+    "got": {
+        "approx_size": "9334",
+        "key": "got",
+        "type": "npm"
+    },
+    "graceful-fs": {
+        "approx_size": "6551",
+        "key": "graceful-fs",
+        "type": "npm"
+    },
+    "gremlin": {
+        "approx_size": "4592",
+        "key": "gremlin",
+        "type": "npm"
+    },
+    "growl": {
+        "approx_size": "2747",
+        "key": "growl",
+        "type": "npm"
+    },
+    "grunt": {
+        "approx_size": "19114",
+        "key": "grunt",
+        "type": "npm"
+    },
+    "grunt-cli": {
+        "approx_size": "9725",
+        "key": "grunt-cli",
+        "type": "npm"
+    },
+    "grunt-known-options": {
+        "approx_size": "2224",
+        "key": "grunt-known-options",
+        "type": "npm"
+    },
+    "grunt-legacy-log": {
+        "approx_size": "2800",
+        "key": "grunt-legacy-log",
+        "type": "npm"
+    },
+    "grunt-legacy-log-utils": {
+        "approx_size": "2596",
+        "key": "grunt-legacy-log-utils",
+        "type": "npm"
+    },
+    "grunt-legacy-util": {
+        "approx_size": "2866",
+        "key": "grunt-legacy-util",
+        "type": "npm"
+    },
+    "har-schema": {
+        "approx_size": "2125",
+        "key": "har-schema",
+        "type": "npm"
+    },
+    "har-validator": {
+        "approx_size": "4989",
+        "key": "har-validator",
+        "type": "npm"
+    },
+    "has": {
+        "approx_size": "2723",
+        "key": "has",
+        "type": "npm"
+    },
+    "has-binary2": {
+        "approx_size": "2146",
+        "key": "has-binary2",
+        "type": "npm"
+    },
+    "has-cors": {
+        "approx_size": "1179",
+        "key": "has-cors",
+        "type": "npm"
+    },
+    "has-flag": {
+        "approx_size": "2514",
+        "key": "has-flag",
+        "type": "npm"
+    },
+    "has-symbols": {
+        "approx_size": "2315",
+        "key": "has-symbols",
+        "type": "npm"
+    },
+    "has-unicode": {
+        "approx_size": "1195",
+        "key": "has-unicode",
+        "type": "npm"
+    },
+    "has-yarn": {
+        "approx_size": "2281",
+        "key": "has-yarn",
+        "type": "npm"
+    },
+    "he": {
+        "approx_size": "4358",
+        "key": "he",
+        "type": "npm"
+    },
+    "homedir-polyfill": {
+        "approx_size": "2609",
+        "key": "homedir-polyfill",
+        "type": "npm"
+    },
+    "hooker": {
+        "approx_size": "1281",
+        "key": "hooker",
+        "type": "npm"
+    },
+    "http-cache-semantics": {
+        "approx_size": "3380",
+        "key": "http-cache-semantics",
+        "type": "npm"
+    },
+    "http-errors": {
+        "approx_size": "4756",
+        "key": "http-errors",
+        "type": "npm"
+    },
+    "http-signature": {
+        "approx_size": "2363",
+        "key": "http-signature",
+        "type": "npm"
+    },
+    "iconv-lite": {
+        "approx_size": "6592",
+        "key": "iconv-lite",
+        "type": "npm"
+    },
+    "ieee754": {
+        "approx_size": "3084",
+        "key": "ieee754",
+        "type": "npm"
+    },
+    "ignore-by-default": {
+        "approx_size": "1247",
+        "key": "ignore-by-default",
+        "type": "npm"
+    },
+    "ignore-walk": {
+        "approx_size": "1972",
+        "key": "ignore-walk",
+        "type": "npm"
+    },
+    "import-lazy": {
+        "approx_size": "2356",
+        "key": "import-lazy",
+        "type": "npm"
+    },
+    "imurmurhash": {
+        "approx_size": "6220",
+        "key": "imurmurhash",
+        "type": "npm"
+    },
+    "indexof": {
+        "approx_size": "658",
+        "key": "indexof",
+        "type": "npm"
+    },
+    "inflight": {
+        "approx_size": "1494",
+        "key": "inflight",
+        "type": "npm"
+    },
+    "inherits": {
+        "approx_size": "3319",
+        "key": "inherits",
+        "type": "npm"
+    },
+    "ini": {
+        "approx_size": "2740",
+        "key": "ini",
+        "type": "npm"
+    },
+    "interpret": {
+        "approx_size": "4797",
+        "key": "interpret",
+        "type": "npm"
+    },
+    "ip-regex": {
+        "approx_size": "2741",
+        "key": "ip-regex",
+        "type": "npm"
+    },
+    "ipaddr.js": {
+        "approx_size": "3954",
+        "key": "ipaddr.js",
+        "type": "npm"
+    },
+    "is-absolute": {
+        "approx_size": "2844",
+        "key": "is-absolute",
+        "type": "npm"
+    },
+    "is-arguments": {
+        "approx_size": "3234",
+        "key": "is-arguments",
+        "type": "npm"
+    },
+    "is-binary-path": {
+        "approx_size": "2573",
+        "key": "is-binary-path",
+        "type": "npm"
+    },
+    "is-buffer": {
+        "approx_size": "3203",
+        "key": "is-buffer",
+        "type": "npm"
+    },
+    "is-callable": {
+        "approx_size": "4546",
+        "key": "is-callable",
+        "type": "npm"
+    },
+    "is-ci": {
+        "approx_size": "2891",
+        "key": "is-ci",
+        "type": "npm"
+    },
+    "is-date-object": {
+        "approx_size": "2005",
+        "key": "is-date-object",
+        "type": "npm"
+    },
+    "is-expression": {
+        "approx_size": "1487",
+        "key": "is-expression",
+        "type": "npm"
+    },
+    "is-extglob": {
+        "approx_size": "1681",
+        "key": "is-extglob",
+        "type": "npm"
+    },
+    "is-fullwidth-code-point": {
+        "approx_size": "2473",
+        "key": "is-fullwidth-code-point",
+        "type": "npm"
+    },
+    "is-generator-function": {
+        "approx_size": "2710",
+        "key": "is-generator-function",
+        "type": "npm"
+    },
+    "is-glob": {
+        "approx_size": "3715",
+        "key": "is-glob",
+        "type": "npm"
+    },
+    "is-installed-globally": {
+        "approx_size": "2534",
+        "key": "is-installed-globally",
+        "type": "npm"
+    },
+    "is-npm": {
+        "approx_size": "2278",
+        "key": "is-npm",
+        "type": "npm"
+    },
+    "is-number": {
+        "approx_size": "3846",
+        "key": "is-number",
+        "type": "npm"
+    },
+    "is-obj": {
+        "approx_size": "2269",
+        "key": "is-obj",
+        "type": "npm"
+    },
+    "is-path-inside": {
+        "approx_size": "2546",
+        "key": "is-path-inside",
+        "type": "npm"
+    },
+    "is-plain-object": {
+        "approx_size": "3618",
+        "key": "is-plain-object",
+        "type": "npm"
+    },
+    "is-promise": {
+        "approx_size": "1218",
+        "key": "is-promise",
+        "type": "npm"
+    },
+    "is-property": {
+        "approx_size": "1246",
+        "key": "is-property",
+        "type": "npm"
+    },
+    "is-regex": {
+        "approx_size": "2274",
+        "key": "is-regex",
+        "type": "npm"
+    },
+    "is-relative": {
+        "approx_size": "2074",
+        "key": "is-relative",
+        "type": "npm"
+    },
+    "is-stream": {
+        "approx_size": "2503",
+        "key": "is-stream",
+        "type": "npm"
+    },
+    "is-symbol": {
+        "approx_size": "3020",
+        "key": "is-symbol",
+        "type": "npm"
+    },
+    "is-typedarray": {
+        "approx_size": "1135",
+        "key": "is-typedarray",
+        "type": "npm"
+    },
+    "is-unc-path": {
+        "approx_size": "1671",
+        "key": "is-unc-path",
+        "type": "npm"
+    },
+    "is-windows": {
+        "approx_size": "2139",
+        "key": "is-windows",
+        "type": "npm"
+    },
+    "is-yarn-global": {
+        "approx_size": "1223",
+        "key": "is-yarn-global",
+        "type": "npm"
+    },
+    "isarray": {
+        "approx_size": "2906",
+        "key": "isarray",
+        "type": "npm"
+    },
+    "isexe": {
+        "approx_size": "1359",
+        "key": "isexe",
+        "type": "npm"
+    },
+    "isobject": {
+        "approx_size": "3534",
+        "key": "isobject",
+        "type": "npm"
+    },
+    "isstream": {
+        "approx_size": "1524",
+        "key": "isstream",
+        "type": "npm"
+    },
+    "javascript-natural-sort": {
+        "approx_size": "1220",
+        "key": "javascript-natural-sort",
+        "type": "npm"
+    },
+    "js-stringify": {
+        "approx_size": "1094",
+        "key": "js-stringify",
+        "type": "npm"
+    },
+    "js-tokens": {
+        "approx_size": "3045",
+        "key": "js-tokens",
+        "type": "npm"
+    },
+    "js-yaml": {
+        "approx_size": "7918",
+        "key": "js-yaml",
+        "type": "npm"
+    },
+    "jsbn": {
+        "approx_size": "1366",
+        "key": "jsbn",
+        "type": "npm"
+    },
+    "json-buffer": {
+        "approx_size": "3083",
+        "key": "json-buffer",
+        "type": "npm"
+    },
+    "json-schema": {
+        "approx_size": "1477",
+        "key": "json-schema",
+        "type": "npm"
+    },
+    "json-schema-traverse": {
+        "approx_size": "2689",
+        "key": "json-schema-traverse",
+        "type": "npm"
+    },
+    "json-stringify-safe": {
+        "approx_size": "2082",
+        "key": "json-stringify-safe",
+        "type": "npm"
+    },
+    "jsonfile": {
+        "approx_size": "6211",
+        "key": "jsonfile",
+        "type": "npm"
+    },
+    "jsprim": {
+        "approx_size": "2195",
+        "key": "jsprim",
+        "type": "npm"
+    },
+    "jssha": {
+        "approx_size": "2011",
+        "key": "jssha",
+        "type": "npm"
+    },
+    "jstransformer": {
+        "approx_size": "1715",
+        "key": "jstransformer",
+        "type": "npm"
+    },
+    "jwa": {
+        "approx_size": "3240",
+        "key": "jwa",
+        "type": "npm"
+    },
+    "jws": {
+        "approx_size": "3447",
+        "key": "jws",
+        "type": "npm"
+    },
+    "keyv": {
+        "approx_size": "3712",
+        "key": "keyv",
+        "type": "npm"
+    },
+    "kind-of": {
+        "approx_size": "3797",
+        "key": "kind-of",
+        "type": "npm"
+    },
+    "latest-version": {
+        "approx_size": "3006",
+        "key": "latest-version",
+        "type": "npm"
+    },
+    "levn": {
+        "approx_size": "1608",
+        "key": "levn",
+        "type": "npm"
+    },
+    "liftoff": {
+        "approx_size": "6325",
+        "key": "liftoff",
+        "type": "npm"
+    },
+    "linebreak": {
+        "approx_size": "2549",
+        "key": "linebreak",
+        "type": "npm"
+    },
+    "locate-path": {
+        "approx_size": "2570",
+        "key": "locate-path",
+        "type": "npm"
+    },
+    "lodash": {
+        "approx_size": "35038",
+        "key": "lodash",
+        "type": "npm"
+    },
+    "lodash.clone": {
+        "approx_size": "2437",
+        "key": "lodash.clone",
+        "type": "npm"
+    },
+    "log-symbols": {
+        "approx_size": "3334",
+        "key": "log-symbols",
+        "type": "npm"
+    },
+    "log4js": {
+        "approx_size": "12530",
+        "key": "log4js",
+        "type": "npm"
+    },
+    "long": {
+        "approx_size": "2891",
+        "key": "long",
+        "type": "npm"
+    },
+    "loose-envify": {
+        "approx_size": "2644",
+        "key": "loose-envify",
+        "type": "npm"
+    },
+    "lowercase-keys": {
+        "approx_size": "2397",
+        "key": "lowercase-keys",
+        "type": "npm"
+    },
+    "lru-cache": {
+        "approx_size": "6952",
+        "key": "lru-cache",
+        "type": "npm"
+    },
+    "m26-js": {
+        "approx_size": "1911",
+        "key": "m26-js",
+        "type": "npm"
+    },
+    "macos-release": {
+        "approx_size": "2495",
+        "key": "macos-release",
+        "type": "npm"
+    },
+    "magic-string": {
+        "approx_size": "6941",
+        "key": "magic-string",
+        "type": "npm"
+    },
+    "make-dir": {
+        "approx_size": "2966",
+        "key": "make-dir",
+        "type": "npm"
+    },
+    "make-iterator": {
+        "approx_size": "2024",
+        "key": "make-iterator",
+        "type": "npm"
+    },
+    "map-cache": {
+        "approx_size": "1578",
+        "key": "map-cache",
+        "type": "npm"
+    },
+    "mathjs": {
+        "approx_size": "18584",
+        "key": "mathjs",
+        "type": "npm"
+    },
+    "media-typer": {
+        "approx_size": "2871",
+        "key": "media-typer",
+        "type": "npm"
+    },
+    "merge-descriptors": {
+        "approx_size": "2649",
+        "key": "merge-descriptors",
+        "type": "npm"
+    },
+    "merge-source-map": {
+        "approx_size": "1873",
+        "key": "merge-source-map",
+        "type": "npm"
+    },
+    "merge-stream": {
+        "approx_size": "3850",
+        "key": "merge-stream",
+        "type": "npm"
+    },
+    "methods": {
+        "approx_size": "2178",
+        "key": "methods",
+        "type": "npm"
+    },
+    "micromatch": {
+        "approx_size": "7153",
+        "key": "micromatch",
+        "type": "npm"
+    },
+    "mime": {
+        "approx_size": "6741",
+        "key": "mime",
+        "type": "npm"
+    },
+    "mime-db": {
+        "approx_size": "5564",
+        "key": "mime-db",
+        "type": "npm"
+    },
+    "mime-types": {
+        "approx_size": "5963",
+        "key": "mime-types",
+        "type": "npm"
+    },
+    "mimic-fn": {
+        "approx_size": "2486",
+        "key": "mimic-fn",
+        "type": "npm"
+    },
+    "mimic-response": {
+        "approx_size": "2333",
+        "key": "mimic-response",
+        "type": "npm"
+    },
+    "minimatch": {
+        "approx_size": "4978",
+        "key": "minimatch",
+        "type": "npm"
+    },
+    "minimist": {
+        "approx_size": "9986",
+        "key": "minimist",
+        "type": "npm"
+    },
+    "minipass": {
+        "approx_size": "4062",
+        "key": "minipass",
+        "type": "npm"
+    },
+    "minizlib": {
+        "approx_size": "2740",
+        "key": "minizlib",
+        "type": "npm"
+    },
+    "mixme": {
+        "approx_size": "3161",
+        "key": "mixme",
+        "type": "npm"
+    },
+    "mkdirp": {
+        "approx_size": "8478",
+        "key": "mkdirp",
+        "type": "npm"
+    },
+    "mocha": {
+        "approx_size": "44613",
+        "key": "mocha",
+        "type": "npm"
+    },
+    "moment": {
+        "approx_size": "26044",
+        "key": "moment",
+        "type": "npm"
+    },
+    "moment-timezone": {
+        "approx_size": "6148",
+        "key": "moment-timezone",
+        "type": "npm"
+    },
+    "morgan": {
+        "approx_size": "11976",
+        "key": "morgan",
+        "type": "npm"
+    },
+    "mpns": {
+        "approx_size": "2179",
+        "key": "mpns",
+        "type": "npm"
+    },
+    "ms": {
+        "approx_size": "6775",
+        "key": "ms",
+        "type": "npm"
+    },
+    "mssql": {
+        "approx_size": "10453",
+        "key": "mssql",
+        "type": "npm"
+    },
+    "mysql": {
+        "approx_size": "15260",
+        "key": "mysql",
+        "type": "npm"
+    },
+    "mysql2": {
+        "approx_size": "9867",
+        "key": "mysql2",
+        "type": "npm"
+    },
+    "named-placeholders": {
+        "approx_size": "2585",
+        "key": "named-placeholders",
+        "type": "npm"
+    },
+    "nan": {
+        "approx_size": "7699",
+        "key": "nan",
+        "type": "npm"
+    },
+    "native-duplexpair": {
+        "approx_size": "2124",
+        "key": "native-duplexpair",
+        "type": "npm"
+    },
+    "needle": {
+        "approx_size": "7958",
+        "key": "needle",
+        "type": "npm"
+    },
+    "negotiator": {
+        "approx_size": "3894",
+        "key": "negotiator",
+        "type": "npm"
+    },
+    "next-tick": {
+        "approx_size": "1614",
+        "key": "next-tick",
+        "type": "npm"
+    },
+    "nice-try": {
+        "approx_size": "2504",
+        "key": "nice-try",
+        "type": "npm"
+    },
+    "node-abort-controller": {
+        "approx_size": "2446",
+        "key": "node-abort-controller",
+        "type": "npm"
+    },
+    "node-environment-flags": {
+        "approx_size": "3365",
+        "key": "node-environment-flags",
+        "type": "npm"
+    },
+    "node-fetch": {
+        "approx_size": "8984",
+        "key": "node-fetch",
+        "type": "npm"
+    },
+    "node-pre-gyp": {
+        "approx_size": "8477",
+        "key": "node-pre-gyp",
+        "type": "npm"
+    },
+    "nodemon": {
+        "approx_size": "24988",
+        "key": "nodemon",
+        "type": "npm"
+    },
+    "nopt": {
+        "approx_size": "3122",
+        "key": "nopt",
+        "type": "npm"
+    },
+    "normalize-path": {
+        "approx_size": "3571",
+        "key": "normalize-path",
+        "type": "npm"
+    },
+    "normalize-url": {
+        "approx_size": "3928",
+        "key": "normalize-url",
+        "type": "npm"
+    },
+    "npm-bundled": {
+        "approx_size": "2566",
+        "key": "npm-bundled",
+        "type": "npm"
+    },
+    "npm-packlist": {
+        "approx_size": "3362",
+        "key": "npm-packlist",
+        "type": "npm"
+    },
+    "npm-run-path": {
+        "approx_size": "2583",
+        "key": "npm-run-path",
+        "type": "npm"
+    },
+    "npmlog": {
+        "approx_size": "2980",
+        "key": "npmlog",
+        "type": "npm"
+    },
+    "nugget": {
+        "approx_size": "2314",
+        "key": "nugget",
+        "type": "npm"
+    },
+    "oauth-sign": {
+        "approx_size": "2731",
+        "key": "oauth-sign",
+        "type": "npm"
+    },
+    "object-assign": {
+        "approx_size": "3463",
+        "key": "object-assign",
+        "type": "npm"
+    },
+    "object-component": {
+        "approx_size": "1078",
+        "key": "object-component",
+        "type": "npm"
+    },
+    "object-inspect": {
+        "approx_size": "3672",
+        "key": "object-inspect",
+        "type": "npm"
+    },
+    "object-is": {
+        "approx_size": "1713",
+        "key": "object-is",
+        "type": "npm"
+    },
+    "object-keys": {
+        "approx_size": "4766",
+        "key": "object-keys",
+        "type": "npm"
+    },
+    "object.assign": {
+        "approx_size": "3991",
+        "key": "object.assign",
+        "type": "npm"
+    },
+    "object.defaults": {
+        "approx_size": "1940",
+        "key": "object.defaults",
+        "type": "npm"
+    },
+    "object.entries": {
+        "approx_size": "3480",
+        "key": "object.entries",
+        "type": "npm"
+    },
+    "object.getownpropertydescriptors": {
+        "approx_size": "2750",
+        "key": "object.getownpropertydescriptors",
+        "type": "npm"
+    },
+    "object.map": {
+        "approx_size": "1835",
+        "key": "object.map",
+        "type": "npm"
+    },
+    "object.pick": {
+        "approx_size": "1911",
+        "key": "object.pick",
+        "type": "npm"
+    },
+    "on-finished": {
+        "approx_size": "2151",
+        "key": "on-finished",
+        "type": "npm"
+    },
+    "on-headers": {
+        "approx_size": "3053",
+        "key": "on-headers",
+        "type": "npm"
+    },
+    "once": {
+        "approx_size": "2043",
+        "key": "once",
+        "type": "npm"
+    },
+    "onetime": {
+        "approx_size": "2788",
+        "key": "onetime",
+        "type": "npm"
+    },
+    "optionator": {
+        "approx_size": "1963",
+        "key": "optionator",
+        "type": "npm"
+    },
+    "os-homedir": {
+        "approx_size": "2636",
+        "key": "os-homedir",
+        "type": "npm"
+    },
+    "os-name": {
+        "approx_size": "2865",
+        "key": "os-name",
+        "type": "npm"
+    },
+    "os-tmpdir": {
+        "approx_size": "2482",
+        "key": "os-tmpdir",
+        "type": "npm"
+    },
+    "osenv": {
+        "approx_size": "2006",
+        "key": "osenv",
+        "type": "npm"
+    },
+    "p-cancelable": {
+        "approx_size": "2858",
+        "key": "p-cancelable",
+        "type": "npm"
+    },
+    "p-finally": {
+        "approx_size": "2409",
+        "key": "p-finally",
+        "type": "npm"
+    },
+    "p-limit": {
+        "approx_size": "2859",
+        "key": "p-limit",
+        "type": "npm"
+    },
+    "p-locate": {
+        "approx_size": "2653",
+        "key": "p-locate",
+        "type": "npm"
+    },
+    "p-try": {
+        "approx_size": "2346",
+        "key": "p-try",
+        "type": "npm"
+    },
+    "package-json": {
+        "approx_size": "3856",
+        "key": "package-json",
+        "type": "npm"
+    },
+    "packet-reader": {
+        "approx_size": "2288",
+        "key": "packet-reader",
+        "type": "npm"
+    },
+    "pako": {
+        "approx_size": "4000",
+        "key": "pako",
+        "type": "npm"
+    },
+    "parse-filepath": {
+        "approx_size": "2580",
+        "key": "parse-filepath",
+        "type": "npm"
+    },
+    "parse-passwd": {
+        "approx_size": "1361",
+        "key": "parse-passwd",
+        "type": "npm"
+    },
+    "parseqs": {
+        "approx_size": "1161",
+        "key": "parseqs",
+        "type": "npm"
+    },
+    "parseuri": {
+        "approx_size": "1178",
+        "key": "parseuri",
+        "type": "npm"
+    },
+    "parseurl": {
+        "approx_size": "3596",
+        "key": "parseurl",
+        "type": "npm"
+    },
+    "path-exists": {
+        "approx_size": "2682",
+        "key": "path-exists",
+        "type": "npm"
+    },
+    "path-is-absolute": {
+        "approx_size": "2640",
+        "key": "path-is-absolute",
+        "type": "npm"
+    },
+    "path-key": {
+        "approx_size": "2471",
+        "key": "path-key",
+        "type": "npm"
+    },
+    "path-parse": {
+        "approx_size": "2474",
+        "key": "path-parse",
+        "type": "npm"
+    },
+    "path-root": {
+        "approx_size": "1449",
+        "key": "path-root",
+        "type": "npm"
+    },
+    "path-root-regex": {
+        "approx_size": "1609",
+        "key": "path-root-regex",
+        "type": "npm"
+    },
+    "path-to-regexp": {
+        "approx_size": "6555",
+        "key": "path-to-regexp",
+        "type": "npm"
+    },
+    "pdfkit": {
+        "approx_size": "8003",
+        "key": "pdfkit",
+        "type": "npm"
+    },
+    "pend": {
+        "approx_size": "1134",
+        "key": "pend",
+        "type": "npm"
+    },
+    "performance-now": {
+        "approx_size": "2288",
+        "key": "performance-now",
+        "type": "npm"
+    },
+    "pg": {
+        "approx_size": "15168",
+        "key": "pg",
+        "type": "npm"
+    },
+    "pg-connection-string": {
+        "approx_size": "2764",
+        "key": "pg-connection-string",
+        "type": "npm"
+    },
+    "pg-int8": {
+        "approx_size": "1138",
+        "key": "pg-int8",
+        "type": "npm"
+    },
+    "pg-pool": {
+        "approx_size": "3627",
+        "key": "pg-pool",
+        "type": "npm"
+    },
+    "pg-types": {
+        "approx_size": "3256",
+        "key": "pg-types",
+        "type": "npm"
+    },
+    "pgpass": {
+        "approx_size": "1816",
+        "key": "pgpass",
+        "type": "npm"
+    },
+    "picomatch": {
+        "approx_size": "3457",
+        "key": "picomatch",
+        "type": "npm"
+    },
+    "png-js": {
+        "approx_size": "2254",
+        "key": "png-js",
+        "type": "npm"
+    },
+    "postgres-array": {
+        "approx_size": "2390",
+        "key": "postgres-array",
+        "type": "npm"
+    },
+    "postgres-bytea": {
+        "approx_size": "2233",
+        "key": "postgres-bytea",
+        "type": "npm"
+    },
+    "postgres-date": {
+        "approx_size": "2410",
+        "key": "postgres-date",
+        "type": "npm"
+    },
+    "postgres-interval": {
+        "approx_size": "2551",
+        "key": "postgres-interval",
+        "type": "npm"
+    },
+    "prelude-ls": {
+        "approx_size": "2090",
+        "key": "prelude-ls",
+        "type": "npm"
+    },
+    "prepend-http": {
+        "approx_size": "2589",
+        "key": "prepend-http",
+        "type": "npm"
+    },
+    "pretty-bytes": {
+        "approx_size": "3781",
+        "key": "pretty-bytes",
+        "type": "npm"
+    },
+    "priorityqueuejs": {
+        "approx_size": "1318",
+        "key": "priorityqueuejs",
+        "type": "npm"
+    },
+    "process": {
+        "approx_size": "2510",
+        "key": "process",
+        "type": "npm"
+    },
+    "progress-stream": {
+        "approx_size": "2349",
+        "key": "progress-stream",
+        "type": "npm"
+    },
+    "promise": {
+        "approx_size": "5978",
+        "key": "promise",
+        "type": "npm"
+    },
+    "prop-types": {
+        "approx_size": "8050",
+        "key": "prop-types",
+        "type": "npm"
+    },
+    "proxy-addr": {
+        "approx_size": "4067",
+        "key": "proxy-addr",
+        "type": "npm"
+    },
+    "psl": {
+        "approx_size": "4786",
+        "key": "psl",
+        "type": "npm"
+    },
+    "pstree.remy": {
+        "approx_size": "2187",
+        "key": "pstree.remy",
+        "type": "npm"
+    },
+    "pug": {
+        "approx_size": "7574",
+        "key": "pug",
+        "type": "npm"
+    },
+    "pug-attrs": {
+        "approx_size": "2173",
+        "key": "pug-attrs",
+        "type": "npm"
+    },
+    "pug-code-gen": {
+        "approx_size": "2583",
+        "key": "pug-code-gen",
+        "type": "npm"
+    },
+    "pug-error": {
+        "approx_size": "2064",
+        "key": "pug-error",
+        "type": "npm"
+    },
+    "pug-filters": {
+        "approx_size": "3208",
+        "key": "pug-filters",
+        "type": "npm"
+    },
+    "pug-lexer": {
+        "approx_size": "2848",
+        "key": "pug-lexer",
+        "type": "npm"
+    },
+    "pug-linker": {
+        "approx_size": "2715",
+        "key": "pug-linker",
+        "type": "npm"
+    },
+    "pug-load": {
+        "approx_size": "2623",
+        "key": "pug-load",
+        "type": "npm"
+    },
+    "pug-parser": {
+        "approx_size": "2548",
+        "key": "pug-parser",
+        "type": "npm"
+    },
+    "pug-runtime": {
+        "approx_size": "2302",
+        "key": "pug-runtime",
+        "type": "npm"
+    },
+    "pug-strip-comments": {
+        "approx_size": "2239",
+        "key": "pug-strip-comments",
+        "type": "npm"
+    },
+    "pug-walk": {
+        "approx_size": "2457",
+        "key": "pug-walk",
+        "type": "npm"
+    },
+    "pump": {
+        "approx_size": "3572",
+        "key": "pump",
+        "type": "npm"
+    },
+    "punycode": {
+        "approx_size": "4062",
+        "key": "punycode",
+        "type": "npm"
+    },
+    "qs": {
+        "approx_size": "9978",
+        "key": "qs",
+        "type": "npm"
+    },
+    "querystring": {
+        "approx_size": "2411",
+        "key": "querystring",
+        "type": "npm"
+    },
+    "quote-stream": {
+        "approx_size": "1659",
+        "key": "quote-stream",
+        "type": "npm"
+    },
+    "random-bytes": {
+        "approx_size": "1535",
+        "key": "random-bytes",
+        "type": "npm"
+    },
+    "range-parser": {
+        "approx_size": "3454",
+        "key": "range-parser",
+        "type": "npm"
+    },
+    "raw-body": {
+        "approx_size": "5402",
+        "key": "raw-body",
+        "type": "npm"
+    },
+    "rc": {
+        "approx_size": "5878",
+        "key": "rc",
+        "type": "npm"
+    },
+    "react": {
+        "approx_size": "28700",
+        "key": "react",
+        "type": "npm"
+    },
+    "react-is": {
+        "approx_size": "7080",
+        "key": "react-is",
+        "type": "npm"
+    },
+    "readable-stream": {
+        "approx_size": "8480",
+        "key": "readable-stream",
+        "type": "npm"
+    },
+    "readdirp": {
+        "approx_size": "4399",
+        "key": "readdirp",
+        "type": "npm"
+    },
+    "rechoir": {
+        "approx_size": "3137",
+        "key": "rechoir",
+        "type": "npm"
+    },
+    "redis": {
+        "approx_size": "14835",
+        "key": "redis",
+        "type": "npm"
+    },
+    "redis-commands": {
+        "approx_size": "3392",
+        "key": "redis-commands",
+        "type": "npm"
+    },
+    "redis-errors": {
+        "approx_size": "1495",
+        "key": "redis-errors",
+        "type": "npm"
+    },
+    "redis-parser": {
+        "approx_size": "2537",
+        "key": "redis-parser",
+        "type": "npm"
+    },
+    "regenerator-runtime": {
+        "approx_size": "3029",
+        "key": "regenerator-runtime",
+        "type": "npm"
+    },
+    "regexp.prototype.flags": {
+        "approx_size": "2514",
+        "key": "regexp.prototype.flags",
+        "type": "npm"
+    },
+    "registry-auth-token": {
+        "approx_size": "3271",
+        "key": "registry-auth-token",
+        "type": "npm"
+    },
+    "registry-url": {
+        "approx_size": "2948",
+        "key": "registry-url",
+        "type": "npm"
+    },
+    "request": {
+        "approx_size": "37431",
+        "key": "request",
+        "type": "npm"
+    },
+    "require-directory": {
+        "approx_size": "2531",
+        "key": "require-directory",
+        "type": "npm"
+    },
+    "require-main-filename": {
+        "approx_size": "2368",
+        "key": "require-main-filename",
+        "type": "npm"
+    },
+    "resolve": {
+        "approx_size": "7401",
+        "key": "resolve",
+        "type": "npm"
+    },
+    "resolve-dir": {
+        "approx_size": "1827",
+        "key": "resolve-dir",
+        "type": "npm"
+    },
+    "responselike": {
+        "approx_size": "1513",
+        "key": "responselike",
+        "type": "npm"
+    },
+    "restructure": {
+        "approx_size": "3436",
+        "key": "restructure",
+        "type": "npm"
+    },
+    "rfdc": {
+        "approx_size": "3160",
+        "key": "rfdc",
+        "type": "npm"
+    },
+    "rhea": {
+        "approx_size": "5177",
+        "key": "rhea",
+        "type": "npm"
+    },
+    "rhea-promise": {
+        "approx_size": "3331",
+        "key": "rhea-promise",
+        "type": "npm"
+    },
+    "rimraf": {
+        "approx_size": "10404",
+        "key": "rimraf",
+        "type": "npm"
+    },
+    "safe-buffer": {
+        "approx_size": "2744",
+        "key": "safe-buffer",
+        "type": "npm"
+    },
+    "safer-buffer": {
+        "approx_size": "1645",
+        "key": "safer-buffer",
+        "type": "npm"
+    },
+    "sax": {
+        "approx_size": "4314",
+        "key": "sax",
+        "type": "npm"
+    },
+    "scope-analyzer": {
+        "approx_size": "3076",
+        "key": "scope-analyzer",
+        "type": "npm"
+    },
+    "seed-random": {
+        "approx_size": "1031",
+        "key": "seed-random",
+        "type": "npm"
+    },
+    "semaphore": {
+        "approx_size": "1452",
+        "key": "semaphore",
+        "type": "npm"
+    },
+    "semver": {
+        "approx_size": "8918",
+        "key": "semver",
+        "type": "npm"
+    },
+    "semver-diff": {
+        "approx_size": "2504",
+        "key": "semver-diff",
+        "type": "npm"
+    },
+    "send": {
+        "approx_size": "6267",
+        "key": "send",
+        "type": "npm"
+    },
+    "seq-queue": {
+        "approx_size": "4672",
+        "key": "seq-queue",
+        "type": "npm"
+    },
+    "serve-static": {
+        "approx_size": "7307",
+        "key": "serve-static",
+        "type": "npm"
+    },
+    "set-blocking": {
+        "approx_size": "1392",
+        "key": "set-blocking",
+        "type": "npm"
+    },
+    "setprototypeof": {
+        "approx_size": "3025",
+        "key": "setprototypeof",
+        "type": "npm"
+    },
+    "shallow-copy": {
+        "approx_size": "1265",
+        "key": "shallow-copy",
+        "type": "npm"
+    },
+    "shebang-command": {
+        "approx_size": "1286",
+        "key": "shebang-command",
+        "type": "npm"
+    },
+    "shebang-regex": {
+        "approx_size": "2319",
+        "key": "shebang-regex",
+        "type": "npm"
+    },
+    "signal-exit": {
+        "approx_size": "2091",
+        "key": "signal-exit",
+        "type": "npm"
+    },
+    "single-line-log": {
+        "approx_size": "2042",
+        "key": "single-line-log",
+        "type": "npm"
+    },
+    "socket.io": {
+        "approx_size": "22538",
+        "key": "socket.io",
+        "type": "npm"
+    },
+    "socket.io-adapter": {
+        "approx_size": "1316",
+        "key": "socket.io-adapter",
+        "type": "npm"
+    },
+    "socket.io-client": {
+        "approx_size": "9394",
+        "key": "socket.io-client",
+        "type": "npm"
+    },
+    "socket.io-parser": {
+        "approx_size": "3626",
+        "key": "socket.io-parser",
+        "type": "npm"
+    },
+    "source-map": {
+        "approx_size": "8409",
+        "key": "source-map",
+        "type": "npm"
+    },
+    "sourcemap-codec": {
+        "approx_size": "3748",
+        "key": "sourcemap-codec",
+        "type": "npm"
+    },
+    "speedometer": {
+        "approx_size": "2392",
+        "key": "speedometer",
+        "type": "npm"
+    },
+    "split": {
+        "approx_size": "3658",
+        "key": "split",
+        "type": "npm"
+    },
+    "sprintf-js": {
+        "approx_size": "3398",
+        "key": "sprintf-js",
+        "type": "npm"
+    },
+    "sql-template-strings": {
+        "approx_size": "2430",
+        "key": "sql-template-strings",
+        "type": "npm"
+    },
+    "sqlite": {
+        "approx_size": "4273",
+        "key": "sqlite",
+        "type": "npm"
+    },
+    "sqlite3": {
+        "approx_size": "9662",
+        "key": "sqlite3",
+        "type": "npm"
+    },
+    "sqlstring": {
+        "approx_size": "2279",
+        "key": "sqlstring",
+        "type": "npm"
+    },
+    "sshpk": {
+        "approx_size": "5180",
+        "key": "sshpk",
+        "type": "npm"
+    },
+    "static-eval": {
+        "approx_size": "4370",
+        "key": "static-eval",
+        "type": "npm"
+    },
+    "static-module": {
+        "approx_size": "5596",
+        "key": "static-module",
+        "type": "npm"
+    },
+    "statuses": {
+        "approx_size": "3203",
+        "key": "statuses",
+        "type": "npm"
+    },
+    "stream-browserify": {
+        "approx_size": "4494",
+        "key": "stream-browserify",
+        "type": "npm"
+    },
+    "stream-transform": {
+        "approx_size": "4440",
+        "key": "stream-transform",
+        "type": "npm"
+    },
+    "streamroller": {
+        "approx_size": "4368",
+        "key": "streamroller",
+        "type": "npm"
+    },
+    "string-width": {
+        "approx_size": "3029",
+        "key": "string-width",
+        "type": "npm"
+    },
+    "string_decoder": {
+        "approx_size": "3282",
+        "key": "string_decoder",
+        "type": "npm"
+    },
+    "strip-ansi": {
+        "approx_size": "3304",
+        "key": "strip-ansi",
+        "type": "npm"
+    },
+    "strip-final-newline": {
+        "approx_size": "2292",
+        "key": "strip-final-newline",
+        "type": "npm"
+    },
+    "strip-json-comments": {
+        "approx_size": "3420",
+        "key": "strip-json-comments",
+        "type": "npm"
+    },
+    "sumchecker": {
+        "approx_size": "3429",
+        "key": "sumchecker",
+        "type": "npm"
+    },
+    "supports-color": {
+        "approx_size": "4270",
+        "key": "supports-color",
+        "type": "npm"
+    },
+    "tar": {
+        "approx_size": "6948",
+        "key": "tar",
+        "type": "npm"
+    },
+    "tcx-js": {
+        "approx_size": "2728",
+        "key": "tcx-js",
+        "type": "npm"
+    },
+    "tedious": {
+        "approx_size": "14769",
+        "key": "tedious",
+        "type": "npm"
+    },
+    "term-size": {
+        "approx_size": "2587",
+        "key": "term-size",
+        "type": "npm"
+    },
+    "throttleit": {
+        "approx_size": "1973",
+        "key": "throttleit",
+        "type": "npm"
+    },
+    "through": {
+        "approx_size": "4399",
+        "key": "through",
+        "type": "npm"
+    },
+    "through2": {
+        "approx_size": "7597",
+        "key": "through2",
+        "type": "npm"
+    },
+    "tiny-emitter": {
+        "approx_size": "3996",
+        "key": "tiny-emitter",
+        "type": "npm"
+    },
+    "tiny-inflate": {
+        "approx_size": "1094",
+        "key": "tiny-inflate",
+        "type": "npm"
+    },
+    "to-array": {
+        "approx_size": "1565",
+        "key": "to-array",
+        "type": "npm"
+    },
+    "to-fast-properties": {
+        "approx_size": "1386",
+        "key": "to-fast-properties",
+        "type": "npm"
+    },
+    "to-readable-stream": {
+        "approx_size": "2428",
+        "key": "to-readable-stream",
+        "type": "npm"
+    },
+    "to-regex-range": {
+        "approx_size": "3872",
+        "key": "to-regex-range",
+        "type": "npm"
+    },
+    "toidentifier": {
+        "approx_size": "2770",
+        "key": "toidentifier",
+        "type": "npm"
+    },
+    "token-stream": {
+        "approx_size": "1236",
+        "key": "token-stream",
+        "type": "npm"
+    },
+    "touch": {
+        "approx_size": "2039",
+        "key": "touch",
+        "type": "npm"
+    },
+    "tough-cookie": {
+        "approx_size": "4871",
+        "key": "tough-cookie",
+        "type": "npm"
+    },
+    "tslib": {
+        "approx_size": "3131",
+        "key": "tslib",
+        "type": "npm"
+    },
+    "tunnel": {
+        "approx_size": "2697",
+        "key": "tunnel",
+        "type": "npm"
+    },
+    "tunnel-agent": {
+        "approx_size": "1671",
+        "key": "tunnel-agent",
+        "type": "npm"
+    },
+    "tweetnacl": {
+        "approx_size": "4202",
+        "key": "tweetnacl",
+        "type": "npm"
+    },
+    "type": {
+        "approx_size": "3720",
+        "key": "type",
+        "type": "npm"
+    },
+    "type-check": {
+        "approx_size": "1614",
+        "key": "type-check",
+        "type": "npm"
+    },
+    "type-fest": {
+        "approx_size": "3000",
+        "key": "type-fest",
+        "type": "npm"
+    },
+    "type-is": {
+        "approx_size": "4836",
+        "key": "type-is",
+        "type": "npm"
+    },
+    "typed-function": {
+        "approx_size": "4016",
+        "key": "typed-function",
+        "type": "npm"
+    },
+    "typedarray": {
+        "approx_size": "1688",
+        "key": "typedarray",
+        "type": "npm"
+    },
+    "typedarray-to-buffer": {
+        "approx_size": "2411",
+        "key": "typedarray-to-buffer",
+        "type": "npm"
+    },
+    "typescript": {
+        "approx_size": "106106",
+        "key": "typescript",
+        "type": "npm"
+    },
+    "uglify-js": {
+        "approx_size": "17135",
+        "key": "uglify-js",
+        "type": "npm"
+    },
+    "uid-safe": {
+        "approx_size": "2763",
+        "key": "uid-safe",
+        "type": "npm"
+    },
+    "unc-path-regex": {
+        "approx_size": "1559",
+        "key": "unc-path-regex",
+        "type": "npm"
+    },
+    "undefsafe": {
+        "approx_size": "1785",
+        "key": "undefsafe",
+        "type": "npm"
+    },
+    "underscore": {
+        "approx_size": "15239",
+        "key": "underscore",
+        "type": "npm"
+    },
+    "underscore.string": {
+        "approx_size": "6395",
+        "key": "underscore.string",
+        "type": "npm"
+    },
+    "unicode-properties": {
+        "approx_size": "2904",
+        "key": "unicode-properties",
+        "type": "npm"
+    },
+    "unicode-trie": {
+        "approx_size": "2457",
+        "key": "unicode-trie",
+        "type": "npm"
+    },
+    "unique-string": {
+        "approx_size": "2377",
+        "key": "unique-string",
+        "type": "npm"
+    },
+    "universal-user-agent": {
+        "approx_size": "3100",
+        "key": "universal-user-agent",
+        "type": "npm"
+    },
+    "universalify": {
+        "approx_size": "2488",
+        "key": "universalify",
+        "type": "npm"
+    },
+    "unpipe": {
+        "approx_size": "1325",
+        "key": "unpipe",
+        "type": "npm"
+    },
+    "update-notifier": {
+        "approx_size": "6398",
+        "key": "update-notifier",
+        "type": "npm"
+    },
+    "uri-js": {
+        "approx_size": "3855",
+        "key": "uri-js",
+        "type": "npm"
+    },
+    "url": {
+        "approx_size": "2782",
+        "key": "url",
+        "type": "npm"
+    },
+    "url-parse-lax": {
+        "approx_size": "2488",
+        "key": "url-parse-lax",
+        "type": "npm"
+    },
+    "util": {
+        "approx_size": "5014",
+        "key": "util",
+        "type": "npm"
+    },
+    "util-deprecate": {
+        "approx_size": "1267",
+        "key": "util-deprecate",
+        "type": "npm"
+    },
+    "utils-merge": {
+        "approx_size": "1495",
+        "key": "utils-merge",
+        "type": "npm"
+    },
+    "uuid": {
+        "approx_size": "9425",
+        "key": "uuid",
+        "type": "npm"
+    },
+    "v8flags": {
+        "approx_size": "4328",
+        "key": "v8flags",
+        "type": "npm"
+    },
+    "validator": {
+        "approx_size": "21376",
+        "key": "validator",
+        "type": "npm"
+    },
+    "vary": {
+        "approx_size": "2158",
+        "key": "vary",
+        "type": "npm"
+    },
+    "verror": {
+        "approx_size": "2840",
+        "key": "verror",
+        "type": "npm"
+    },
+    "void-elements": {
+        "approx_size": "1693",
+        "key": "void-elements",
+        "type": "npm"
+    },
+    "walk": {
+        "approx_size": "3937",
+        "key": "walk",
+        "type": "npm"
+    },
+    "which": {
+        "approx_size": "3967",
+        "key": "which",
+        "type": "npm"
+    },
+    "which-module": {
+        "approx_size": "1381",
+        "key": "which-module",
+        "type": "npm"
+    },
+    "wide-align": {
+        "approx_size": "2683",
+        "key": "wide-align",
+        "type": "npm"
+    },
+    "widest-line": {
+        "approx_size": "2684",
+        "key": "widest-line",
+        "type": "npm"
+    },
+    "windows-release": {
+        "approx_size": "2382",
+        "key": "windows-release",
+        "type": "npm"
+    },
+    "with": {
+        "approx_size": "3246",
+        "key": "with",
+        "type": "npm"
+    },
+    "wns": {
+        "approx_size": "2536",
+        "key": "wns",
+        "type": "npm"
+    },
+    "wordwrap": {
+        "approx_size": "1496",
+        "key": "wordwrap",
+        "type": "npm"
+    },
+    "wrap-ansi": {
+        "approx_size": "3218",
+        "key": "wrap-ansi",
+        "type": "npm"
+    },
+    "wrappy": {
+        "approx_size": "1173",
+        "key": "wrappy",
+        "type": "npm"
+    },
+    "write-file-atomic": {
+        "approx_size": "3756",
+        "key": "write-file-atomic",
+        "type": "npm"
+    },
+    "ws": {
+        "approx_size": "12895",
+        "key": "ws",
+        "type": "npm"
+    },
+    "xdg-basedir": {
+        "approx_size": "2527",
+        "key": "xdg-basedir",
+        "type": "npm"
+    },
+    "xml2js": {
+        "approx_size": "11263",
+        "key": "xml2js",
+        "type": "npm"
+    },
+    "xmlbuilder": {
+        "approx_size": "7139",
+        "key": "xmlbuilder",
+        "type": "npm"
+    },
+    "xmldom": {
+        "approx_size": "3710",
+        "key": "xmldom",
+        "type": "npm"
+    },
+    "xmlhttprequest-ssl": {
+        "approx_size": "2701",
+        "key": "xmlhttprequest-ssl",
+        "type": "npm"
+    },
+    "xpath.js": {
+        "approx_size": "1632",
+        "key": "xpath.js",
+        "type": "npm"
+    },
+    "xregexp": {
+        "approx_size": "4359",
+        "key": "xregexp",
+        "type": "npm"
+    },
+    "xtend": {
+        "approx_size": "3977",
+        "key": "xtend",
+        "type": "npm"
+    },
+    "y18n": {
+        "approx_size": "1828",
+        "key": "y18n",
+        "type": "npm"
+    },
+    "yallist": {
+        "approx_size": "2790",
+        "key": "yallist",
+        "type": "npm"
+    },
+    "yargs": {
+        "approx_size": "25028",
+        "key": "yargs",
+        "type": "npm"
+    },
+    "yargs-parser": {
+        "approx_size": "4754",
+        "key": "yargs-parser",
+        "type": "npm"
+    },
+    "yargs-unparser": {
+        "approx_size": "4145",
+        "key": "yargs-unparser",
+        "type": "npm"
+    },
+    "yauzl": {
+        "approx_size": "2938",
+        "key": "yauzl",
+        "type": "npm"
+    },
+    "yeast": {
+        "approx_size": "1529",
+        "key": "yeast",
+        "type": "npm"
+    }
+}
